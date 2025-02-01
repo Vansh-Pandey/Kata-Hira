@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useAuthStore } from "../store/useAuthStore";
 import { useProfileStore } from "../store/useProfileStore";
 import { useNavigate } from "react-router-dom";
-import "../styling/Leaderboard.css";
+import "../styling/LeaderBoard.css";
 
 const Leaderboard = ({ onClose }) => {
   const { authUser } = useAuthStore(); // Get authentication state
