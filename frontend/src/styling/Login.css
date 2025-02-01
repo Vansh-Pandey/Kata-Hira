@@ -1,0 +1,228 @@
+/* Overlay for the panel */
+.wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Slightly darker semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999; /* Ensure the modal is on top */
+    backdrop-filter: blur(10px); /* Soft blur effect for the background */
+    margin: 0;
+  }
+  
+  /* Panel styling */
+  .panel {
+    background: #ffffff; /* Clean white background */
+    padding: 30px;
+    border-radius: 12px; /* Rounded corners for a modern look */
+    width: 100%;
+    max-width: 400px; /* Set max width for responsiveness */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+    animation: fadeIn 0.3s ease-in-out; /* Smooth appearance effect */
+    position: relative; /* Allows precise positioning of child elements */
+  }
+  
+  /* Animation for panel fade-in */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Header of the panel */
+  .panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .panel-header h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333; /* Darker text for better readability */
+    margin: 0;
+  }
+  
+  .close-btn {
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #888; /* Muted color for the close button */
+    transition: color 0.3s ease;
+  }
+  
+  .close-btn:hover {
+    color: #ff4d4d; /* Highlighted color on hover */
+  }
+  
+  /* Form styling */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px; /* Consistent spacing between inputs */
+  }
+  
+  /* Input fields styling */
+  .input-box {
+    position: relative;
+    width: 90%; /* Ensure it spans the container properly */
+  }
+  
+  .input-box input {
+    width: 100%;
+    padding: 12px 40px; /* Add padding to the left to make room for the icon */
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .input-box input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+    outline: none;
+  }
+  
+  .input-box svg {
+    position: absolute;
+    top: 50%; /* Align vertically */
+    left: 12px; /* Position on the left */
+    transform: translateY(-50%); /* Center vertically within the input field */
+    color: #888; /* Neutral color for icons */
+    font-size: 1.2rem; /* Adjust size as needed */
+    pointer-events: none; /* Prevent interaction with the icon */
+  }
+  .icon-login{
+    position: relative;
+    left: 320px; bottom: 45px;
+    height: 20px;
+    width: 20px;
+  }
+  .message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .message-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+  }
+  
+  .message-error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+  }
+  
+  /* Error message styling */
+  .error-message {
+    color: #ff4d4d;
+    font-size: 0.9rem;
+    margin-top: 5px;
+  }
+  
+  /* Checkbox and forgot password */
+  .remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .remember-forgot label {
+    display: flex;
+    align-items: center;
+    gap: 4px; /* Space between checkbox and label */
+  }
+  
+  .remember-forgot a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s ease;
+  }
+  
+  .remember-forgot a:hover {
+    color: #0056b3;
+  }
+  
+  /* Submit button */
+  .submit {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px; /* Rounded corners for uniformity */
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: background 0.3s ease, transform 0.2s ease;
+  }
+  
+  .submit:hover {
+    background-color: #0056b3;
+    transform: scale(1.02); /* Slight scale effect for interactivity */
+  }
+  
+  .submit:active {
+    background-color: #004085;
+  }
+  
+  /* Register link */
+  .register-link {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+  
+  .register-link p {
+    margin: 0;
+  }
+  
+  .register-link a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .register-link a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 480px) {
+    .panel {
+      padding: 20px;
+    }
+  
+    .panel-header h1 {
+      font-size: 1.5rem;
+    }
+  
+    .input-box input {
+      font-size: 0.9rem;
+    }
+  
+    .submit {
+      font-size: 0.9rem;
+      padding: 10px;
+    }
+  }
+  

@@ -1,0 +1,210 @@
+/* Global Styles */
+* {
+    font-family: monospace;
+    box-sizing: border-box;
+  }
+  
+  /* Overlay */
+  .leaderboard-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+    animation: fadeIn2 0.5s ease-in-out;
+  }
+  
+  @keyframes fadeIn2 {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  /* Leaderboard Container */
+  .leaderboard-section {
+    background: linear-gradient(135deg, #fdfbfb, #ebedee);
+    border-radius: 16px;
+    padding: 24px;
+    width: 90%;
+    max-width: 600px;
+    color: #333;
+    text-align: center;
+    position: relative;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3), 0 0 10px rgba(255, 255, 255, 0.2);
+    overflow: hidden;
+    animation: slideIn2 0.8s ease-out;
+  }
+  
+  @keyframes slideIn2 {
+    from {
+      transform: scale(0.8);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  /* Heading */
+  .leaderboard-heading {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #333;
+    animation: glowText 1.8s infinite alternate;
+  }
+  
+  @keyframes glowText {
+    from {
+      text-shadow: 0 0 10px #cbc5c5, 0 0 20px #b3b3b3;
+    }
+    to {
+      text-shadow: 0 0 20px #ebedee, 0 0 40px #fdfbfb;
+    }
+  }
+  
+  /* Close Button */
+  .close-button {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: #e47d7d;
+    color: white;
+    font-size: 24px;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .close-button:hover {
+    background: #ef0808;
+    transform: scale(1.05) ;
+  }
+  
+  /* Leaderboard List */
+  .leaderboard-list {
+    max-height: 300px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-right: 8px;
+  }
+  
+  .leaderboard-list::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .leaderboard-list::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #b3b3b3, #ebedee);
+    border-radius: 5px;
+  }
+  
+  .leaderboard-list::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(90deg, #cbc5c5, #fdfbfb);
+  }
+  
+  /* Cards */
+  .leaderboard-card {
+    background: linear-gradient(135deg, #ebedee, #fdfbfb);
+    border-radius: 16px;
+    padding: 16px;
+    color: black;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2), 0 0 10px rgba(255, 255, 255, 0.2);
+    position: relative;
+    animation: bounceIn 0.6s ease-out;
+  }
+  
+  @keyframes bounceIn {
+    0% {
+      transform: scale(0.5);
+      opacity: 0;
+    }
+    60% {
+      transform: scale(1.1);
+      opacity: 0.8;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  .leaderboard-card:hover {
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.5), 0 0 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Name and Score */
+  .leaderboard-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .leaderboard-score {
+    font-size: 16px;
+    opacity: 0.8;
+  }
+  
+  /* Floating Particles */
+  .leaderboard-section::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background: radial-gradient(circle at 50% 0, rgba(203, 197, 197, 0.1), transparent 80%);
+    animation: drift 6s infinite ease-in-out;
+  }
+  
+  @keyframes drift {
+    0%, 100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(15px);
+    }
+  }
+  .loading {
+    text-align: center;
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  .leaderboard-rank {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .leaderboard-card {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .leaderboard-card:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  

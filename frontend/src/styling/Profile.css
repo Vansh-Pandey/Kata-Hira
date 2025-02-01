@@ -1,0 +1,217 @@
+/* General Settings */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Overlay for the profile panel */
+  .profile-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Dimmed background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000; /* Ensure it appears on top of other content */
+  }
+  .graph-section {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .graph-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .chart-container {
+    height: 300px;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 500px;
+  }
+  
+  /* Profile Panel */
+  .profile-section {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 800px;
+    max-height: 90vh;
+    overflow-y: auto; /* Enable scrolling for overflow */
+    position: relative;
+    padding: 20px;
+    animation: slideIn 0.3s ease-out; /* Slide-in animation */
+  }
+  
+
+  
+  /* Profile Header */
+  .profile-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-image: url('achievement1.jpg');
+    background-size: cover;
+    border: 2px solid #81c784;
+    margin-right: 20px;
+  }
+  
+  .profile-info .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .profile-info .id {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  /* Quiz Stats Section */
+  .quiz-stats {
+    margin-bottom: 20px;
+  }
+  
+  .stat-heading {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .stats-row {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .stat-block {
+    flex: 1;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .stat-label {
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 5px;
+  }
+  
+  .stat-value {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4caf50;
+  }
+  
+  /* Achievements Section */
+  /* Achievements Section */
+.achievements-section {
+  margin-top: 20px;
+}
+
+.achievement-heading {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Achievements Carousel */
+.achievements-carousel {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto;
+  padding: 10px;
+}
+
+.achievement-card {
+  position: relative;
+  border-radius: 12px;
+  padding: 20px;
+  width: 180px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  color: white; /* Ensure text is visible on bright backgrounds */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Bright Colors */
+.achievement-card.color-1 {
+  background: linear-gradient(135deg, #ff7eb3, #ff758c); /* Pink Gradient */
+}
+
+.achievement-card.color-2 {
+  background: linear-gradient(135deg, #70e1f5, #ffd194); /* Blue & Yellow Gradient */
+}
+
+.achievement-card.color-3 {
+  background: linear-gradient(135deg, #c3f584, #6adbba); /* Green Gradient */
+}
+
+.achievement-card.color-4 {
+  background: linear-gradient(135deg, #ffcc70, #ffa45b); /* Orange Gradient */
+}
+
+.achievement-card.color-5 {
+  background: linear-gradient(135deg, #a18cd1, #fbc2eb); /* Purple & Pink Gradient */
+}
+
+/* Hover Effect */
+.achievement-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Quote Styling */
+.achievement-quote-container {
+  font-size: 1.2rem;
+  font-style: italic;
+  margin: 10px 0;
+}
+
+.achievement-quote {
+  margin: 0;
+  padding: 0;
+}
+
+  /* Progress Section */
+  .progress-section {
+    margin-top: 20px;
+  }
+  
+  .progress-heading {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  canvas {
+    width: 100% !important;
+    max-height: 300px;
+  }
+  
+  /* Slide-in animation for the panel */
+  @keyframes slideIn {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
