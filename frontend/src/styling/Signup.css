@@ -1,11 +1,11 @@
 /* Overlay for the panel */
 .wrapper-2 {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+    top: 0%;
+    left: 5%;
+    width: 90%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.6); /* Slightly darker semi-transparent background */
+     /* Slightly darker semi-transparent background */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,7 +48,7 @@
   
   .reg-icon{
     position: relative;
-    left: 320px; bottom: 45px;
+    left: 330px; bottom: 47px;
     height: 20px;
     width: 20px;
   }
@@ -103,7 +103,7 @@
   }
   
   .input-box input {
-    width: 100%;
+    width: 85%;
     padding: 12px 16px;
     font-size: 1rem;
     border: 1px solid #ddd;

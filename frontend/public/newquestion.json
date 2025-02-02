@@ -1,0 +1,6330 @@
+[
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'budoo'?",
+    "options": [
+      "すばらしい",
+      "ぶどう",
+      "たいへん（な）",
+      "ファーストフードてん"
+    ],
+    "correctAnswer": "ぶどう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'スリランカ'?",
+    "options": ["tsuma", "Suriranka", "soba", "nori"],
+    "correctAnswer": "Suriranka"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct translation of the phrase 'りんごをたべます'?",
+    "options": [
+      "I eat apples",
+      "I drink water",
+      "I read a book",
+      "I go to school"
+    ],
+    "correctAnswer": "I eat apples"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which of the following is the correct way to say 'I will go to the store' in Japanese?",
+    "options": [
+      "みせにいきます",
+      "がっこうにいきます",
+      "いえにかえります",
+      "ほんをよみます"
+    ],
+    "correctAnswer": "みせにいきます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the most appropriate response to the phrase 'おげんきですか？' in a formal setting?",
+    "options": [
+      "はい、おかげさまで",
+      "いいえ、ちがいます",
+      "たのしいです",
+      "おなかがすきました"
+    ],
+    "correctAnswer": "はい、おかげさまで"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which of the following sentences correctly uses the verb 'たべます' in the past tense?",
+    "options": [
+      "きのう、りんごをたべました",
+      "あした、りんごをたべます",
+      "いま、りんごをたべています",
+      "まいにち、りんごをたべます"
+    ],
+    "correctAnswer": "きのう、りんごをたべました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'cola'?",
+    "options": ["アイロン", "コーラ", "バーベキュー", "おどり"],
+    "correctAnswer": "コーラ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct translation of 'わたしはがくせいです'?",
+    "options": [
+      "I am a teacher",
+      "I am a student",
+      "I am a doctor",
+      "I am a chef"
+    ],
+    "correctAnswer": "I am a student"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which of the following is the correct way to say 'I have been studying Japanese for 3 years' in Japanese?",
+    "options": [
+      "わたしはにほんごをさんねんべんきょうしています",
+      "わたしはにほんごをさんねんべんきょうしました",
+      "わたしはにほんごをさんねんべんきょうします",
+      "わたしはにほんごをさんねんべんきょうしていました"
+    ],
+    "correctAnswer": "わたしはにほんごをさんねんべんきょうしています"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'たたみ'?",
+    "options": ["tatami", "futon", "shoji", "tokonoma"],
+    "correctAnswer": "tatami"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct translation of 'かのじょはにほんごがじょうずです'?",
+    "options": [
+      "She is good at Japanese",
+      "He is good at Japanese",
+      "She is bad at Japanese",
+      "He is bad at Japanese"
+    ],
+    "correctAnswer": "She is good at Japanese"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which of the following sentences correctly uses the passive form in Japanese?",
+    "options": [
+      "わたしはともだちにほんをかります",
+      "わたしはともだちにほんをかされました",
+      "わたしはともだちにほんをかしました",
+      "わたしはともだちにほんをかります"
+    ],
+    "correctAnswer": "わたしはともだちにほんをかされました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'friend'?",
+    "options": ["わたしたち", "ともだち", "けいようし", "フランス"],
+    "correctAnswer": "ともだち"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct translation of 'きょうはてんきがいいです'?",
+    "options": [
+      "Today the weather is bad",
+      "Today the weather is good",
+      "Today the weather is cold",
+      "Today the weather is hot"
+    ],
+    "correctAnswer": "Today the weather is good"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which of the following sentences correctly uses the causative form in Japanese?",
+    "options": [
+      "わたしはともだちにほんをよませました",
+      "わたしはともだちにほんをよみました",
+      "わたしはともだちにほんをよみます",
+      "わたしはともだちにほんをよませます"
+    ],
+    "correctAnswer": "わたしはともだちにほんをよませました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'water'?",
+    "options": ["みず", "あめ", "ゆき", "かぜ"],
+    "correctAnswer": "みず"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'このほんはおもしろいです' into English.",
+    "options": [
+      "This book is boring.",
+      "This book is expensive.",
+      "This book is interesting.",
+      "This book is old."
+    ],
+    "correctAnswer": "This book is interesting."
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific form in Japanese?",
+    "options": [
+      "社長は会議にいらっしゃいました",
+      "社長は会議に来ました",
+      "社長は会議にいます",
+      "社長は会議に行きます"
+    ],
+    "correctAnswer": "社長は会議にいらっしゃいました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ねこ'?",
+    "options": ["inu", "neko", "tori", "sakana"],
+    "correctAnswer": "neko"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'あたらしい' mean in English?",
+    "options": ["old", "new", "expensive", "cheap"],
+    "correctAnswer": "new"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which of the following sentences demonstrates correct keigo (polite language) when asking for a favor?",
+    "options": [
+      "これをください",
+      "これをくださいませんか？",
+      "これ、ちょうだい",
+      "これを取って"
+    ],
+    "correctAnswer": "これをくださいませんか？"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'coffee'?",
+    "options": ["コーヒー", "ミルク", "ジュース", "ティー"],
+    "correctAnswer": "コーヒー"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'わたしのなまえはアンナです' into English.",
+    "options": [
+      "My name is Anna.",
+      "I am from Anna.",
+      "This is Anna.",
+      "Anna is my friend."
+    ],
+    "correctAnswer": "My name is Anna."
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which of the following sentences correctly uses the potential form of the verb 'みる' (to see)?",
+    "options": ["みます", "みれる", "みられる", "みさせる"],
+    "correctAnswer": "みられる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'rice'?",
+    "options": ["こめ", "みず", "パン", "うどん"],
+    "correctAnswer": "こめ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does the phrase 'いそがしいです' mean in English?",
+    "options": ["I am busy.", "I am happy.", "I am tired.", "I am hungry."],
+    "correctAnswer": "I am busy."
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the conditional form correctly?",
+    "options": [
+      "もし雨が降ったら、行きます",
+      "もし雨が降れば、行きます",
+      "もし雨なら、行きます",
+      "もし雨が降らないなら、行きます"
+    ],
+    "correctAnswer": "もし雨が降れば、行きます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さくら'?",
+    "options": ["sakura", "momo", "ume", "kiku"],
+    "correctAnswer": "sakura"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'にほんのたべものはおいしいです' into English.",
+    "options": [
+      "Japanese food is delicious.",
+      "Japanese food is expensive.",
+      "Japanese food is unhealthy.",
+      "Japanese food is spicy."
+    ],
+    "correctAnswer": "Japanese food is delicious."
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the volitional form of 'いく' (to go)?",
+    "options": ["いこう", "いきましょう", "いった", "いきます"],
+    "correctAnswer": "いこう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'pizza'?",
+    "options": ["ピザ", "バーガー", "パスタ", "サラダ"],
+    "correctAnswer": "ピザ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'べんきょうする' mean in English?",
+    "options": ["to play", "to study", "to sleep", "to run"],
+    "correctAnswer": "to study"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly demonstrates the use of the 'てしまう' form to indicate completion (often with regret)?",
+    "options": [
+      "宿題をしてしまいました",
+      "宿題をしている",
+      "宿題をします",
+      "宿題をしているところです"
+    ],
+    "correctAnswer": "宿題をしてしまいました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'cat'?",
+    "options": ["いぬ", "ねこ", "とり", "うさぎ"],
+    "correctAnswer": "ねこ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'あのひとはせんせいです' into English.",
+    "options": [
+      "That person is a doctor.",
+      "That person is a teacher.",
+      "That person is a student.",
+      "That person is a friend."
+    ],
+    "correctAnswer": "That person is a teacher."
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the negative past form of 'くる' (to come)?",
+    "options": [
+      "こなかった",
+      "こないでした",
+      "こりませんでした",
+      "こらなかった"
+    ],
+    "correctAnswer": "こなかった"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'いぬ'?",
+    "options": ["neko", "inu", "tori", "sakana"],
+    "correctAnswer": "inu"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'はやい' mean in English when referring to speed?",
+    "options": ["slow", "fast", "tall", "short"],
+    "correctAnswer": "fast"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the 'ている' form to indicate a continuing action?",
+    "options": [
+      "彼は本を読んでいる",
+      "彼は本を読んだ",
+      "彼は本を読む",
+      "彼は本を読むでしょう"
+    ],
+    "correctAnswer": "彼は本を読んでいる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'sandwich'?",
+    "options": ["サンドイッチ", "ハンバーガー", "トースト", "サラダ"],
+    "correctAnswer": "サンドイッチ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'これはわたしのペンです' into English.",
+    "options": [
+      "This is my pencil.",
+      "This is my pen.",
+      "This is your pen.",
+      "This is her pen."
+    ],
+    "correctAnswer": "This is my pen."
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the relative clause to describe a noun?",
+    "options": [
+      "私が昨日見た映画は面白かった",
+      "昨日見た私が映画は面白かった",
+      "昨日見た映画私がは面白かった",
+      "私が見た昨日映画は面白かった"
+    ],
+    "correctAnswer": "私が昨日見た映画は面白かった"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'book'?",
+    "options": ["ほん", "かみ", "ノート", "じしょ"],
+    "correctAnswer": "ほん"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does '静か' (しずか) mean in English?",
+    "options": ["loud", "quiet", "bright", "dark"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the complex sentence structure with 'ながら' to express simultaneous actions?",
+    "options": [
+      "音楽を聞きながら勉強します",
+      "音楽を聞いて勉強します",
+      "音楽を聞くと勉強します",
+      "音楽を聞くために勉強します"
+    ],
+    "correctAnswer": "音楽を聞きながら勉強します"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さようなら'?",
+    "options": ["konbanwa", "ohayou", "sayonara", "arigatou"],
+    "correctAnswer": "sayonara"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '明日は雨が降るかもしれません' into English.",
+    "options": [
+      "It will definitely rain tomorrow.",
+      "It might rain tomorrow.",
+      "It never rains in the summer.",
+      "It is raining now."
+    ],
+    "correctAnswer": "It might rain tomorrow."
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conjunction 'けれども' to express contrast?",
+    "options": [
+      "寒いけれども、外に行きます",
+      "寒い、外に行きます",
+      "寒いので、外に行きません",
+      "寒いと、外に行きます"
+    ],
+    "correctAnswer": "寒いけれども、外に行きます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'sun'?",
+    "options": ["そら", "たいよう", "つき", "ほし"],
+    "correctAnswer": "たいよう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'computer'?",
+    "options": ["コンピュータ", "パソコン", "デスクトップ", "ラップトップ"],
+    "correctAnswer": "コンピュータ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は学生です' into English.",
+    "options": [
+      "I am a student",
+      "I am a teacher",
+      "I am a doctor",
+      "I am a musician"
+    ],
+    "correctAnswer": "I am a student"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'おいしい' mean in English?",
+    "options": ["delicious", "ugly", "boring", "cheap"],
+    "correctAnswer": "delicious"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which of the following uses the proper form for making a polite request in Japanese?",
+    "options": [
+      "ちょっと待ってください",
+      "ちょっと待って",
+      "ちょっと待つ",
+      "ちょっと待ちます"
+    ],
+    "correctAnswer": "ちょっと待ってください"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'こんにちは'?",
+    "options": ["konbanwa", "konnichiwa", "ohayou", "sayonara"],
+    "correctAnswer": "konnichiwa"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'これはペンです' into English.",
+    "options": [
+      "This is a pencil",
+      "This is a pen",
+      "This is a notebook",
+      "This is an eraser"
+    ],
+    "correctAnswer": "This is a pen"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific 'おっしゃる' to mean 'to say'?",
+    "options": [
+      "社長がおっしゃいました",
+      "社長は言いました",
+      "社長が話しました",
+      "社長がおっしゃっている"
+    ],
+    "correctAnswer": "社長がおっしゃいました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'water'?",
+    "options": ["みず", "おちゃ", "こめ", "さかな"],
+    "correctAnswer": "みず"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct translation of '私の家は大きいです'?",
+    "options": [
+      "My house is big",
+      "My house is small",
+      "My house is old",
+      "My house is new"
+    ],
+    "correctAnswer": "My house is big"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the te-form to link two actions in Japanese?",
+    "options": [
+      "音楽を聞いて勉強します",
+      "音楽を聞きます勉強します",
+      "音楽を聞いて、勉強します",
+      "音楽を聞く、勉強する"
+    ],
+    "correctAnswer": "音楽を聞いて、勉強します"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'radio'?",
+    "options": ["ラジオ", "テレビ", "スマホ", "カメラ"],
+    "correctAnswer": "ラジオ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎日走ります' into English.",
+    "options": [
+      "He runs every day",
+      "He eats every day",
+      "He studies every day",
+      "He sleeps every day"
+    ],
+    "correctAnswer": "He runs every day"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates the correct negative form of 'する'?",
+    "options": ["しません", "するな", "しない", "しなくて"],
+    "correctAnswer": "しません"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ありがとう'?",
+    "options": ["arigatou", "sumimasen", "konnichiwa", "sayonara"],
+    "correctAnswer": "arigatou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'たのしい' mean in English?",
+    "options": ["fun", "sad", "boring", "angry"],
+    "correctAnswer": "fun"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form of '見る'?",
+    "options": ["見させる", "見させます", "見せる", "見ます"],
+    "correctAnswer": "見させる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'flower'?",
+    "options": ["はな", "き", "そら", "みず"],
+    "correctAnswer": "はな"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は美しいです' into English.",
+    "options": [
+      "She is beautiful",
+      "He is beautiful",
+      "They are beautiful",
+      "I am beautiful"
+    ],
+    "correctAnswer": "She is beautiful"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '書く' (to write)?",
+    "options": ["書ける", "書きます", "書いた", "書かない"],
+    "correctAnswer": "書ける"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'taxi'?",
+    "options": ["タクシー", "バス", "電車", "自転車"],
+    "correctAnswer": "タクシー"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'すみません' mean in English?",
+    "options": ["Excuse me / I'm sorry", "Thank you", "Hello", "Goodbye"],
+    "correctAnswer": "Excuse me / I'm sorry"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the volitional form to suggest an action?",
+    "options": ["行こう", "行きます", "行った", "行きたい"],
+    "correctAnswer": "行こう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ねずみ'?",
+    "options": ["nezumi", "inu", "neko", "tori"],
+    "correctAnswer": "nezumi"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '明るい部屋' into English.",
+    "options": ["dark room", "bright room", "small room", "old room"],
+    "correctAnswer": "bright room"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the '〜ている' form to indicate a continuing action?",
+    "options": ["彼は走っている", "彼は走った", "彼は走ります", "彼は走る"],
+    "correctAnswer": "彼は走っている"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'book'?",
+    "options": ["ほん", "かみ", "じしょ", "ノート"],
+    "correctAnswer": "ほん"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'しずか' mean in English?",
+    "options": ["quiet", "loud", "happy", "sad"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses 'ので' to express a reason?",
+    "options": [
+      "寒いので、窓を閉めます",
+      "寒いだので、窓を閉めます",
+      "寒いので、窓を開けます",
+      "寒い、窓を閉めます"
+    ],
+    "correctAnswer": "寒いので、窓を閉めます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'salad'?",
+    "options": ["サラダ", "パスタ", "ピザ", "スープ"],
+    "correctAnswer": "サラダ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は音楽が好きです' into English.",
+    "options": [
+      "I like music",
+      "I like sports",
+      "I like books",
+      "I like movies"
+    ],
+    "correctAnswer": "I like music"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional 'たら' form?",
+    "options": [
+      "雨が降ったら、出かけません",
+      "雨が降れば、出かけません",
+      "雨が降らないたら、出かけません",
+      "雨が降るたら、出かけません"
+    ],
+    "correctAnswer": "雨が降ったら、出かけません"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ありがとう'?",
+    "options": ["arigatou", "konbanwa", "ohayou", "sayonara"],
+    "correctAnswer": "arigatou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'くるしい' mean in English?",
+    "options": ["painful", "easy", "fun", "exciting"],
+    "correctAnswer": "painful"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly demonstrates the passive form with '食べる'?",
+    "options": [
+      "私はりんごを食べられた",
+      "私はりんごを食べました",
+      "私はりんごを食べる",
+      "私はりんごを食べられる"
+    ],
+    "correctAnswer": "私はりんごを食べられた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'dog'?",
+    "options": ["いぬ", "ねこ", "とり", "うさぎ"],
+    "correctAnswer": "いぬ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼はサッカーが上手です' into English.",
+    "options": [
+      "He is good at soccer",
+      "He is good at baseball",
+      "He is good at basketball",
+      "He is good at tennis"
+    ],
+    "correctAnswer": "He is good at soccer"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the polite request form for the verb '見る'?",
+    "options": ["見てください", "見ろ", "見なさい", "見よ"],
+    "correctAnswer": "見てください"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'orange' (the fruit)?",
+    "options": ["オレンジ", "アップル", "バナナ", "グレープ"],
+    "correctAnswer": "オレンジ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'げんき' mean in English?",
+    "options": ["healthy", "tired", "hungry", "sad"],
+    "correctAnswer": "healthy"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the imperative form of '来る' (to come)?",
+    "options": ["来い", "来ます", "来た", "来なさい"],
+    "correctAnswer": "来い"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さくら'?",
+    "options": ["sakura", "ume", "momo", "kiku"],
+    "correctAnswer": "sakura"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'この映画は面白いです' into English.",
+    "options": [
+      "This movie is boring",
+      "This movie is interesting",
+      "This movie is old",
+      "This movie is short"
+    ],
+    "correctAnswer": "This movie is interesting"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the auxiliary verb 'らしい' to express hearsay?",
+    "options": [
+      "彼は来るらしい",
+      "彼は来るそうだ",
+      "彼は来るみたいだ",
+      "彼は来ると思う"
+    ],
+    "correctAnswer": "彼は来るらしい"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'tree'?",
+    "options": ["き", "はな", "そら", "みず"],
+    "correctAnswer": "き"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'おもしろい' mean in English?",
+    "options": ["funny", "interesting", "dull", "boring"],
+    "correctAnswer": "interesting"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression 'ながらも' to show contrast?",
+    "options": [
+      "彼は疲れているながらも、働き続けた",
+      "彼は疲れているけれども、働き続けた",
+      "彼は疲れているにもかかわらず、働き続けた",
+      "彼は疲れているので、働き続けた"
+    ],
+    "correctAnswer": "彼は疲れているながらも、働き続けた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'おはよう'?",
+    "options": ["ohayou", "konbanwa", "sayonara", "arigatou"],
+    "correctAnswer": "ohayou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'あなたの名前は何ですか？' into English.",
+    "options": [
+      "What is your name?",
+      "How old are you?",
+      "Where are you from?",
+      "What is your job?"
+    ],
+    "correctAnswer": "What is your name?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the 'ば' conditional form?",
+    "options": [
+      "もし時間があれば、手伝います",
+      "もし時間があったら、手伝います",
+      "もし時間があるなら、手伝います",
+      "もし時間があろう、手伝います"
+    ],
+    "correctAnswer": "もし時間があれば、手伝います"
+  },
+
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'bus'?",
+    "options": ["バス", "トラック", "タクシー", "シート"],
+    "correctAnswer": "バス"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'rain'?",
+    "options": ["あめ", "ゆき", "かぜ", "ほし"],
+    "correctAnswer": "あめ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '毎朝ジョギングします' into English.",
+    "options": [
+      "I jog every morning",
+      "I sleep every morning",
+      "I read every morning",
+      "I work every morning"
+    ],
+    "correctAnswer": "I jog every morning"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the polite negative form of '飲む' correctly?",
+    "options": [
+      "飲みません",
+      "飲まないです",
+      "飲みませんでした",
+      "飲みませんだ"
+    ],
+    "correctAnswer": "飲みません"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '話す' (to speak)?",
+    "options": ["話せる", "話す", "話した", "話せた"],
+    "correctAnswer": "話せる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'こんにちは'?",
+    "options": ["konbanwa", "ohayou", "konnichiwa", "sayonara"],
+    "correctAnswer": "konnichiwa"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '明るい笑顔' into English.",
+    "options": ["bright smile", "happy face", "big smile", "sad smile"],
+    "correctAnswer": "bright smile"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence demonstrates correct use of the passive form with '教える'?",
+    "options": [
+      "先生に教えられた",
+      "先生が教えた",
+      "先生に教えます",
+      "先生が教えられた"
+    ],
+    "correctAnswer": "先生に教えられた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'milk'?",
+    "options": ["ミルク", "コーヒー", "ジュース", "ビール"],
+    "correctAnswer": "ミルク"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'おそい' mean in English?",
+    "options": ["fast", "late", "early", "tired"],
+    "correctAnswer": "late"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form of '書く' (to write)?",
+    "options": ["書かせる", "書きます", "書かない", "書かせました"],
+    "correctAnswer": "書かせる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'child'?",
+    "options": ["こども", "おとな", "にんげん", "せんせい"],
+    "correctAnswer": "こども"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎週映画を見ます' into English.",
+    "options": [
+      "He watches movies every week",
+      "He writes every week",
+      "He runs every week",
+      "He sleeps every week"
+    ],
+    "correctAnswer": "He watches movies every week"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the negative te-form in a compound sentence?",
+    "options": [
+      "せっかく作ったのに、終わらせなくて",
+      "せっかく作ったのに、終わらせずに",
+      "せっかく作ったのに、終わりませんで",
+      "せっかく作ったのに、終わらせないで"
+    ],
+    "correctAnswer": "せっかく作ったのに、終わらせずに"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ありがとう'?",
+    "options": ["arigatou", "sayonara", "ohayou", "konnichiwa"],
+    "correctAnswer": "arigatou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'しんせつ' mean in English?",
+    "options": ["kind", "angry", "tired", "busy"],
+    "correctAnswer": "kind"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a relative clause in Japanese?",
+    "options": [
+      "昨日買った本は面白い",
+      "昨日本を買ったは面白い",
+      "買った昨日の本は面白い",
+      "本を昨日買ったは面白い"
+    ],
+    "correctAnswer": "昨日買った本は面白い"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'ice cream'?",
+    "options": ["アイスクリーム", "チョコレート", "ケーキ", "コーヒー"],
+    "correctAnswer": "アイスクリーム"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女はピアノを弾きます' into English.",
+    "options": [
+      "She plays the piano",
+      "She sings the piano",
+      "She writes the piano",
+      "She listens to the piano"
+    ],
+    "correctAnswer": "She plays the piano"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past continuous form in Japanese?",
+    "options": [
+      "彼は勉強していた",
+      "彼は勉強している",
+      "彼は勉強した",
+      "彼は勉強する"
+    ],
+    "correctAnswer": "彼は勉強していた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'flower'?",
+    "options": ["はな", "くさ", "みず", "き"],
+    "correctAnswer": "はな"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '今日は忙しいです' into English.",
+    "options": [
+      "Today is busy",
+      "Today is quiet",
+      "Today is sunny",
+      "Today is cold"
+    ],
+    "correctAnswer": "Today is busy"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the correct particle to indicate means or method?",
+    "options": [
+      "電車で行きます",
+      "電車に行きます",
+      "電車を行きます",
+      "電車と行きます"
+    ],
+    "correctAnswer": "電車で行きます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さようなら'?",
+    "options": ["sayonara", "ohayou", "konnichiwa", "arigatou"],
+    "correctAnswer": "sayonara"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'おもしろい' mean in English?",
+    "options": ["interesting", "boring", "happy", "sad"],
+    "correctAnswer": "interesting"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly demonstrates the use of 'たら' to express a condition?",
+    "options": [
+      "雨が降ったら、出かけません",
+      "雨が降れば、出かけません",
+      "雨が降るなら、出かけません",
+      "雨が降るたら、出かけません"
+    ],
+    "correctAnswer": "雨が降ったら、出かけません"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'beer'?",
+    "options": ["ビール", "ワイン", "サケ", "ジュース"],
+    "correctAnswer": "ビール"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私たちは友達です' into English.",
+    "options": [
+      "We are friends",
+      "We are enemies",
+      "We are family",
+      "We are students"
+    ],
+    "correctAnswer": "We are friends"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the volitional form to invite someone?",
+    "options": ["行こう", "行きます", "行きたい", "行きましょう"],
+    "correctAnswer": "行きましょう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'cat'?",
+    "options": ["ねこ", "いぬ", "とり", "うさぎ"],
+    "correctAnswer": "ねこ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼はよく料理を作ります' into English.",
+    "options": [
+      "He cooks well",
+      "He eats well",
+      "He sings well",
+      "He dances well"
+    ],
+    "correctAnswer": "He cooks well"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the proper structure for an embedded question?",
+    "options": [
+      "何を食べたいか分かりません",
+      "何を食べたいか、分かりません",
+      "何を食べたい、か分かりません",
+      "何を、食べたいか分かりません"
+    ],
+    "correctAnswer": "何を食べたいか分かりません"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'すみません'?",
+    "options": ["sumimasen", "arigatou", "konbanwa", "ohayou"],
+    "correctAnswer": "sumimasen"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'あたらしい' mean in English?",
+    "options": ["new", "old", "expensive", "cheap"],
+    "correctAnswer": "new"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past passive form of '見る'?",
+    "options": ["見られた", "見られたの", "見られました", "見せられた"],
+    "correctAnswer": "見られた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'chocolate'?",
+    "options": ["チョコレート", "ケーキ", "アイス", "クッキー"],
+    "correctAnswer": "チョコレート"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は背が高いです' into English.",
+    "options": ["He is tall", "He is short", "He is heavy", "He is strong"],
+    "correctAnswer": "He is tall"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression 'ながら' to indicate simultaneous actions?",
+    "options": [
+      "音楽を聴きながら勉強します",
+      "音楽を聴いて勉強します",
+      "音楽を聴くと勉強します",
+      "音楽を聴くために勉強します"
+    ],
+    "correctAnswer": "音楽を聴きながら勉強します"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'mountain'?",
+    "options": ["やま", "かわ", "うみ", "そら"],
+    "correctAnswer": "やま"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'これは私の車です' into English.",
+    "options": [
+      "This is my car",
+      "This is my house",
+      "This is my bike",
+      "This is my book"
+    ],
+    "correctAnswer": "This is my car"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a double negative in Japanese?",
+    "options": [
+      "何も知らない",
+      "何も知りません",
+      "何も知らないではない",
+      "何も知らなくはない"
+    ],
+    "correctAnswer": "何も知らなくはない"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'おやすみ'?",
+    "options": ["oyasumi", "ohayou", "konbanwa", "sayonara"],
+    "correctAnswer": "oyasumi"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'むずかしい' mean in English?",
+    "options": ["difficult", "easy", "fast", "slow"],
+    "correctAnswer": "difficult"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression 'ばよかった' to express regret?",
+    "options": [
+      "もっと早く起きればよかった",
+      "もっと早く起きたらよかった",
+      "もっと早く起きればよかったです",
+      "もっと早く起きたらよかったです"
+    ],
+    "correctAnswer": "もっと早く起きればよかった"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'すごい'?",
+    "options": ["sugoi", "samui", "subarashii", "suki"],
+    "correctAnswer": "sugoi"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does 'にぎやか' mean in English?",
+    "options": ["lively", "quiet", "empty", "dark"],
+    "correctAnswer": "lively"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the compound adjective connector 'くて'?",
+    "options": [
+      "このりんごは甘くて美味しい",
+      "このりんごは甘い、美味しい",
+      "このりんごは甘いくて美味しい",
+      "このりんごは甘く、美味しい"
+    ],
+    "correctAnswer": "このりんごは甘くて美味しい"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'morning'?",
+    "options": ["あさ", "よる", "ひる", "あいさつ"],
+    "correctAnswer": "あさ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'microphone'?",
+    "options": ["マイク", "マイコ", "メイク", "マイキ"],
+    "correctAnswer": "マイク"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は速く走ります' into English.",
+    "options": [
+      "He runs slowly",
+      "He runs quickly",
+      "He walks quickly",
+      "He drives quickly"
+    ],
+    "correctAnswer": "He runs quickly"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the te-form correctly to express continuous action?",
+    "options": ["彼は歌っている", "彼は歌った", "彼は歌います", "彼は歌おう"],
+    "correctAnswer": "彼は歌っている"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific expression for 'to do'?",
+    "options": ["なさいます", "します", "してくださいます", "なして"],
+    "correctAnswer": "なさいます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さよなら'?",
+    "options": ["sayonara", "sayounara", "sayonraa", "sayanara"],
+    "correctAnswer": "sayonara"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は本を読みます' into English.",
+    "options": [
+      "She reads a book",
+      "She writes a book",
+      "She listens to a book",
+      "She sees a book"
+    ],
+    "correctAnswer": "She reads a book"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which of the following is the correct volitional form of '行く' (to go)?",
+    "options": ["行こう", "行きます", "行く", "行かない"],
+    "correctAnswer": "行こう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'star'?",
+    "options": ["ほし", "つき", "そら", "かぜ"],
+    "correctAnswer": "ほし"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'この料理は美味しいです' into English.",
+    "options": [
+      "This dish is delicious",
+      "This dish is ugly",
+      "This dish is spicy",
+      "This dish is sour"
+    ],
+    "correctAnswer": "This dish is delicious"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the conditional form correctly?",
+    "options": [
+      "もし時間があれば、遊びます",
+      "もし時間があったら、遊びます",
+      "もし時間があるなら、遊びます",
+      "もし時間があろう、遊びます"
+    ],
+    "correctAnswer": "もし時間があれば、遊びます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'burger'?",
+    "options": ["バーガー", "ビュガー", "バガー", "バーガ"],
+    "correctAnswer": "バーガー"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は大学で勉強しています' into English.",
+    "options": [
+      "He is studying at a university",
+      "He studies at a high school",
+      "He is working at a university",
+      "He teaches at a university"
+    ],
+    "correctAnswer": "He is studying at a university"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form of '食べる' (to eat)?",
+    "options": ["食べさせる", "食べます", "食べない", "食べさせました"],
+    "correctAnswer": "食べさせる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'rainbow'?",
+    "options": ["にじ", "あめ", "そら", "くも"],
+    "correctAnswer": "にじ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'これは私のペンです' into English.",
+    "options": [
+      "This is my pen",
+      "This is my book",
+      "This is my pencil",
+      "This is my car"
+    ],
+    "correctAnswer": "This is my pen"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '見る' (to see)?",
+    "options": ["見られる", "見れる", "見ます", "見させる"],
+    "correctAnswer": "見られる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'おはよう'?",
+    "options": ["ohayou", "ohayo", "ohayoo", "ohayouu"],
+    "correctAnswer": "ohayou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '犬が公園で遊んでいます' into English.",
+    "options": [
+      "The dog is playing in the park",
+      "The cat is sleeping in the park",
+      "The dog is running in the park",
+      "The dog is eating in the park"
+    ],
+    "correctAnswer": "The dog is playing in the park"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the negative te-form to indicate incomplete action?",
+    "options": [
+      "宿題をしていなくて",
+      "宿題をしてなくて",
+      "宿題をしていなく",
+      "宿題をしてなくて"
+    ],
+    "correctAnswer": "宿題をしていなくて"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'sushi'?",
+    "options": ["スシ", "スシー", "シシ", "スシィ"],
+    "correctAnswer": "スシ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は遅刻しました' into English.",
+    "options": [
+      "He was late",
+      "He arrived early",
+      "He left quickly",
+      "He slept in"
+    ],
+    "correctAnswer": "He was late"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the comparative form in Japanese?",
+    "options": [
+      "彼は私より背が高い",
+      "彼は私よりも背が高い",
+      "彼は私より背が高かった",
+      "彼は私よりも背が高かった"
+    ],
+    "correctAnswer": "彼は私よりも背が高い"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'night'?",
+    "options": ["よる", "あさ", "ひる", "ゆうべ"],
+    "correctAnswer": "よる"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'この本は面白いです' into English.",
+    "options": [
+      "This book is interesting",
+      "This book is boring",
+      "This book is heavy",
+      "This book is old"
+    ],
+    "correctAnswer": "This book is interesting"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the continuous form of '話す'?",
+    "options": ["彼は話している", "彼は話す", "彼は話した", "彼は話そう"],
+    "correctAnswer": "彼は話している"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'こんばんは'?",
+    "options": ["konbanwa", "konichiwa", "konbanha", "konbannwa"],
+    "correctAnswer": "konbanwa"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は毎日コーヒーを飲みます' into English.",
+    "options": [
+      "She drinks coffee every day",
+      "She eats coffee every day",
+      "She makes coffee every day",
+      "She sells coffee every day"
+    ],
+    "correctAnswer": "She drinks coffee every day"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the future tense in Japanese?",
+    "options": [
+      "明日、行きます",
+      "昨日、行きました",
+      "今、行っています",
+      "行ってください"
+    ],
+    "correctAnswer": "明日、行きます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'hamburger'?",
+    "options": ["ハンバーガー", "バーガー", "ハンバガー", "ハンバーガ"],
+    "correctAnswer": "ハンバーガー"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私の名前は田中です' into English.",
+    "options": [
+      "My name is Tanaka",
+      "My name is Suzuki",
+      "My name is Sato",
+      "My name is Yamada"
+    ],
+    "correctAnswer": "My name is Tanaka"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the polite request form with 'ください'?",
+    "options": [
+      "ちょっと待ってください",
+      "ちょっと待って",
+      "ちょっと待ちます",
+      "ちょっと待とう"
+    ],
+    "correctAnswer": "ちょっと待ってください"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'wind'?",
+    "options": ["かぜ", "そら", "ゆき", "はな"],
+    "correctAnswer": "かぜ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'このりんごは甘いです' into English.",
+    "options": [
+      "This apple is sweet",
+      "This apple is sour",
+      "This apple is bitter",
+      "This apple is spicy"
+    ],
+    "correctAnswer": "This apple is sweet"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the imperative form of '飲む'?",
+    "options": ["飲め", "飲みます", "飲んで", "飲もう"],
+    "correctAnswer": "飲め"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さくらんぼ'?",
+    "options": ["sakuranbo", "sakuranboo", "sakuranboh", "sakurambo"],
+    "correctAnswer": "sakuranbo"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼らは公園で遊んでいます' into English.",
+    "options": [
+      "They are playing in the park",
+      "They are studying in the park",
+      "They are working in the park",
+      "They are sleeping in the park"
+    ],
+    "correctAnswer": "They are playing in the park"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the te-form to connect actions?",
+    "options": [
+      "音楽を聴いて踊ります",
+      "音楽を聴いで踊ります",
+      "音楽を聴きで踊ります",
+      "音楽を聴いて、踊ります"
+    ],
+    "correctAnswer": "音楽を聴いて踊ります"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'salmon'?",
+    "options": ["サーモン", "サルモン", "サモン", "サーモ"],
+    "correctAnswer": "サーモン"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'この映画は感動的です' into English.",
+    "options": [
+      "This movie is moving",
+      "This movie is funny",
+      "This movie is boring",
+      "This movie is confusing"
+    ],
+    "correctAnswer": "This movie is moving"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past perfect form in Japanese?",
+    "options": [
+      "彼はすでに食べ終わっていた",
+      "彼はすでに食べ終わっている",
+      "彼はすでに食べ終わった",
+      "彼はすでに食べ終わる"
+    ],
+    "correctAnswer": "彼はすでに食べ終わっていた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'がっこう'?",
+    "options": ["gakkou", "gakko", "gakukou", "gakku"],
+    "correctAnswer": "gakkou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は静かに話します' into English.",
+    "options": [
+      "He speaks quietly",
+      "He speaks loudly",
+      "He speaks rapidly",
+      "He speaks angrily"
+    ],
+    "correctAnswer": "He speaks quietly"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific 'お召し上がりになる' for 'to eat'?",
+    "options": [
+      "社長がお召し上がりになりました",
+      "社長が食べました",
+      "社長は食べます",
+      "社長がお食べになる"
+    ],
+    "correctAnswer": "社長がお召し上がりになりました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'bird'?",
+    "options": ["とり", "ねこ", "いぬ", "さかな"],
+    "correctAnswer": "とり"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女はピアノが上手です' into English.",
+    "options": [
+      "She is good at playing the piano",
+      "She is good at singing",
+      "She is good at dancing",
+      "She is good at drawing"
+    ],
+    "correctAnswer": "She is good at playing the piano"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional form with 'なら'?",
+    "options": [
+      "それなら、行きましょう",
+      "それなら、行きます",
+      "それなら、行った",
+      "それなら、行く"
+    ],
+    "correctAnswer": "それなら、行きましょう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'しずか'?",
+    "options": ["shizuka", "suzuka", "shisuka", "shizuk"],
+    "correctAnswer": "shizuka"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は映画を見るのが好きです' into English.",
+    "options": [
+      "I like watching movies",
+      "I like reading movies",
+      "I like making movies",
+      "I like writing movies"
+    ],
+    "correctAnswer": "I like watching movies"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the command form for '行く' in a casual context?",
+    "options": ["行け", "行きなさい", "行って", "行きます"],
+    "correctAnswer": "行け"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'apple'?",
+    "options": ["りんご", "みかん", "バナナ", "ぶどう"],
+    "correctAnswer": "りんご"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'computer'?",
+    "options": ["コンピュータ", "パソコン", "コンピューター", "デスクトップ"],
+    "correctAnswer": "コンピュータ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は学生です' into English.",
+    "options": [
+      "I am a student",
+      "I am a teacher",
+      "I am a doctor",
+      "I am a musician"
+    ],
+    "correctAnswer": "I am a student"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the te-form of '食べる' (to eat) to make a request?",
+    "options": ["食べてください", "食べて", "食べてくれ", "食べた"],
+    "correctAnswer": "食べてください"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '書く' (to write)?",
+    "options": ["書ける", "書くことができる", "書きられる", "書かれる"],
+    "correctAnswer": "書ける"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'こんにちは'?",
+    "options": ["konbanwa", "konnichiwa", "ohayou", "sayonara"],
+    "correctAnswer": "konnichiwa"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎日走ります' into English.",
+    "options": [
+      "He runs every day",
+      "He walks every day",
+      "He jumps every day",
+      "He sleeps every day"
+    ],
+    "correctAnswer": "He runs every day"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific form of '行く' (to go)?",
+    "options": ["いらっしゃいます", "行きます", "行かれます", "参ります"],
+    "correctAnswer": "いらっしゃいます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'water'?",
+    "options": ["みず", "おちゃ", "こめ", "ゆき"],
+    "correctAnswer": "みず"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'この本は面白いです' into English.",
+    "options": [
+      "This book is interesting",
+      "This book is boring",
+      "This book is heavy",
+      "This book is light"
+    ],
+    "correctAnswer": "This book is interesting"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form of '話す' (to speak)?",
+    "options": ["話させる", "話す", "話される", "話せる"],
+    "correctAnswer": "話させる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'sushi'?",
+    "options": ["スシ", "スシー", "スッシ", "シシ"],
+    "correctAnswer": "スシ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は音楽を聴きます' into English.",
+    "options": [
+      "She listens to music",
+      "She sings music",
+      "She plays music",
+      "She writes music"
+    ],
+    "correctAnswer": "She listens to music"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the passive form of '見る' (to see)?",
+    "options": ["見られる", "見える", "見せられる", "見られた"],
+    "correctAnswer": "見られる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ありがとう'?",
+    "options": ["arigatou", "arigato", "arigatouu", "arigatouo"],
+    "correctAnswer": "arigatou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は車を運転します' into English.",
+    "options": [
+      "He drives a car",
+      "He rides a bike",
+      "He flies a plane",
+      "He walks"
+    ],
+    "correctAnswer": "He drives a car"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional form with 'たら'?",
+    "options": [
+      "もし雨が降ったら、行きません",
+      "もし雨が降れば、行きません",
+      "もし雨が降るなら、行きません",
+      "もし雨が降るたら、行きません"
+    ],
+    "correctAnswer": "もし雨が降ったら、行きません"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'cat'?",
+    "options": ["ねこ", "いぬ", "とり", "うさぎ"],
+    "correctAnswer": "ねこ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '今日は暑いです' into English.",
+    "options": [
+      "It is hot today",
+      "It is cold today",
+      "It is windy today",
+      "It is rainy today"
+    ],
+    "correctAnswer": "It is hot today"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the volitional form of '行く' (to go) to suggest an action?",
+    "options": ["行こう", "行きましょう", "行きたい", "行け"],
+    "correctAnswer": "行きましょう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'coffee'?",
+    "options": ["コーヒー", "カフェ", "コヒー", "コーヒ"],
+    "correctAnswer": "コーヒー"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は美しいです' into English.",
+    "options": [
+      "She is beautiful",
+      "She is smart",
+      "She is strong",
+      "She is funny"
+    ],
+    "correctAnswer": "She is beautiful"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the passive form of '食べる' (to eat)?",
+    "options": ["食べられる", "食べれる", "食べさせられる", "食べられた"],
+    "correctAnswer": "食べられる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さようなら'?",
+    "options": ["sayonara", "sayonaraa", "sayounara", "sayonarah"],
+    "correctAnswer": "sayonara"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は日本語を勉強しています' into English.",
+    "options": [
+      "I am studying Japanese",
+      "I study Japanese",
+      "I will study Japanese",
+      "I have studied Japanese"
+    ],
+    "correctAnswer": "I am studying Japanese"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative-passive form of 'する' (to do)?",
+    "options": ["させられる", "させる", "される", "する"],
+    "correctAnswer": "させられる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'flower'?",
+    "options": ["はな", "き", "くさ", "みず"],
+    "correctAnswer": "はな"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は速く走りました' into English.",
+    "options": [
+      "He ran fast",
+      "He ran slowly",
+      "He walks fast",
+      "He walked slowly"
+    ],
+    "correctAnswer": "He ran fast"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the negative form of '話す' (to speak) in the past?",
+    "options": [
+      "話さなかった",
+      "話せなかった",
+      "話さなかったです",
+      "話せなかったです"
+    ],
+    "correctAnswer": "話さなかった"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'radio'?",
+    "options": ["ラジオ", "テレビ", "ラディオ", "ラジオー"],
+    "correctAnswer": "ラジオ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女はケーキを作ります' into English.",
+    "options": [
+      "She makes a cake",
+      "She eats a cake",
+      "She bakes a cake",
+      "She buys a cake"
+    ],
+    "correctAnswer": "She makes a cake"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past continuous form of '読む' (to read)?",
+    "options": ["読んでいた", "読んでいる", "読んだ", "読んでいます"],
+    "correctAnswer": "読んでいた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'おやすみ'?",
+    "options": ["oyasumi", "oyasum", "oyasumii", "oyasumiya"],
+    "correctAnswer": "oyasumi"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私たちは友達です' into English.",
+    "options": [
+      "We are friends",
+      "We are family",
+      "We are colleagues",
+      "We are neighbors"
+    ],
+    "correctAnswer": "We are friends"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the te-form to connect two actions in a compound sentence?",
+    "options": [
+      "音楽を聴いて踊る",
+      "音楽を聴き踊る",
+      "音楽を聴いて、踊る",
+      "音楽を聴き、踊る"
+    ],
+    "correctAnswer": "音楽を聴いて、踊る"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'dog'?",
+    "options": ["いぬ", "ねこ", "とり", "うさぎ"],
+    "correctAnswer": "いぬ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '今日は寒いです' into English.",
+    "options": [
+      "It is cold today",
+      "It is hot today",
+      "It is windy today",
+      "It is rainy today"
+    ],
+    "correctAnswer": "It is cold today"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the relative clause to modify a noun?",
+    "options": [
+      "昨日買った本は面白い",
+      "昨日買ったの本は面白い",
+      "昨日の買った本は面白い",
+      "昨日買った本は、面白い"
+    ],
+    "correctAnswer": "昨日買った本は面白い"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'pizza'?",
+    "options": ["ピザ", "パイザ", "ピッザ", "ピザー"],
+    "correctAnswer": "ピザ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎朝コーヒーを飲みます' into English.",
+    "options": [
+      "He drinks coffee every morning",
+      "He eats coffee every morning",
+      "He makes coffee every morning",
+      "He serves coffee every morning"
+    ],
+    "correctAnswer": "He drinks coffee every morning"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the negative te-form with 'くれる'?",
+    "options": ["くれなくて", "くれなく", "くれなくて", "くれなかった"],
+    "correctAnswer": "くれなくて"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'すごい'?",
+    "options": ["sugoi", "sugoy", "sugoie", "sugoii"],
+    "correctAnswer": "sugoi"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'この映画は感動的です' into English.",
+    "options": [
+      "This movie is moving",
+      "This movie is boring",
+      "This movie is scary",
+      "This movie is funny"
+    ],
+    "correctAnswer": "This movie is moving"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional 'なら' to express a suggestion?",
+    "options": [
+      "それなら、行こう",
+      "それなら、行きます",
+      "それなら、行った",
+      "それなら、行かない"
+    ],
+    "correctAnswer": "それなら、行こう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'bird'?",
+    "options": ["とり", "ねこ", "いぬ", "うさぎ"],
+    "correctAnswer": "とり"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は毎晩本を読みます' into English.",
+    "options": [
+      "She reads a book every night",
+      "She writes a book every night",
+      "She watches a book every night",
+      "She listens to a book every night"
+    ],
+    "correctAnswer": "She reads a book every night"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the command form of '止まる' (to stop)?",
+    "options": ["止まれ", "止まりなさい", "止まって", "止まります"],
+    "correctAnswer": "止まれ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ばいばい'?",
+    "options": ["baibai", "bye bye", "bai bai", "bai-bai"],
+    "correctAnswer": "baibai"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は静かに話します' into English.",
+    "options": [
+      "He speaks quietly",
+      "He speaks loudly",
+      "He speaks rapidly",
+      "He speaks softly"
+    ],
+    "correctAnswer": "He speaks quietly"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression 'ながらも' to show contrast?",
+    "options": [
+      "彼は疲れているながらも働く",
+      "彼は疲れているけれども働く",
+      "彼は疲れているにもかかわらず働く",
+      "彼は疲れているので働く"
+    ],
+    "correctAnswer": "彼は疲れているながらも働く"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'sun'?",
+    "options": ["たいよう", "ひ", "そら", "かぜ"],
+    "correctAnswer": "たいよう"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼はフットボールが好きです' into English.",
+    "options": [
+      "He likes football",
+      "He likes basketball",
+      "He likes baseball",
+      "He likes soccer"
+    ],
+    "correctAnswer": "He likes football"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form of '働く' (to work)?",
+    "options": ["働かせる", "働きます", "働かれる", "働ける"],
+    "correctAnswer": "働かせる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'beer'?",
+    "options": ["ビール", "バー", "ビア", "バール"],
+    "correctAnswer": "ビール"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は音楽が大好きです' into English.",
+    "options": [
+      "I love music",
+      "I hate music",
+      "I enjoy music",
+      "I study music"
+    ],
+    "correctAnswer": "I love music"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past perfect form in Japanese?",
+    "options": [
+      "彼はすでに帰っていた",
+      "彼はすでに帰った",
+      "彼はすでに帰る",
+      "彼はすでに帰っている"
+    ],
+    "correctAnswer": "彼はすでに帰っていた"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'はじめまして'?",
+    "options": [
+      "hajimemashite",
+      "hajimemashit",
+      "hajimemashitee",
+      "hajimemashitee"
+    ],
+    "correctAnswer": "hajimemashite"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'これは新しい車です' into English.",
+    "options": [
+      "This is a new car",
+      "This is an old car",
+      "This is a fast car",
+      "This is a red car"
+    ],
+    "correctAnswer": "This is a new car"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the te-form with 'しまう' to indicate completion?",
+    "options": [
+      "食べてしまった",
+      "食べてしまう",
+      "食べたしまった",
+      "食べしまった"
+    ],
+    "correctAnswer": "食べてしまった"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'moon'?",
+    "options": ["つき", "ひ", "あさ", "ゆうべ"],
+    "correctAnswer": "つき"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼はよく映画を見ます' into English.",
+    "options": [
+      "He often watches movies",
+      "He rarely watches movies",
+      "He sometimes watches movies",
+      "He never watches movies"
+    ],
+    "correctAnswer": "He often watches movies"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the imperative form of '来る' (to come)?",
+    "options": ["来い", "来なさい", "来て", "来ます"],
+    "correctAnswer": "来い"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'orange' (the fruit)?",
+    "options": ["オレンジ", "アップル", "バナナ", "グレープ"],
+    "correctAnswer": "オレンジ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は日本料理が得意です' into English.",
+    "options": [
+      "She is good at Japanese cuisine",
+      "She is good at Italian cuisine",
+      "She is good at French cuisine",
+      "She is good at Chinese cuisine"
+    ],
+    "correctAnswer": "She is good at Japanese cuisine"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the negative potential form of 'できる' (to be able to)?",
+    "options": ["できない", "できれない", "できません", "できず"],
+    "correctAnswer": "できない"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'またね'?",
+    "options": ["matane", "matané", "matanee", "mata ne"],
+    "correctAnswer": "matane"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '今日はとても忙しいです' into English.",
+    "options": [
+      "Today is very busy",
+      "Today is very calm",
+      "Today is very exciting",
+      "Today is very quiet"
+    ],
+    "correctAnswer": "Today is very busy"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the structure to express simultaneous actions with 'ながら'?",
+    "options": [
+      "音楽を聴きながら勉強する",
+      "音楽を聴くながら勉強する",
+      "音楽を聴いてながら勉強する",
+      "音楽を聴き、ながら勉強する"
+    ],
+    "correctAnswer": "音楽を聴きながら勉強する"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'book'?",
+    "options": ["ほん", "かみ", "ノート", "じしょ"],
+    "correctAnswer": "ほん"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は速く泳ぎます' into English.",
+    "options": [
+      "He swims fast",
+      "He swims slowly",
+      "He runs fast",
+      "He walks fast"
+    ],
+    "correctAnswer": "He swims fast"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression '～たところ' to indicate a recent action?",
+    "options": [
+      "今、帰ったところです",
+      "今、帰るところです",
+      "今、帰っているところです",
+      "今、帰ったばかりです"
+    ],
+    "correctAnswer": "今、帰ったところです"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'どうも'?",
+    "options": ["doumo", "domo", "doumou", "domou"],
+    "correctAnswer": "doumo"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は毎週末友達と会います' into English.",
+    "options": [
+      "She meets her friends every weekend",
+      "She visits her friends every weekend",
+      "She calls her friends every weekend",
+      "She ignores her friends every weekend"
+    ],
+    "correctAnswer": "She meets her friends every weekend"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the modal form 'べき' to express obligation?",
+    "options": [
+      "行くべきだ",
+      "行くべきです",
+      "行くべきだった",
+      "行くべきである"
+    ],
+    "correctAnswer": "行くべきだ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'taxi'?",
+    "options": ["タクシー", "タクシ", "タキシ", "タクシー"],
+    "correctAnswer": "タクシー"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は医者です' into English.",
+    "options": [
+      "He is a doctor",
+      "He is a teacher",
+      "He is a lawyer",
+      "He is a musician"
+    ],
+    "correctAnswer": "He is a doctor"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conjunction 'けれども' to express contrast?",
+    "options": [
+      "雨だけれども、行きます",
+      "雨、けれども、行きます",
+      "雨けれども、行きます",
+      "雨なので、行きます"
+    ],
+    "correctAnswer": "雨だけれども、行きます"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'star'?",
+    "options": ["ほし", "たいよう", "つき", "そら"],
+    "correctAnswer": "ほし"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'これはとても古い家です' into English.",
+    "options": [
+      "This is a very old house",
+      "This is a very big house",
+      "This is a very small house",
+      "This is a very modern house"
+    ],
+    "correctAnswer": "This is a very old house"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression '〜ように' to express purpose?",
+    "options": [
+      "忘れないようにメモしてください",
+      "忘れないためにメモしてください",
+      "忘れないようメモしてください",
+      "忘れないためメモしてください"
+    ],
+    "correctAnswer": "忘れないようにメモしてください"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'おはよう'?",
+    "options": ["ohayou", "ohayo", "ohayouu", "ohayouo"],
+    "correctAnswer": "ohayou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎朝ジョギングします' into English.",
+    "options": [
+      "He jogs every morning",
+      "He runs every morning",
+      "He walks every morning",
+      "He swims every morning"
+    ],
+    "correctAnswer": "He jogs every morning"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the polite request form '～ていただけますか'?",
+    "options": [
+      "手伝っていただけますか",
+      "手伝ってくれますか",
+      "手伝ってください",
+      "手伝ってもらえますか"
+    ],
+    "correctAnswer": "手伝っていただけますか"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'chocolate'?",
+    "options": ["チョコレート", "チョコ", "チョコレートー", "チョコレートゥ"],
+    "correctAnswer": "チョコレート"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は毎晩音楽を聴きます' into English.",
+    "options": [
+      "I listen to music every night",
+      "I play music every night",
+      "I make music every night",
+      "I write music every night"
+    ],
+    "correctAnswer": "I listen to music every night"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the compound adjective form with 'くて'?",
+    "options": [
+      "このリンゴは甘くて美味しい",
+      "このリンゴは甘く美味しい",
+      "このリンゴは甘いくて美味しい",
+      "このリンゴは甘く、美味しい"
+    ],
+    "correctAnswer": "このリンゴは甘くて美味しい"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'tree'?",
+    "options": ["き", "はな", "くさ", "そら"],
+    "correctAnswer": "き"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女はとても親切です' into English.",
+    "options": [
+      "She is very kind",
+      "She is very smart",
+      "She is very funny",
+      "She is very strong"
+    ],
+    "correctAnswer": "She is very kind"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past negative form of '来る' (to come)?",
+    "options": [
+      "来なかった",
+      "来ませんでした",
+      "来なかったです",
+      "来なくなった"
+    ],
+    "correctAnswer": "来なかった"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ありがとう'?",
+    "options": ["arigatou", "arigato", "arigatouu", "arigatouo"],
+    "correctAnswer": "arigatou"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼はサッカーが好きです' into English.",
+    "options": [
+      "He likes soccer",
+      "He likes basketball",
+      "He likes tennis",
+      "He likes baseball"
+    ],
+    "correctAnswer": "He likes soccer"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression '〜たらどうですか' to give advice?",
+    "options": [
+      "もっと休んだらどうですか",
+      "もっと休んだらどうです",
+      "もっと休むたらどうですか",
+      "もっと休んでどうですか"
+    ],
+    "correctAnswer": "もっと休んだらどうですか"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'rain'?",
+    "options": ["あめ", "ゆき", "かぜ", "はな"],
+    "correctAnswer": "あめ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'これは私の家です' into English.",
+    "options": [
+      "This is my house",
+      "This is my car",
+      "This is my room",
+      "This is my office"
+    ],
+    "correctAnswer": "This is my house"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional 'と' to express a general truth?",
+    "options": [
+      "春になると、花が咲く",
+      "春になると、花が咲いた",
+      "春になると、花が咲いている",
+      "春になると、花が咲るでしょう"
+    ],
+    "correctAnswer": "春になると、花が咲く"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'またね'?",
+    "options": ["matane", "matané", "matanee", "mata ne"],
+    "correctAnswer": "matane"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は毎日英語を勉強します' into English.",
+    "options": [
+      "She studies English every day",
+      "She speaks English every day",
+      "She writes English every day",
+      "She listens to English every day"
+    ],
+    "correctAnswer": "She studies English every day"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific expression for 'to see'?",
+    "options": ["ご覧になります", "見ます", "ご覧なさいます", "見られます"],
+    "correctAnswer": "ご覧になります"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'child'?",
+    "options": ["こども", "おとな", "がくせい", "せんせい"],
+    "correctAnswer": "こども"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は公園で走っています' into English.",
+    "options": [
+      "He is running in the park",
+      "He is walking in the park",
+      "He is playing in the park",
+      "He is sitting in the park"
+    ],
+    "correctAnswer": "He is running in the park"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Analyze the following sentence and identify the correct particle usage: '彼は毎朝学校___行く。' Choose the option that best completes the sentence.",
+    "options": ["に", "で", "へ", "を"],
+    "correctAnswer": "へ"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific form to express 'to eat' when referring to a customer in a restaurant?",
+    "options": [
+      "お召し上がりになります",
+      "食べます",
+      "召し上がる",
+      "食べられる"
+    ],
+    "correctAnswer": "お召し上がりになります"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "In the sentence '雨が降らなければ、試合は中止になります', what does the structure 'なければ' indicate?",
+    "options": [
+      "It expresses a conditional negative",
+      "It expresses a past negative",
+      "It poses a hypothetical question",
+      "It indicates a suggestion"
+    ],
+    "correctAnswer": "It expresses a conditional negative"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Choose the sentence that correctly employs the causative-passive form of '行く' (to go) to indicate being forced to go.",
+    "options": ["行かされる", "行かれる", "行かせられる", "行かされられる"],
+    "correctAnswer": "行かされる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the function of the te-form in the sentence '彼は本を読んで、メモを取った。' What does '読んで' do in this context?",
+    "options": [
+      "It connects two sequential actions",
+      "It indicates a reason",
+      "It shows contrast",
+      "It denotes a condition"
+    ],
+    "correctAnswer": "It connects two sequential actions"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly expresses 'I have never been to Tokyo' using an appropriate negative past construction?",
+    "options": [
+      "東京に行ったことがない",
+      "東京に行かない",
+      "東京に行ったことがありません",
+      "東京に行っていない"
+    ],
+    "correctAnswer": "東京に行ったことがない"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the correct passive form of '書く' (to write) in Japanese?",
+    "options": ["書かれる", "書ける", "書かせる", "書く"],
+    "correctAnswer": "書かれる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Select the sentence that demonstrates the correct use of 'ばかり' to express 'only' or 'just now'.",
+    "options": [
+      "彼は食べたばかりです",
+      "彼はばかり食べた",
+      "彼は食べただけです",
+      "彼はばかり食べる"
+    ],
+    "correctAnswer": "彼は食べたばかりです"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "In the sentence 'もし時間があれば、手伝ってくれますか？', what does 'あれば' imply?",
+    "options": [
+      "If there is time",
+      "If there was time",
+      "Because there is time",
+      "Although there is time"
+    ],
+    "correctAnswer": "If there is time"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Choose the sentence that correctly uses the volitional form to propose an activity.",
+    "options": ["行こう", "行きます", "行く", "行きたい"],
+    "correctAnswer": "行こう"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the imperative form to tell someone to stop?",
+    "options": ["止まれ", "止まりなさい", "止まって", "止め"],
+    "correctAnswer": "止まれ"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Select the sentence that properly uses 'だけど' to express contrast.",
+    "options": [
+      "今日は寒いだけど、明日は暖かい",
+      "今日は寒いだけど、明日は寒い",
+      "今日は寒いだけど、明日は雨",
+      "今日は寒いだけど、明日は風"
+    ],
+    "correctAnswer": "今日は寒いだけど、明日は暖かい"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that uses 'という' correctly to define or specify something.",
+    "options": [
+      "彼は有名な作家という人です",
+      "彼は有名な作家の人です",
+      "彼は有名な作家な人です",
+      "彼は有名な作家を人です"
+    ],
+    "correctAnswer": "彼は有名な作家という人です"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the structure '〜てもいい' correctly to ask for permission?",
+    "options": [
+      "ここで写真を撮ってもいいですか？",
+      "ここで写真を撮ってはいけませんか？",
+      "ここで写真を撮るべきですか？",
+      "ここで写真を撮らなければいけませんか？"
+    ],
+    "correctAnswer": "ここで写真を撮ってもいいですか？"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "In the sentence '彼は疲れているので、早く寝た', what role does 'ので' play?",
+    "options": [
+      "It indicates a reason",
+      "It indicates contrast",
+      "It indicates purpose",
+      "It indicates time"
+    ],
+    "correctAnswer": "It indicates a reason"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs the '〜ながら' structure to indicate simultaneous actions?",
+    "options": [
+      "音楽を聴きながら勉強する",
+      "音楽を聴いてながら勉強する",
+      "音楽を聴くながら勉強する",
+      "音楽を聴き、ながら勉強する"
+    ],
+    "correctAnswer": "音楽を聴きながら勉強する"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that correctly uses the form '〜たあと' to mean 'after doing something'.",
+    "options": [
+      "食べたあと、散歩した",
+      "食べた後に、散歩した",
+      "食べたあと、散歩する",
+      "食べた後、散歩した"
+    ],
+    "correctAnswer": "食べたあと、散歩した"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs '〜ようにする' to express an effort or habit?",
+    "options": [
+      "毎日運動するようにしている",
+      "毎日運動するようにする",
+      "毎日運動するようにした",
+      "毎日運動するようにしてました"
+    ],
+    "correctAnswer": "毎日運動するようにしている"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the correct translation of the complex sentence '彼が来るまで待ってください'?",
+    "options": [
+      "Please wait until he arrives",
+      "Please wait while he comes",
+      "Please wait because he comes",
+      "Please wait for his arrival"
+    ],
+    "correctAnswer": "Please wait until he arrives"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Choose the sentence that correctly uses 'という風に' to describe a manner of speaking.",
+    "options": [
+      "彼は先生というふうに話す",
+      "彼は先生のように話す",
+      "彼は先生という風に話す",
+      "彼は先生みたいに話す"
+    ],
+    "correctAnswer": "彼は先生という風に話す"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence employs the structure '〜のために' correctly to express purpose?",
+    "options": [
+      "健康のために野菜を食べる",
+      "健康ために野菜を食べる",
+      "健康でために野菜を食べる",
+      "健康のため野菜を食べる"
+    ],
+    "correctAnswer": "健康のために野菜を食べる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that uses '〜かどうか' correctly to indicate uncertainty.",
+    "options": [
+      "彼が来るかどうか分からない",
+      "彼が来るかどう分からない",
+      "彼が来るかどうか知らない",
+      "彼が来るどうか分からない"
+    ],
+    "correctAnswer": "彼が来るかどうか分からない"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs the past continuous form to indicate an ongoing action in the past?",
+    "options": [
+      "彼は電話していた",
+      "彼は電話している",
+      "彼は電話した",
+      "彼は電話してあった"
+    ],
+    "correctAnswer": "彼は電話していた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Select the sentence that properly uses '〜ずに' to express 'without doing something'.",
+    "options": [
+      "朝ごはんを食べずに学校に行った",
+      "朝ごはんを食べなくて学校に行った",
+      "朝ごはんを食べず学校に行った",
+      "朝ごはんを食べなかったで学校に行った"
+    ],
+    "correctAnswer": "朝ごはんを食べずに学校に行った"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression '〜たばかり' to indicate that an action has just been completed?",
+    "options": [
+      "今、帰ったばかりです",
+      "今、帰ったばかりだ",
+      "今、帰ったばかりでした",
+      "今、帰ったばかりである"
+    ],
+    "correctAnswer": "今、帰ったばかりです"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that correctly employs the structure '〜たとたん' to express an immediate reaction.",
+    "options": [
+      "ドアを開けたとたん、犬が飛び出した",
+      "ドアを開けたとたんに、犬が飛び出した",
+      "ドアを開けた瞬間、犬が飛び出した",
+      "ドアを開けたとたん犬が飛び出した"
+    ],
+    "correctAnswer": "ドアを開けたとたんに、犬が飛び出した"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the expression '〜てしまう' to indicate regret or unintended completion?",
+    "options": [
+      "財布を忘れてしまった",
+      "財布を忘れている",
+      "財布を忘れてしまう",
+      "財布を忘れていた"
+    ],
+    "correctAnswer": "財布を忘れてしまった"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the function of the suffix '〜っぽい' in Japanese?",
+    "options": [
+      "It expresses similarity or tendency",
+      "It issues a command",
+      "It negates the verb",
+      "It expresses certainty"
+    ],
+    "correctAnswer": "It expresses similarity or tendency"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Choose the sentence that correctly uses '〜らしい' to express hearsay or conjecture.",
+    "options": [
+      "彼は来るらしい",
+      "彼は来るそうだ",
+      "彼は来るみたいだ",
+      "彼は来るべきだ"
+    ],
+    "correctAnswer": "彼は来るらしい"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the structure '〜ことにする' correctly to express a personal decision?",
+    "options": [
+      "毎日ジョギングすることにした",
+      "毎日ジョギングすることになった",
+      "毎日ジョギングすることにしている",
+      "毎日ジョギングしてみることにした"
+    ],
+    "correctAnswer": "毎日ジョギングすることにした"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that correctly uses '〜たほうがいい' to give advice.",
+    "options": [
+      "早く寝たほうがいい",
+      "早く寝るほうがいい",
+      "早く寝た方がいい",
+      "早く寝たほうがよい"
+    ],
+    "correctAnswer": "早く寝たほうがいい"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses 'しかしながら' to express contrast?",
+    "options": [
+      "彼は才能がある。しかしながら、努力が足りない。",
+      "彼は才能がある、しかしながら努力が足りない。",
+      "彼は才能がある。 しかしながら、努力が足りない。",
+      "彼は才能があるしかしながら努力が足りない。"
+    ],
+    "correctAnswer": "彼は才能がある。しかしながら、努力が足りない。"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the correct translation of '環境保護のために、リサイクルを徹底するべきだ'?",
+    "options": [
+      "It is necessary to enforce recycling for the sake of environmental protection",
+      "It is possible to enforce recycling for environmental protection",
+      "It is important to recycle for economic growth",
+      "Recycling should be optional for environmental protection"
+    ],
+    "correctAnswer": "It is necessary to enforce recycling for the sake of environmental protection"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜にもかかわらず' to express 'despite'?",
+    "options": [
+      "雨にもかかわらず、試合は行われた",
+      "雨にもかかわらず、試合が行われた",
+      "雨でかかわらず、試合は行われた",
+      "雨にもかかわらず試合は行われた"
+    ],
+    "correctAnswer": "雨にもかかわらず、試合は行われた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that uses '〜としたら' to present a hypothetical scenario.",
+    "options": [
+      "もし私が彼としたら、どうする？",
+      "もし私が彼なら、どうする？",
+      "もし私が彼としたら、どうしますか？",
+      "もし私が彼だったら、どうする？"
+    ],
+    "correctAnswer": "もし私が彼としたら、どうする？"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the sentence 'その映画は批評家から非常に高く評価された' into English.",
+    "options": [
+      "It was highly praised by critics",
+      "It was poorly reviewed by critics",
+      "It was ignored by critics",
+      "It was moderately praised by critics"
+    ],
+    "correctAnswer": "It was highly praised by critics"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs '〜たといえば' (or '〜かというと') to request clarification?",
+    "options": [
+      "それは本当かというと、どうでしょうか",
+      "それは本当かというなら、どうでしょうか",
+      "それは本当かといえば、どうでしょうか",
+      "それは本当かというと、どうですか"
+    ],
+    "correctAnswer": "それは本当かというと、どうでしょうか"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Select the correct translation of the complex sentence '彼は努力を重ねた結果、成功を収めた'.",
+    "options": [
+      "He succeeded as a result of repeated efforts",
+      "He succeeded without any effort",
+      "He made an effort but failed",
+      "He achieved success despite little effort"
+    ],
+    "correctAnswer": "He succeeded as a result of repeated efforts"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses 'たとえ〜にしても' to express concession?",
+    "options": [
+      "たとえ雨にしても、試合は行われる",
+      "たとえ雨でも、試合は行われる",
+      "たとえ雨であっても、試合は行われる",
+      "たとえ雨にしても、試合は中止される"
+    ],
+    "correctAnswer": "たとえ雨にしても、試合は行われる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that correctly uses '経験を通して' to indicate learning through experience.",
+    "options": [
+      "彼は経験を通して、多くを学んだ",
+      "彼は経験を通じて、多くを学んだ",
+      "彼は経験を通して、多く学んだ",
+      "彼は経験を通じ、多くを学んだ"
+    ],
+    "correctAnswer": "彼は経験を通して、多くを学んだ"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs '〜ばかり' in a double-negative context?",
+    "options": [
+      "全く問題がないわけではない",
+      "全く問題がないわけでもない",
+      "全く問題があるわけではない",
+      "全く問題があるわけでもない"
+    ],
+    "correctAnswer": "全く問題がないわけではない"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜に基づいて' to indicate 'based on'?",
+    "options": [
+      "このデータに基づいて、分析を行う",
+      "このデータを基に、分析を行う",
+      "このデータに基づき、分析を行う",
+      "このデータを基づいて、分析を行う"
+    ],
+    "correctAnswer": "このデータに基づいて、分析を行う"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Select the sentence that properly uses '〜なくてはならない' to express obligation.",
+    "options": [
+      "宿題をしなくてはならない",
+      "宿題をしなければならない",
+      "宿題をしなくちゃならない",
+      "宿題をしなければならなかった"
+    ],
+    "correctAnswer": "宿題をしなければならない"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs 'たとえ〜ても' to express 'even if'?",
+    "options": [
+      "たとえ雨が降っても、行きます",
+      "たとえ雨でも、行きます",
+      "たとえ雨であっても、行きます",
+      "たとえ雨が降るなら、行きます"
+    ],
+    "correctAnswer": "たとえ雨が降っても、行きます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that correctly uses '〜に対して' to indicate opposition or attitude toward something.",
+    "options": [
+      "彼は政府の政策に対して強く反対している",
+      "彼は政府の政策に対し強く反対している",
+      "彼は政府の政策を対して強く反対している",
+      "彼は政府の政策に対して強い反対している"
+    ],
+    "correctAnswer": "彼は政府の政策に対して強く反対している"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜として' to indicate a role or capacity?",
+    "options": [
+      "彼は教師として尊敬されている",
+      "彼は教師でとして尊敬されている",
+      "彼は教師にとして尊敬されている",
+      "彼は教師として尊敬される"
+    ],
+    "correctAnswer": "彼は教師として尊敬されている"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜に関して' to indicate 'regarding' or 'about'?",
+    "options": [
+      "その件に関して、詳細を教えてください",
+      "その件について、詳細を教えてください",
+      "その件に関して、詳細を聞いてください",
+      "その件に関し、詳細を教えてください"
+    ],
+    "correctAnswer": "その件に関して、詳細を教えてください"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the complex sentence '新しい規則が導入された結果、職場の雰囲気が大きく変わった' into English.",
+    "options": [
+      "As a result of the new rules being introduced, the atmosphere in the workplace changed dramatically",
+      "Because the new rules were introduced, the workplace became chaotic",
+      "The introduction of new rules had little effect on the workplace",
+      "The new rules were introduced, so the workplace remained the same"
+    ],
+    "correctAnswer": "As a result of the new rules being introduced, the atmosphere in the workplace changed dramatically"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜を通じて' to express 'through' or 'over a period of time'?",
+    "options": [
+      "彼は一生を通じて学び続けた",
+      "彼は一生で学び続けた",
+      "彼は一生を通して学び続けた",
+      "彼は一生で学び続けた。"
+    ],
+    "correctAnswer": "彼は一生を通じて学び続けた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜ことなく' to express 'without doing something'?",
+    "options": [
+      "何も言うことなく、去った",
+      "何も言わずに、去った",
+      "何も言うなく、去った",
+      "何も言わずなく、去った"
+    ],
+    "correctAnswer": "何も言うことなく、去った"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a double negative structure to express that something is not entirely without issue?",
+    "options": [
+      "全く問題がないわけではない",
+      "全く問題がないわけでもない",
+      "全く問題があるわけではない",
+      "全く問題があるわけでもない"
+    ],
+    "correctAnswer": "全く問題がないわけではない"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜に基づいて' to mean 'based on'?",
+    "options": [
+      "このデータに基づいて、分析を行う",
+      "このデータを基に、分析を行う",
+      "このデータに基づき、分析を行う",
+      "このデータを基づいて、分析を行う"
+    ],
+    "correctAnswer": "このデータに基づいて、分析を行う"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Select the sentence that correctly uses '〜なくてはならない' to express obligation.",
+    "options": [
+      "宿題をしなくてはならない",
+      "宿題をしなければならない",
+      "宿題をしなくちゃならない",
+      "宿題をしなければならなかった"
+    ],
+    "correctAnswer": "宿題をしなければならない"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses 'たとえ〜ても' to express 'even if'?",
+    "options": [
+      "たとえ雨が降っても、行きます",
+      "たとえ雨でも、行きます",
+      "たとえ雨であっても、行きます",
+      "たとえ雨が降るなら、行きます"
+    ],
+    "correctAnswer": "たとえ雨が降っても、行きます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that correctly uses '〜として' to denote a role or capacity.",
+    "options": [
+      "彼は教師として尊敬されている",
+      "彼は教師でとして尊敬されている",
+      "彼は教師にとして尊敬されている",
+      "彼は教師として尊敬される"
+    ],
+    "correctAnswer": "彼は教師として尊敬されている"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜に関して' to indicate 'regarding' or 'about'?",
+    "options": [
+      "その件に関して、詳細を教えてください",
+      "その件について、詳細を教えてください",
+      "その件に関して、詳細を聞いてください",
+      "その件に関し、詳細を教えてください"
+    ],
+    "correctAnswer": "その件に関して、詳細を教えてください"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the sentence '彼は自分の失敗を反省し、次の挑戦に活かすことを誓った' into English.",
+    "options": [
+      "He reflected on his failures and vowed to use them for his next challenge",
+      "He ignored his failures and continued as before",
+      "He reflected on his failures but did not change anything",
+      "He vowed to never repeat his failures"
+    ],
+    "correctAnswer": "He reflected on his failures and vowed to use them for his next challenge"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜にしても' to express concession?",
+    "options": [
+      "たとえ雨にしても、試合は行われる",
+      "たとえ雨でも、試合は行われる",
+      "たとえ雨であっても、試合は行われる",
+      "たとえ雨にしても、試合は中止される"
+    ],
+    "correctAnswer": "たとえ雨にしても、試合は行われる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that correctly uses '〜を通して' to indicate learning or a process.",
+    "options": [
+      "彼は経験を通して、多くを学んだ",
+      "彼は経験を通じて、多くを学んだ",
+      "彼は経験を通して、多く学んだ",
+      "彼は経験を通じ、多くを学んだ"
+    ],
+    "correctAnswer": "彼は経験を通して、多くを学んだ"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜ほど' to indicate the extent of an action or quality?",
+    "options": [
+      "彼女は泣けば泣くほど、美しくなる",
+      "彼女は泣くほど、美しくなる",
+      "彼女は泣けば泣くほど、美しくなる",
+      "彼女は泣くほどに、美しくなる"
+    ],
+    "correctAnswer": "彼女は泣けば泣くほど、美しくなる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the sentence 'その技術は、世界中に広まっている' into English.",
+    "options": [
+      "That technology is spreading throughout the world",
+      "That technology is confined to one country",
+      "That technology is outdated",
+      "That technology is rarely used"
+    ],
+    "correctAnswer": "That technology is spreading throughout the world"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜たとたんに' to indicate an immediate reaction after an action?",
+    "options": [
+      "部屋に入ったとたんに、明かりが消えた",
+      "部屋に入ったとたん、明かりが消えた",
+      "部屋に入ったたとたんに、明かりが消えた",
+      "部屋に入ったとたん明かりが消えた"
+    ],
+    "correctAnswer": "部屋に入ったとたんに、明かりが消えた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the comparative structure '〜よりも' to compare two entities?",
+    "options": [
+      "彼は私よりも速く走る",
+      "彼は私より速く走る",
+      "彼は私の方が速く走る",
+      "彼は私よりも速く走る"
+    ],
+    "correctAnswer": "彼は私よりも速く走る"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜かというと' to ask for clarification?",
+    "options": [
+      "それは本当かというと、どうでしょうか",
+      "それは本当かというなら、どうでしょうか",
+      "それは本当かといえば、どうでしょうか",
+      "それは本当かというと、どうですか"
+    ],
+    "correctAnswer": "それは本当かというと、どうでしょうか"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the sentence '彼は努力を重ねた結果、成功を収めた' into English.",
+    "options": [
+      "He succeeded as a result of repeated efforts",
+      "He succeeded without any effort",
+      "He made an effort but failed",
+      "He achieved success despite little effort"
+    ],
+    "correctAnswer": "He succeeded as a result of repeated efforts"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜として' to express someone's role?",
+    "options": [
+      "彼は教師として尊敬されている",
+      "彼は教師でとして尊敬されている",
+      "彼は教師にとして尊敬されている",
+      "彼は教師として尊敬される"
+    ],
+    "correctAnswer": "彼は教師として尊敬されている"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜に関して' to mean 'regarding'?",
+    "options": [
+      "その件に関して、詳細を教えてください",
+      "その件について、詳細を教えてください",
+      "その件に関して、詳細を聞いてください",
+      "その件に関し、詳細を教えてください"
+    ],
+    "correctAnswer": "その件に関して、詳細を教えてください"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'sushi' (the food that makes your tummy rumble)?",
+    "options": ["すし", "すーし", "すっし", "すしー"],
+    "correctAnswer": "すし"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana is used for 'coffee' – the magical bean juice that fuels your morning dance-offs?",
+    "options": ["コーヒー", "コヒー", "コーヒ", "コーヒィ"],
+    "correctAnswer": "コーヒー"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ありがとう', the phrase you exclaim when your friend hands you extra fries?",
+    "options": ["arigatou", "arigato", "arigatouu", "arigatouo"],
+    "correctAnswer": "arigatou"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'cat', the furry friend who believes 3 a.m. is playtime?",
+    "options": ["ねこ", "いぬ", "とり", "うさぎ"],
+    "correctAnswer": "ねこ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana correctly spells 'pizza', the circular delight even ninjas can’t resist?",
+    "options": ["ピザ", "パイザ", "ピッザ", "ピザー"],
+    "correctAnswer": "ピザ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'おはよう', the greeting that forces your alarm clock to work?",
+    "options": ["ohayou", "ohayo", "ohayouu", "ohayouo"],
+    "correctAnswer": "ohayou"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'dog', the creature that barks at mailmen and steals your socks?",
+    "options": ["いぬ", "ねこ", "うさぎ", "とり"],
+    "correctAnswer": "いぬ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana represents 'taxi', the vehicle that appears when you wish your day were more 'Fast & Furious'?",
+    "options": ["タクシー", "タクシ", "タキシ", "タクシィ"],
+    "correctAnswer": "タクシー"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さようなら', the farewell you utter when you leave a party that's gone on too long?",
+    "options": ["sayonara", "sayonaraa", "sayounara", "sayonarah"],
+    "correctAnswer": "sayonara"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'water', the liquid that quenches your thirst (and sometimes ruins your phone)?",
+    "options": ["みず", "おちゃ", "こめ", "ゆき"],
+    "correctAnswer": "みず"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana is used for 'ice cream', the treat that makes summer bearable?",
+    "options": [
+      "アイスクリーム",
+      "アイスクリム",
+      "エイスクリーム",
+      "アイスクリーン"
+    ],
+    "correctAnswer": "アイスクリーム"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'すごい', the word you exclaim when someone nails a crazy dance move?",
+    "options": ["sugoi", "sugoie", "sugoy", "sugoii"],
+    "correctAnswer": "sugoi"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'sun', the giant fiery ball that forces you to wear sunglasses?",
+    "options": ["たいよう", "ひ", "そら", "かぜ"],
+    "correctAnswer": "たいよう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'burger', the meal that makes you proclaim, 'Yum, that’s life!'?",
+    "options": ["バーガー", "バガー", "バーガ", "バーガー"],
+    "correctAnswer": "バーガー"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'おやすみ', the phrase you whisper when you doze off during a boring meeting?",
+    "options": ["oyasumi", "oyasum", "oyasumiya", "oyasumii"],
+    "correctAnswer": "oyasumi"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'book', the object you pretend to read in a trendy coffee shop?",
+    "options": ["ほん", "かみ", "じしょ", "ノート"],
+    "correctAnswer": "ほん"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana correctly represents 'salad', the meal you order when you’re trying to look healthy?",
+    "options": ["サラダ", "サラッダ", "サラダー", "サラタ"],
+    "correctAnswer": "サラダ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'またね', the casual farewell you use with your BFF?",
+    "options": ["matane", "matané", "matanee", "mata ne"],
+    "correctAnswer": "matane"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'moon', the celestial body that inspires poets and midnight snackers?",
+    "options": ["つき", "あさ", "ゆうべ", "ひ"],
+    "correctAnswer": "つき"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana is used for 'radio', the device that blasts your favorite J-pop hits?",
+    "options": ["ラジオ", "ラディオ", "ラジオー", "ラジオイ"],
+    "correctAnswer": "ラジオ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate the humorous proverb '犬も歩けば棒に当たる' into English (implying even a wandering dog might hit a stick—or get lucky).",
+    "options": [
+      "Even a dog that walks will eventually hit a stick",
+      "If a dog walks, it gets hit by a stick",
+      "Even a wandering dog encounters obstacles",
+      "A dog walking is bound to meet a stick"
+    ],
+    "correctAnswer": "Even a wandering dog encounters obstacles"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does the idiom '目から鱗が落ちる' literally mean, with a humorous twist?",
+    "options": [
+      "Scales fall from one’s eyes",
+      "Your eyes drop like watermelons",
+      "Your eyes suddenly become clear",
+      "Your eyes lose their fishy scales"
+    ],
+    "correctAnswer": "Scales fall from one’s eyes"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '知らぬが仏' into English with a humorous twist (suggesting ignorance is bliss).",
+    "options": [
+      "Not knowing is bliss",
+      "Ignorance is a luxury",
+      "If you don’t know, you won’t cry",
+      "Staying clueless is heavenly"
+    ],
+    "correctAnswer": "Not knowing is bliss"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence best captures the humor in '腹が減っては戦はできぬ'?",
+    "options": [
+      "You can’t fight a battle on an empty stomach",
+      "A hungry stomach wins no battles",
+      "Battles require a full belly",
+      "If you’re hungry, don’t start a war"
+    ],
+    "correctAnswer": "You can’t fight a battle on an empty stomach"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '花より団子' into English in a humorous way, implying practicality over prettiness.",
+    "options": [
+      "Dumplings over flowers",
+      "Snacks beat blossoms any day",
+      "Eat the dumplings, skip the flowers",
+      "Food wins over frilly things"
+    ],
+    "correctAnswer": "Dumplings over flowers"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What humorous message does '二兎を追う者は一兎をも得ず' convey?",
+    "options": [
+      "Chasing two rabbits means catching none",
+      "If you chase two, you'll catch both",
+      "Two rabbits are too much to handle",
+      "Better to chase one rabbit than none"
+    ],
+    "correctAnswer": "Chasing two rabbits means catching none"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '転んでもただでは起きぬ' into English with a humorous twist about failures.",
+    "options": [
+      "Even if you fall, get up with a profit",
+      "Falling is fun if you learn something",
+      "When you stumble, make it count",
+      "Never fall without gaining something"
+    ],
+    "correctAnswer": "Even if you fall, get up with a profit"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence humorously interprets '笑う門には福来る'?",
+    "options": [
+      "Fortune smiles on those who laugh",
+      "A laughing door is a lucky door",
+      "Keep laughing and luck will follow",
+      "Laugh hard, and luck laughs with you"
+    ],
+    "correctAnswer": "Fortune smiles on those who laugh"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does '塵も積もれば山となる' humorously imply about small efforts?",
+    "options": [
+      "Even dust can pile up to form a mountain",
+      "Tiny bits add up to something huge",
+      "Little things matter more than you think",
+      "A speck of dust can become a mountain"
+    ],
+    "correctAnswer": "Even dust can pile up to form a mountain"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '馬の耳に念仏' into English with a humorous twist (suggesting preaching to the unresponsive).",
+    "options": [
+      "Chanting prayers into a horse's ear",
+      "Preaching to an unresponsive audience",
+      "Talking to horses is pointless",
+      "Sermons fall on deaf hooves"
+    ],
+    "correctAnswer": "Chanting prayers into a horse's ear"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which humorous translation best fits '猿も木から落ちる'?",
+    "options": [
+      "Even monkeys fall from trees",
+      "Monkeys slip up sometimes",
+      "Even the best climbers have mishaps",
+      "Apes can be clumsy too"
+    ],
+    "correctAnswer": "Even monkeys fall from trees"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '郷に入っては郷に従え' into English with a humorous edge.",
+    "options": [
+      "When in Rome, do as the Romans do",
+      "Follow the local quirks wherever you go",
+      "Adapt to the customs of your new home",
+      "When in a village, follow the village ways"
+    ],
+    "correctAnswer": "When in Rome, do as the Romans do"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '石の上にも三年' into English in a humorous way about patience.",
+    "options": [
+      "Even on a rock, three years will pass",
+      "Sit on a rock long enough and it warms up",
+      "Patience turns stones into cozy seats",
+      "Three years on a rock makes you wise"
+    ],
+    "correctAnswer": "Even on a rock, three years will pass"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What humorous lesson does '雨降って地固まる' teach?",
+    "options": [
+      "After a storm, things get solid",
+      "Rain makes everything stick together",
+      "Troubles can strengthen you like wet cement",
+      "Bad weather builds character"
+    ],
+    "correctAnswer": "After a storm, things get solid"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence humorously conveys the meaning of '能ある鷹は爪を隠す'?",
+    "options": [
+      "A talented hawk hides its talons (even if it could show off)",
+      "Smart hawks keep their claws under wraps",
+      "A clever bird never flaunts its claws",
+      "Talented hawks prefer mystery over might"
+    ],
+    "correctAnswer": "A talented hawk hides its talons (even if it could show off)"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '覆水盆に返らず' into English with a humorous take on spilled drinks.",
+    "options": [
+      "Spilled water never returns to the bowl",
+      "Once you spill, there's no mop for it",
+      "You can’t unspill a drink",
+      "Spilt liquid is a lost cause"
+    ],
+    "correctAnswer": "Spilled water never returns to the bowl"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence humorously uses the potential form of '泳ぐ' (to swim) to express ability?",
+    "options": ["泳げる", "泳ぐことができる", "泳ぎられる", "泳げた"],
+    "correctAnswer": "泳げる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the humorous sentence '早起きは三文の徳' into English.",
+    "options": [
+      "Early rising brings three pennies' worth of benefits",
+      "Getting up early earns you a few coins",
+      "The early bird gets a few cents",
+      "Waking up early is worth a tiny fortune"
+    ],
+    "correctAnswer": "Early rising brings three pennies' worth of benefits"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the causative form of '笑う' (to laugh) to imply making someone laugh?",
+    "options": ["笑わせる", "笑う", "笑われる", "笑いさせる"],
+    "correctAnswer": "笑わせる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the humorous meaning of '猫の手も借りたい' in a modern office setting.",
+    "options": [
+      "Being so busy you’d even borrow a cat’s paw for help",
+      "Hoping a cat can do your paperwork",
+      "Desperation leads to unusual hires",
+      "When work overwhelms, every paw counts"
+    ],
+    "correctAnswer": "Being so busy you’d even borrow a cat’s paw for help"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜たびに' to indicate 'every time' with a humorous twist?",
+    "options": [
+      "見るたびに笑ってしまう",
+      "見るたびに泣いてしまう",
+      "見るたびに怒ってしまう",
+      "見るたびに踊ってしまう"
+    ],
+    "correctAnswer": "見るたびに笑ってしまう"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the humorous proverb '失敗は成功のもと' into English.",
+    "options": [
+      "Failure is the mother of success",
+      "Every flop plants the seed for a future win",
+      "Mistakes pave the way to success",
+      "Failing is just a quirky step toward winning"
+    ],
+    "correctAnswer": "Failure is the mother of success"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence humorously uses the volitional form of '踊る' (to dance) to suggest a wild party?",
+    "options": ["踊ろう", "踊きましょう", "踊りたい", "踊れ"],
+    "correctAnswer": "踊ろう"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the sentence that uses the negative form of '言う' (to say) to humorously express silence.",
+    "options": ["言わない", "言いません", "言わなかった", "言わず"],
+    "correctAnswer": "言わない"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate the playful sentence '笑う門には福来たる' into English humorously.",
+    "options": [
+      "Fortune comes to those who laugh",
+      "A door that laughs gets lucky",
+      "When you laugh, luck follows you",
+      "Keep laughing and blessings will appear"
+    ],
+    "correctAnswer": "Fortune comes to those who laugh"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence humorously explains '猿も木から落ちる'?",
+    "options": [
+      "Even monkeys fall from trees sometimes",
+      "Monkeys rarely fall, but when they do, it’s funny",
+      "Even the nimblest monkeys slip up",
+      "Monkeys fall only on rainy days"
+    ],
+    "correctAnswer": "Even monkeys fall from trees sometimes"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '雲の上はいつも晴れ' into English with a humorous twist.",
+    "options": [
+      "It's always sunny above the clouds",
+      "Above the clouds, there's always a silver lining",
+      "The sky above the clouds never frowns",
+      "Up in the clouds, the sun never takes a day off"
+    ],
+    "correctAnswer": "It's always sunny above the clouds"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does '口は災いの元' humorously warn against?",
+    "options": [
+      "Loose lips can lead to trouble",
+      "Talking too much gets you into sticky situations",
+      "A chatty mouth often invites mishaps",
+      "Speak less and avoid calamities"
+    ],
+    "correctAnswer": "Loose lips can lead to trouble"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the structure '〜に応じて' to mean 'in accordance with' in a playful context?",
+    "options": [
+      "状況に応じて、計画を変更する",
+      "状況に応じ、計画を変更する",
+      "状況応じて、計画を変更する",
+      "状況に応じた、計画を変更する"
+    ],
+    "correctAnswer": "状況に応じて、計画を変更する"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the humorous sentence '疲れたら猫と寝る、寝なければ猫と起きる' into English.",
+    "options": [
+      "When I'm tired, I nap with a cat; otherwise, my cat wakes me up",
+      "If I'm tired, I sleep with a cat, if not, the cat sleeps with me",
+      "I sleep with a cat when tired and wake up with a cat when not",
+      "Tiredness means cuddling a cat, alertness means cat cuddles"
+    ],
+    "correctAnswer": "When I'm tired, I nap with a cat; otherwise, my cat wakes me up"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence humorously uses '〜をめぐって' to describe a lively debate?",
+    "options": [
+      "その件をめぐって、みんなで大騒ぎになった",
+      "その件をめぐって、真面目に議論した",
+      "その件をめぐって、皆が沈黙した",
+      "その件をめぐって、誰も話さなかった"
+    ],
+    "correctAnswer": "その件をめぐって、みんなで大騒ぎになった"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Identify the humorous nuance of '情けは人の為ならず' in modern life.",
+    "options": [
+      "Kindness always boomerangs back to you",
+      "Being kind only benefits others, not you",
+      "Mercy is wasted if not returned",
+      "What goes around comes around, with a smile"
+    ],
+    "correctAnswer": "Kindness always boomerangs back to you"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence humorously uses '〜として' to denote a role?",
+    "options": [
+      "彼は教師として尊敬されている",
+      "彼は教師でとして尊敬されている",
+      "彼は教師にとして尊敬されている",
+      "彼は教師として尊敬される"
+    ],
+    "correctAnswer": "彼は教師として尊敬されている"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses '〜に関して' to mean 'regarding' in a playful tone?",
+    "options": [
+      "その件に関して、詳細を教えてください",
+      "その件について、詳細を教えてください",
+      "その件に関して、詳細を聞いてください",
+      "その件に関し、詳細を教えてください"
+    ],
+    "correctAnswer": "その件に関して、詳細を教えてください"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the complex sentence '自業自得' into English with a humorous undertone.",
+    "options": [
+      "You reap what you sow—even if you planted a clown",
+      "Your actions come back to bite you",
+      "What goes around, comes around",
+      "Karma always gets you, eventually"
+    ],
+    "correctAnswer": "You reap what you sow—even if you planted a clown"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence humorously uses '〜か否か' to present a dilemma?",
+    "options": [
+      "行くか否か、迷っている",
+      "行くか否か、決めた",
+      "行くか否か、知らない",
+      "行くか否か、問題だ"
+    ],
+    "correctAnswer": "行くか否か、迷っている"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence humorously uses '〜としては' to express a perspective?",
+    "options": [
+      "初心者としては、彼のダンスは驚異的だ",
+      "初心者としては、彼のダンスは普通だ",
+      "初心者としては、彼のダンスは滑稽だ",
+      "初心者としては、彼のダンスは感動的だ"
+    ],
+    "correctAnswer": "初心者としては、彼のダンスは驚異的だ"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the humorous proverb '人の噂も七十五日' into English.",
+    "options": [
+      "Gossip dies out after 75 days, so don’t stress over it",
+      "Rumors last for 75 days, then vanish like magic",
+      "After 75 days, even gossip gets old",
+      "People’s chatter fades after 75 days"
+    ],
+    "correctAnswer": "Gossip dies out after 75 days, so don’t stress over it"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses '〜としては' in a humorous way to express a personal opinion?",
+    "options": [
+      "初心者としては、彼の料理は驚異的だ",
+      "初心者としては、彼の料理は普通だ",
+      "初心者としては、彼の料理は滑稽だ",
+      "初心者としては、彼の料理は恐ろしい"
+    ],
+    "correctAnswer": "初心者としては、彼の料理は驚異的だ"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate the humorous sentence '出る杭は打たれる' into English.",
+    "options": [
+      "The nail that sticks out gets hammered—so be modest!",
+      "Sticking out is dangerous",
+      "Stand out and you might get hit",
+      "If you shine too brightly, you'll get hammered"
+    ],
+    "correctAnswer": "The nail that sticks out gets hammered—so be modest!"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses '〜かというと' to ask for clarification in a humorous tone?",
+    "options": [
+      "それは本当かというと、どうでしょうか",
+      "それは本当かというなら、どうでしょうか",
+      "それは本当かといえば、どうでしょうか",
+      "それは本当かというと、どうですか"
+    ],
+    "correctAnswer": "それは本当かというと、どうでしょうか"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '百聞は一見に如かず' into English with a humorous twist.",
+    "options": [
+      "Seeing is believing—even if it’s a bizarre sight",
+      "A picture is worth a thousand hearsays",
+      "Hearing a hundred times beats one glance",
+      "One look beats endless chatter"
+    ],
+    "correctAnswer": "Seeing is believing—even if it’s a bizarre sight"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses '〜に限らず' humorously to express that something is popular worldwide?",
+    "options": [
+      "ラーメンは日本に限らず、世界中で愛されている",
+      "ラーメンは日本だけでなく、世界中で愛されている",
+      "ラーメンは日本に限らず、世界で愛されている",
+      "ラーメンは日本だけで、世界中で愛されている"
+    ],
+    "correctAnswer": "ラーメンは日本に限らず、世界中で愛されている"
+  },
+
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '東京'?",
+    "options": ["Tokyo", "Toukyou", "Tokio", "Touko"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'cat'?",
+    "options": ["ねこ", "ねか", "にゃこ", "こね"],
+    "correctAnswer": "ねこ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'おはようございます' into English.",
+    "options": ["Good morning", "Hello", "Good evening", "Good night"],
+    "correctAnswer": "Good morning"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'computer'?",
+    "options": [
+      "コンピュータ",
+      "コンピュウタ",
+      "クンピューター",
+      "コンピューター"
+    ],
+    "correctAnswer": "コンピュータ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which of the following is the correct Romaji for 'さようなら'?",
+    "options": ["sayounara", "sayonara", "sayo-nara", "sayonora"],
+    "correctAnswer": "sayonara"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'ありがとう' into English.",
+    "options": ["Thank you", "Sorry", "Please", "Hello"],
+    "correctAnswer": "Thank you"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct translation of 'これはペンです'?",
+    "options": [
+      "This is a pen",
+      "That is a pen",
+      "This is an apple",
+      "That is an apple"
+    ],
+    "correctAnswer": "This is a pen"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'rice' (as in cooked rice)?",
+    "options": ["ごはん", "みず", "そば", "うどん"],
+    "correctAnswer": "ごはん"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'すみません' into English.",
+    "options": ["Excuse me", "Hello", "Goodbye", "Thank you"],
+    "correctAnswer": "Excuse me"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '富士山'?",
+    "options": ["Fuji-san", "Fuji", "Fujisan", "Fujyama"],
+    "correctAnswer": "Fujisan"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct translation of '昨日は雨でした'?",
+    "options": [
+      "It rained yesterday",
+      "It is raining today",
+      "It will rain tomorrow",
+      "It rained today"
+    ],
+    "correctAnswer": "It rained yesterday"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the past tense of '行きます'?",
+    "options": [
+      "昨日、学校に行きました",
+      "昨日、学校に行きます",
+      "明日、学校に行きました",
+      "明日、学校に行きます"
+    ],
+    "correctAnswer": "昨日、学校に行きました"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the plain negative form of '飲む' (to drink)?",
+    "options": ["飲まない", "飲みません", "飲まず", "飲みませんでした"],
+    "correctAnswer": "飲まない"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '明日は友達と映画を見ます' into English.",
+    "options": [
+      "I will watch a movie with a friend tomorrow",
+      "I watched a movie with a friend yesterday",
+      "I watch movies with friends every day",
+      "I will watch TV with a friend tomorrow"
+    ],
+    "correctAnswer": "I will watch a movie with a friend tomorrow"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the proper Romaji for 'すし'?",
+    "options": ["sushi", "susi", "soushi", "sousi"],
+    "correctAnswer": "sushi"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'で' to indicate the location of an action?",
+    "options": [
+      "図書館で勉強します",
+      "図書館に勉強します",
+      "図書館を勉強します",
+      "図書館へ勉強します"
+    ],
+    "correctAnswer": "図書館で勉強します"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Hiragana for 'summer'?",
+    "options": ["なつ", "ふゆ", "はる", "あき"],
+    "correctAnswer": "なつ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'このりんごは甘いです' into English.",
+    "options": [
+      "This apple is sweet",
+      "This apple is sour",
+      "These apples are sweet",
+      "These apples are sour"
+    ],
+    "correctAnswer": "This apple is sweet"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the proper counter for small animals?",
+    "options": [
+      "犬が三匹います",
+      "犬が三ついます",
+      "犬が三人います",
+      "犬が三台います"
+    ],
+    "correctAnswer": "犬が三匹います"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'taxi'?",
+    "options": ["タクシー", "タクシ", "タクシエ", "タクシァ"],
+    "correctAnswer": "タクシー"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the te-form to connect two actions?",
+    "options": [
+      "本を読んで、寝ました",
+      "本を読みました、寝ました",
+      "本を読んでから、寝ました",
+      "本を読んでいる、寝ました"
+    ],
+    "correctAnswer": "本を読んで、寝ました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '食べる' (to eat)?",
+    "options": [
+      "りんごが食べられる",
+      "りんごが食べれる",
+      "りんごを食べる",
+      "りんごが食べます"
+    ],
+    "correctAnswer": "りんごが食べられる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼に本を読ませられた' into English.",
+    "options": [
+      "I was made to read a book by him",
+      "I made him read a book",
+      "He read a book for me",
+      "He made me read a book"
+    ],
+    "correctAnswer": "I was made to read a book by him"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional 'ば' form with the adjective '高い' (expensive)?",
+    "options": [
+      "高ければ、買いません",
+      "高いば、買いません",
+      "高かったら、買いません",
+      "高いなら、買いません"
+    ],
+    "correctAnswer": "高ければ、買いません"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a relative clause to describe a noun?",
+    "options": [
+      "昨日買った本は面白いです",
+      "昨日、本を買った面白いです",
+      "昨日買った本面白いです",
+      "昨日、面白い本を買ったです"
+    ],
+    "correctAnswer": "昨日買った本は面白いです"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the proper honorific form of '行く' (to go) when referring to someone respected?",
+    "options": ["いらっしゃる", "行く", "おいでになる", "参る"],
+    "correctAnswer": "いらっしゃる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さくら'?",
+    "options": ["sakura", "sakula", "sacura", "sakira"],
+    "correctAnswer": "sakura"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'dog'?",
+    "options": ["いぬ", "ねこ", "うし", "とり"],
+    "correctAnswer": "いぬ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'こんばんは' into English.",
+    "options": ["Good evening", "Good morning", "Good night", "Hello"],
+    "correctAnswer": "Good evening"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'ice cream'?",
+    "options": [
+      "アイスクリーム",
+      "アイスクリム",
+      "アイスクリーム",
+      "アイスクリーム"
+    ],
+    "correctAnswer": "アイスクリーム"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which is the correct Romaji for 'ありがとう'?",
+    "options": ["arigatou", "arigato", "arigatou", "arrigatou"],
+    "correctAnswer": "arigatou"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'さようなら' into English.",
+    "options": ["Goodbye", "Hello", "Thank you", "Sorry"],
+    "correctAnswer": "Goodbye"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'moon'?",
+    "options": ["つき", "ほし", "ひ", "ゆめ"],
+    "correctAnswer": "つき"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct Romaji for 'みず'?",
+    "options": ["mizu", "mizu", "misu", "mitsu"],
+    "correctAnswer": "mizu"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the correct particle to indicate a destination?",
+    "options": [
+      "学校に行きます",
+      "学校で行きます",
+      "学校を行きます",
+      "学校へ行きます"
+    ],
+    "correctAnswer": "学校に行きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎日コーヒーを飲みます' into English.",
+    "options": [
+      "He drinks coffee every day",
+      "He drinks tea every day",
+      "He drinks coffee now",
+      "He drank coffee every day"
+    ],
+    "correctAnswer": "He drinks coffee every day"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the proper Katakana for 'radio'?",
+    "options": ["ラジオ", "ラディオ", "ラジオウ", "ラディオウ"],
+    "correctAnswer": "ラジオ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'と' to list companions?",
+    "options": [
+      "友達と遊びます",
+      "友達で遊びます",
+      "友達を遊びます",
+      "友達に遊びます"
+    ],
+    "correctAnswer": "友達と遊びます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Hiragana for 'flower'?",
+    "options": ["はな", "はなび", "かぜ", "ゆめ"],
+    "correctAnswer": "はな"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は学生です' into English.",
+    "options": [
+      "I am a student",
+      "I am a teacher",
+      "I am a doctor",
+      "I am a lawyer"
+    ],
+    "correctAnswer": "I am a student"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the te-form of '見る' (to see)?",
+    "options": [
+      "映画を見て、感動しました",
+      "映画を見ました、感動しました",
+      "映画を見ない、感動しました",
+      "映画を見ます、感動しました"
+    ],
+    "correctAnswer": "映画を見て、感動しました"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for '新しい'?",
+    "options": ["atarashii", "atarusii", "atarashi", "atarashiy"],
+    "correctAnswer": "atarashii"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'このケーキは美味しいです' into English.",
+    "options": [
+      "This cake is delicious",
+      "This cake is ugly",
+      "This cake is expensive",
+      "This cake is sweet"
+    ],
+    "correctAnswer": "This cake is delicious"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the correct formal negative of '行く' (to go)?",
+    "options": ["行きません", "行かない", "行くません", "行きませんでした"],
+    "correctAnswer": "行きません"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'hotel'?",
+    "options": ["ホテル", "ホテール", "ホトル", "ホーテル"],
+    "correctAnswer": "ホテル"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence uses the volitional form of 'する' (to do) to invite someone?",
+    "options": [
+      "一緒に勉強しよう",
+      "一緒に勉強します",
+      "一緒に勉強する",
+      "一緒に勉強しません"
+    ],
+    "correctAnswer": "一緒に勉強しよう"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼女は先生に褒められた' into English.",
+    "options": [
+      "She was praised by the teacher",
+      "She praised the teacher",
+      "The teacher was praised by her",
+      "She is praising the teacher"
+    ],
+    "correctAnswer": "She was praised by the teacher"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative-passive form of '読む' (to read)?",
+    "options": [
+      "私は彼に本を読まされました",
+      "私は彼に本を読ませました",
+      "私は彼に本を読んだ",
+      "私は彼に本を読む"
+    ],
+    "correctAnswer": "私は彼に本を読まされました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the proper honorific form of '言う' (to say) when referring to a superior's speech?",
+    "options": ["おっしゃる", "言う", "申す", "仰る"],
+    "correctAnswer": "おっしゃる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '見る' (to see)?",
+    "options": [
+      "映画が見られる",
+      "映画が見れる",
+      "映画が見る",
+      "映画が見ました"
+    ],
+    "correctAnswer": "映画が見られる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もし雨が降ったら、家にいます' into English.",
+    "options": [
+      "If it rains, I will stay at home",
+      "If it rains, I will go out",
+      "If it rains, I stayed at home",
+      "If it rains, I am going out"
+    ],
+    "correctAnswer": "If it rains, I will stay at home"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past continuous form?",
+    "options": [
+      "彼は音楽を聴いていました",
+      "彼は音楽を聴きました",
+      "彼は音楽を聴いています",
+      "彼は音楽を聴く"
+    ],
+    "correctAnswer": "彼は音楽を聴いていました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the correct te-form of '書く' (to write) when connecting verbs?",
+    "options": ["書いて", "書きて", "書いで", "書いて"],
+    "correctAnswer": "書いて"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'うみ'?",
+    "options": ["umi", "omori", "umi", "omoi"],
+    "correctAnswer": "umi"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'mountain'?",
+    "options": ["やま", "かわ", "そら", "うみ"],
+    "correctAnswer": "やま"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'ありがとうございます' into English.",
+    "options": ["Thank you very much", "You're welcome", "Hello", "Goodbye"],
+    "correctAnswer": "Thank you very much"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'banana'?",
+    "options": ["バナナ", "バナナー", "バンナナ", "バナナ"],
+    "correctAnswer": "バナナ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which of the following is the correct Romaji for 'にほん'?",
+    "options": ["nihon", "nippun", "nihon", "nihon"],
+    "correctAnswer": "nihon"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'おやすみなさい' into English.",
+    "options": ["Good night", "Good morning", "Good afternoon", "Hello"],
+    "correctAnswer": "Good night"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'book'?",
+    "options": ["ほん", "かみ", "しょ", "えほん"],
+    "correctAnswer": "ほん"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the correct particle to express the means of transportation?",
+    "options": [
+      "電車で行きます",
+      "電車に行きます",
+      "電車を行きます",
+      "電車へ行きます"
+    ],
+    "correctAnswer": "電車で行きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '週末に買い物をします' into English.",
+    "options": [
+      "I will go shopping on the weekend",
+      "I went shopping on the weekend",
+      "I shop on weekdays",
+      "I will shop tomorrow"
+    ],
+    "correctAnswer": "I will go shopping on the weekend"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'salad'?",
+    "options": ["サラダ", "サルダ", "サラダー", "サルダー"],
+    "correctAnswer": "サラダ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'も' to indicate 'also'?",
+    "options": ["私も行きます", "私で行きます", "私に行きます", "私を行きます"],
+    "correctAnswer": "私も行きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Hiragana for 'morning'?",
+    "options": ["あさ", "ひる", "よる", "まひる"],
+    "correctAnswer": "あさ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼らはサッカーが好きです' into English.",
+    "options": [
+      "They like soccer",
+      "They play soccer",
+      "They watch soccer",
+      "They love soccer"
+    ],
+    "correctAnswer": "They like soccer"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the te-form of '起きる' (to wake up)?",
+    "options": [
+      "早く起きて、朝ごはんを食べます",
+      "早く起きます、朝ごはんを食べます",
+      "早く起きる、朝ごはんを食べます",
+      "早く起きた、朝ごはんを食べます"
+    ],
+    "correctAnswer": "早く起きて、朝ごはんを食べます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for 'かわいい'?",
+    "options": ["kawaii", "kawaii", "kawai", "kawaii"],
+    "correctAnswer": "kawaii"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は日本語を勉強しています' into English.",
+    "options": [
+      "He is studying Japanese",
+      "He studies Japanese",
+      "He studied Japanese",
+      "He will study Japanese"
+    ],
+    "correctAnswer": "He is studying Japanese"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which of the following is the correct formal negative of '分かります' (to understand)?",
+    "options": ["分かりません", "分かりない", "分からない", "分かります"],
+    "correctAnswer": "分かりません"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the passive form of '叱る' (to scold)?",
+    "options": ["母に叱られた", "母に叱った", "母に叱ります", "母に叱っている"],
+    "correctAnswer": "母に叱られた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '社長がお越しになりました' into English.",
+    "options": [
+      "The president has arrived",
+      "The president arrived",
+      "The president is coming",
+      "The president will come"
+    ],
+    "correctAnswer": "The president has arrived"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional form of '勉強する' (to study)?",
+    "options": [
+      "勉強すれば、合格できます",
+      "勉強したら、合格できます",
+      "勉強すると、合格できます",
+      "勉強すれば、合格できました"
+    ],
+    "correctAnswer": "勉強すれば、合格できます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the correct keigo (respectful language) form for '食べる' when referring to a customer's action?",
+    "options": ["召し上がる", "食べる", "いただく", "食べられる"],
+    "correctAnswer": "召し上がる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a compound sentence with 'けれども' (although)?",
+    "options": [
+      "雨が降っているけれども、出かけます",
+      "雨が降っている、出かけます",
+      "雨が降っているけれど、出かけます",
+      "雨が降っているかもしれない、出かけます"
+    ],
+    "correctAnswer": "雨が降っているけれども、出かけます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '日本に行ったことがあります' into English.",
+    "options": [
+      "I have been to Japan",
+      "I went to Japan",
+      "I go to Japan",
+      "I will go to Japan"
+    ],
+    "correctAnswer": "I have been to Japan"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs 'ながら' to indicate simultaneous actions?",
+    "options": [
+      "音楽を聞きながら勉強します",
+      "音楽を聞きながら、勉強します",
+      "音楽を聞きながらで勉強します",
+      "音楽を聞きながら勉強する"
+    ],
+    "correctAnswer": "音楽を聞きながら勉強します"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the appropriate humble form of '行く' (to go) for your own action?",
+    "options": ["参る", "行く", "いらっしゃる", "おいでになる"],
+    "correctAnswer": "参る"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼は仕事を終えてから帰りました' into English.",
+    "options": [
+      "He returned home after finishing work",
+      "He finished work after returning home",
+      "He returned home before finishing work",
+      "He finished work and then left"
+    ],
+    "correctAnswer": "He returned home after finishing work"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past perfect form in Japanese?",
+    "options": [
+      "試験が終わった後に、パーティーをしました",
+      "試験が終わってから、パーティーをしました",
+      "試験が終わったら、パーティーをしました",
+      "試験が終わった、パーティーをしました"
+    ],
+    "correctAnswer": "試験が終わってから、パーティーをしました"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '花火'?",
+    "options": ["hanabi", "hanabi", "hanapi", "hanabi"],
+    "correctAnswer": "hanabi"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'watermelon'?",
+    "options": ["すいか", "もも", "なし", "ぶどう"],
+    "correctAnswer": "すいか"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'おめでとう' into English.",
+    "options": ["Congratulations", "Goodbye", "Hello", "Thank you"],
+    "correctAnswer": "Congratulations"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'orange' (the fruit)?",
+    "options": ["オレンジ", "オランジ", "オレんジ", "オレンジ"],
+    "correctAnswer": "オレンジ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which is the correct Romaji for 'みんな'?",
+    "options": ["minna", "minna", "minah", "minna"],
+    "correctAnswer": "minna"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'だいじょうぶ' into English.",
+    "options": ["It's okay", "I'm hungry", "I'm tired", "Goodbye"],
+    "correctAnswer": "It's okay"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'child'?",
+    "options": ["こども", "おとこのこ", "おんなのこ", "こども"],
+    "correctAnswer": "こども"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'から' to indicate a starting point?",
+    "options": [
+      "駅から歩きます",
+      "駅で歩きます",
+      "駅に歩きます",
+      "駅を歩きます"
+    ],
+    "correctAnswer": "駅から歩きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼はよく図書館に行きます' into English.",
+    "options": [
+      "He often goes to the library",
+      "He rarely goes to the library",
+      "He never goes to the library",
+      "He always stays at home"
+    ],
+    "correctAnswer": "He often goes to the library"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'sushi'?",
+    "options": ["スシ", "スシイ", "スッシ", "スシ"],
+    "correctAnswer": "スシ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'へ' to indicate direction?",
+    "options": [
+      "学校へ行きます",
+      "学校に行きます",
+      "学校で行きます",
+      "学校を行きます"
+    ],
+    "correctAnswer": "学校へ行きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Hiragana for 'sky'?",
+    "options": ["そら", "つき", "ひ", "ほし"],
+    "correctAnswer": "そら"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '昨日は忙しかったです' into English.",
+    "options": [
+      "I was busy yesterday",
+      "I am busy yesterday",
+      "I will be busy yesterday",
+      "I was not busy yesterday"
+    ],
+    "correctAnswer": "I was busy yesterday"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the polite past negative form of '飲む' (to drink)?",
+    "options": [
+      "飲みませんでした",
+      "飲まなかった",
+      "飲まないでした",
+      "飲みません"
+    ],
+    "correctAnswer": "飲みませんでした"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs 'たとえ～ても' (even if) in a hypothetical statement?",
+    "options": [
+      "たとえ雨が降っても、出かけます",
+      "たとえ雨が降った、出かけます",
+      "たとえ雨が降る、出かけます",
+      "たとえ雨が降らない、出かけます"
+    ],
+    "correctAnswer": "たとえ雨が降っても、出かけます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼は日本語で論文を書かなければなりませんでした' into English.",
+    "options": [
+      "He had to write a paper in Japanese",
+      "He must write a paper in Japanese",
+      "He wrote a paper in Japanese",
+      "He was writing a paper in Japanese"
+    ],
+    "correctAnswer": "He had to write a paper in Japanese"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a relative clause to modify a noun?",
+    "options": [
+      "昨日買った映画は面白かった",
+      "昨日、映画を買ったは面白かった",
+      "昨日買った、映画は面白かった",
+      "昨日買った映画面白かった"
+    ],
+    "correctAnswer": "昨日買った映画は面白かった"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the appropriate humble expression for '見る' (to see) when referring to one's own action?",
+    "options": ["拝見する", "見る", "ご覧になる", "見る"],
+    "correctAnswer": "拝見する"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the '〜たら' conditional form with a hypothetical future event?",
+    "options": [
+      "終わったら、電話します",
+      "終わって、電話します",
+      "終わるたら、電話します",
+      "終わった、電話します"
+    ],
+    "correctAnswer": "終わったら、電話します"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '社内の会議が始まる前に、資料を準備しなければなりません' into English.",
+    "options": [
+      "I must prepare the materials before the internal meeting starts",
+      "I prepared the materials before the internal meeting started",
+      "I must prepare the materials after the internal meeting starts",
+      "I am preparing the materials during the internal meeting"
+    ],
+    "correctAnswer": "I must prepare the materials before the internal meeting starts"
+  },
+
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '忍者'?",
+    "options": ["ninja", "ninjaa", "ninza", "ninjya"],
+    "correctAnswer": "ninja"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'hamburger'?",
+    "options": ["ハンバーガー", "ハンバガー", "ハンバーグ", "ハンバーガ"],
+    "correctAnswer": "ハンバーガー"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'こんにちは' into English.",
+    "options": ["Hello", "Goodbye", "Thanks", "Hiya"],
+    "correctAnswer": "Hello"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'apple' (the fruit)?",
+    "options": ["りんご", "あっぷる", "りんごう", "あっぴー"],
+    "correctAnswer": "りんご"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'さくら'?",
+    "options": ["sakura", "sakula", "sakra", "sacura"],
+    "correctAnswer": "sakura"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'ありがとう' into English.",
+    "options": ["Thank you", "Sorry", "Goodbye", "Hello"],
+    "correctAnswer": "Thank you"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which is the correct Katakana for 'coffee'?",
+    "options": ["コーヒー", "コヒー", "コフィー", "コーヒ"],
+    "correctAnswer": "コーヒー"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which of the following is the correct Hiragana for 'water'?",
+    "options": ["みず", "みづ", "みずう", "みず"],
+    "correctAnswer": "みず"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ねこ'?",
+    "options": ["neko", "necco", "neko", "nekko"],
+    "correctAnswer": "neko"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'おはよう' into English.",
+    "options": ["Good morning", "Good night", "Hello", "Good afternoon"],
+    "correctAnswer": "Good morning"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which is the correct Katakana for 'pizza'?",
+    "options": ["ピザ", "ピッツァ", "ピザァ", "ピザ"],
+    "correctAnswer": "ピザ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct Romaji for 'たこやき'?",
+    "options": ["takoyaki", "tako-yaki", "takoyaki", "takoyacky"],
+    "correctAnswer": "takoyaki"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'さよなら' into English.",
+    "options": ["Goodbye", "Hello", "See you later", "Good morning"],
+    "correctAnswer": "Goodbye"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'flower'?",
+    "options": ["はな", "はなび", "はなわ", "はなこ"],
+    "correctAnswer": "はな"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'うみ'?",
+    "options": ["umi", "umee", "ummy", "umi"],
+    "correctAnswer": "umi"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'おやすみ' into English.",
+    "options": ["Good night", "Good morning", "Good afternoon", "Hello"],
+    "correctAnswer": "Good night"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'soda'?",
+    "options": ["ソーダ", "ソダ", "ソーだ", "ソーダ"],
+    "correctAnswer": "ソーダ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'dog'?",
+    "options": ["いぬ", "いぬ", "ぬい", "いぬ"],
+    "correctAnswer": "いぬ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'たのしい' into English.",
+    "options": ["Fun", "Sad", "Boring", "Angry"],
+    "correctAnswer": "Fun"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'かめ' (turtle)?",
+    "options": ["kame", "came", "kamee", "kamme"],
+    "correctAnswer": "kame"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'chocolate'?",
+    "options": ["チョコレート", "チョコレート", "チョコレト", "チョコレート"],
+    "correctAnswer": "チョコレート"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'もしもし' (used on the phone) into English.",
+    "options": ["Hello", "Goodbye", "Please", "Thank you"],
+    "correctAnswer": "Hello"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'cat'?",
+    "options": ["ねこ", "ねこ", "ねっこ", "ねこ"],
+    "correctAnswer": "ねこ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'みかん' (mandarin)?",
+    "options": ["mikan", "mikan", "mikan", "mickan"],
+    "correctAnswer": "mikan"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'すごい' into English.",
+    "options": ["Amazing", "Boring", "Tired", "Loud"],
+    "correctAnswer": "Amazing"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'camera'?",
+    "options": ["カメラ", "カメラ", "カメラー", "カメラ"],
+    "correctAnswer": "カメラ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'star'?",
+    "options": ["ほし", "ほしあ", "ほしん", "ほし"],
+    "correctAnswer": "ほし"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'げんき' into English.",
+    "options": ["Healthy", "Lazy", "Hungry", "Sleepy"],
+    "correctAnswer": "Healthy"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'ゆめ' (dream)?",
+    "options": ["yume", "yumee", "yume", "yum"],
+    "correctAnswer": "yume"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'pasta'?",
+    "options": ["パスタ", "パスた", "パスター", "パスタ"],
+    "correctAnswer": "パスタ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'たかい' into English.",
+    "options": ["High", "Low", "Thin", "Wide"],
+    "correctAnswer": "High"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'bird'?",
+    "options": ["とり", "とり", "とりっ", "とり"],
+    "correctAnswer": "とり"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'わらう' into English.",
+    "options": ["Laugh", "Cry", "Sleep", "Run"],
+    "correctAnswer": "Laugh"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for 'かぜ' (wind)?",
+    "options": ["kaze", "kazze", "kaze", "ka-ze"],
+    "correctAnswer": "kaze"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'で' to indicate location?",
+    "options": [
+      "公園で走ります",
+      "公園に走ります",
+      "公園を走ります",
+      "公園へ走ります"
+    ],
+    "correctAnswer": "公園で走ります"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '明日、海に行きます' into English.",
+    "options": [
+      "I will go to the beach tomorrow",
+      "I went to the beach yesterday",
+      "I go to the sea every day",
+      "I will swim in the sea tomorrow"
+    ],
+    "correctAnswer": "I will go to the beach tomorrow"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the proper Katakana for 'sushi'?",
+    "options": ["スシ", "スシー", "スシィ", "スッシ"],
+    "correctAnswer": "スシ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the te-form to connect actions?",
+    "options": [
+      "朝ごはんを食べて、学校へ行きます",
+      "朝ごはんを食べ、学校へ行きます",
+      "朝ごはんを食べ、学校に行きます",
+      "朝ごはんを食べた、学校へ行きます"
+    ],
+    "correctAnswer": "朝ごはんを食べて、学校へ行きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '雨が降っているので、傘を持ちます' into English.",
+    "options": [
+      "Because it's raining, I will bring an umbrella",
+      "Because it's sunny, I bring sunglasses",
+      "Because it's cold, I wear a hat",
+      "Because it's windy, I run"
+    ],
+    "correctAnswer": "Because it's raining, I will bring an umbrella"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the correct past tense of '見る' (to see)?",
+    "options": [
+      "昨日、映画を見ました",
+      "昨日、映画を見ます",
+      "昨日、映画を見ていました",
+      "昨日、映画を見ない"
+    ],
+    "correctAnswer": "昨日、映画を見ました"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for 'おもしろい'?",
+    "options": ["omoshiroi", "omoshirroi", "omoshiro", "omoshiroi"],
+    "correctAnswer": "omoshiroi"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎朝ジョギングをします' into English.",
+    "options": [
+      "He jogs every morning",
+      "He jogged every morning",
+      "He will jog every morning",
+      "He is jogging every morning"
+    ],
+    "correctAnswer": "He jogs every morning"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'に' to indicate time?",
+    "options": [
+      "八時に起きます",
+      "八時で起きます",
+      "八時を起きます",
+      "八時へ起きます"
+    ],
+    "correctAnswer": "八時に起きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '友達とカラオケに行くのは楽しいです' into English.",
+    "options": [
+      "Going to karaoke with friends is fun",
+      "Going to karaoke with friends is boring",
+      "Singing alone is fun",
+      "Karaoke with strangers is fun"
+    ],
+    "correctAnswer": "Going to karaoke with friends is fun"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'curry'?",
+    "options": ["カレー", "カレイ", "カリィ", "カレー"],
+    "correctAnswer": "カレー"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the counter for books?",
+    "options": [
+      "本を三冊読みました",
+      "本を三個読みました",
+      "本を三匹読みました",
+      "本を三人読みました"
+    ],
+    "correctAnswer": "本を三冊読みました"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '昨日の夜、星を数えました' into English.",
+    "options": [
+      "Last night, I counted stars",
+      "Last night, I ate stars",
+      "Yesterday, I saw many stars",
+      "Tonight, I counted stars"
+    ],
+    "correctAnswer": "Last night, I counted stars"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the negative form of '行く' (to go) in plain speech?",
+    "options": [
+      "学校に行かない",
+      "学校に行きません",
+      "学校に行かず",
+      "学校に行けない"
+    ],
+    "correctAnswer": "学校に行かない"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for 'かわいい'?",
+    "options": ["kawaii", "kawai", "kawii", "kawaii"],
+    "correctAnswer": "kawaii"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は毎晩星を眺めます' into English.",
+    "options": [
+      "She gazes at the stars every night",
+      "She counts stars every night",
+      "She sings to stars every night",
+      "She avoids stars every night"
+    ],
+    "correctAnswer": "She gazes at the stars every night"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the proper form of 'ある' for inanimate objects?",
+    "options": ["本があります", "本がいます", "本をいます", "本であります"],
+    "correctAnswer": "本があります"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '電車が遅れていて、びっくりしました' into English.",
+    "options": [
+      "The train was delayed, and I was surprised",
+      "The train was on time, and I was surprised",
+      "I was delayed by the train, and I was happy",
+      "The train was delayed, and I was angry"
+    ],
+    "correctAnswer": "The train was delayed, and I was surprised"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'salad'?",
+    "options": ["サラダ", "サラダ", "サラダー", "サラッダ"],
+    "correctAnswer": "サラダ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses 'まだ' to mean 'not yet'?",
+    "options": [
+      "まだ食べていません",
+      "もう食べていません",
+      "まだ食べました",
+      "もう食べています"
+    ],
+    "correctAnswer": "まだ食べていません"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '勉強したら、寝ます' into English.",
+    "options": [
+      "If I study, I will sleep",
+      "If I sleep, I will study",
+      "I studied and then slept",
+      "I study and sleep"
+    ],
+    "correctAnswer": "If I study, I will sleep"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the correct te-form of '書く' (to write)?",
+    "options": [
+      "手紙を書いて、送ります",
+      "手紙を書きて、送ります",
+      "手紙を書いて、送った",
+      "手紙を書き、送ります"
+    ],
+    "correctAnswer": "手紙を書いて、送ります"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for 'びっくり'?",
+    "options": ["bikkuri", "bikkuri", "bikuri", "bikkuri"],
+    "correctAnswer": "bikkuri"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '明日は雨が降るかもしれません' into English.",
+    "options": [
+      "It might rain tomorrow",
+      "It will definitely rain tomorrow",
+      "It never rains",
+      "It rained yesterday"
+    ],
+    "correctAnswer": "It might rain tomorrow"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'で' to indicate means of transportation?",
+    "options": [
+      "バスで行きます",
+      "バスに行きます",
+      "バスを行きます",
+      "バスへ行きます"
+    ],
+    "correctAnswer": "バスで行きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '図書館でこっそり本を借りました' into English.",
+    "options": [
+      "I secretly borrowed a book from the library",
+      "I loudly borrowed a book from the library",
+      "I secretly returned a book to the library",
+      "I borrowed a book and then shouted"
+    ],
+    "correctAnswer": "I secretly borrowed a book from the library"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'ice cream'?",
+    "options": [
+      "アイスクリーム",
+      "アイスクリム",
+      "アイスクリーン",
+      "アイスクリーム"
+    ],
+    "correctAnswer": "アイスクリーム"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the comparative with 'もっと'?",
+    "options": [
+      "彼はもっと速く走ります",
+      "彼はもっと速い走ります",
+      "彼は速くもっと走ります",
+      "彼は速いもっと走ります"
+    ],
+    "correctAnswer": "彼はもっと速く走ります"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼はカエルのように跳ねます' into English.",
+    "options": [
+      "He jumps like a frog",
+      "He sings like a frog",
+      "He runs like a frog",
+      "He eats like a frog"
+    ],
+    "correctAnswer": "He jumps like a frog"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'も' to indicate inclusion?",
+    "options": ["私も行きます", "私で行きます", "私に行きます", "私を行きます"],
+    "correctAnswer": "私も行きます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate 'このリンゴはちょっと酸っぱいです' into English.",
+    "options": [
+      "This apple is a bit sour",
+      "This apple is very sweet",
+      "This apple is extremely spicy",
+      "This apple is a bit funny"
+    ],
+    "correctAnswer": "This apple is a bit sour"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for 'ふざける'?",
+    "options": ["fuzakeru", "fuzakeru", "fuzakeru", "fuzakaru"],
+    "correctAnswer": "fuzakeru"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the correct polite form of '来る' (to come)?",
+    "options": ["来ます", "来る", "こない", "来た"],
+    "correctAnswer": "来ます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form of '話す' (to speak)?",
+    "options": [
+      "先生は生徒に日本語を話させました",
+      "先生は生徒に日本語を話しました",
+      "先生は生徒に日本語を話させる",
+      "先生は生徒に日本語を話していました"
+    ],
+    "correctAnswer": "先生は生徒に日本語を話させました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'あの猫は見事に走らせられた' into English.",
+    "options": [
+      "That cat was made to run magnificently",
+      "That cat ran magnificently",
+      "That cat is a runner",
+      "That cat was forced to run quickly"
+    ],
+    "correctAnswer": "That cat was made to run magnificently"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the passive form of '笑う' (to laugh)?",
+    "options": [
+      "みんなに笑われた",
+      "みんなに笑った",
+      "みんなに笑います",
+      "みんなに笑わされた"
+    ],
+    "correctAnswer": "みんなに笑われた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もしおにぎりが喋ったら、何を言うでしょうか？' into English.",
+    "options": [
+      "If rice balls could talk, what would they say?",
+      "If rice balls could dance, what would they do?",
+      "If rice balls could fly, where would they go?",
+      "If rice balls could run, how fast would they be?"
+    ],
+    "correctAnswer": "If rice balls could talk, what would they say?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs the potential form of '泳ぐ' (to swim)?",
+    "options": ["彼は泳げる", "彼は泳ぐ", "彼は泳ぎます", "彼は泳げない"],
+    "correctAnswer": "彼は泳げる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '社長は部下に昼休みを延ばさせました' into English.",
+    "options": [
+      "The boss made his subordinates extend their lunch break",
+      "The boss extended his lunch break",
+      "The boss enjoyed an extended lunch break",
+      "The boss asked his subordinates to work through lunch"
+    ],
+    "correctAnswer": "The boss made his subordinates extend their lunch break"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional 'たら' form of '終わる' (to finish)?",
+    "options": [
+      "仕事が終わったら、ビールを飲みます",
+      "仕事が終わるたら、ビールを飲みます",
+      "仕事が終わった、ビールを飲みます",
+      "仕事が終わって、ビールを飲みます"
+    ],
+    "correctAnswer": "仕事が終わったら、ビールを飲みます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼女は犬に散歩させられて、まるで映画のワンシーンのようでした' into English.",
+    "options": [
+      "She was made to walk the dog, just like a scene from a movie",
+      "She walked the dog like a movie star",
+      "The dog walked her like a movie scene",
+      "She ignored the dog and watched a movie"
+    ],
+    "correctAnswer": "She was made to walk the dog, just like a scene from a movie"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific form for '行く' (to go)?",
+    "options": [
+      "社長は会議にいらっしゃいました",
+      "社長は会議に行きました",
+      "社長は会議に来ました",
+      "社長は会議においでになりました"
+    ],
+    "correctAnswer": "社長は会議にいらっしゃいました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'あの古いラーメン屋は、実は幽霊が経営しているとか' into English.",
+    "options": [
+      "That old ramen shop is rumored to be run by a ghost",
+      "That old ramen shop is haunted by a ghost",
+      "That old ramen shop is owned by a mysterious man",
+      "That old ramen shop has the best ramen in town"
+    ],
+    "correctAnswer": "That old ramen shop is rumored to be run by a ghost"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the volitional form of '遊ぶ' (to play) to suggest a plan?",
+    "options": ["遊ぼう", "遊びます", "遊びたい", "遊ぶまい"],
+    "correctAnswer": "遊ぼう"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もしタイムマシンがあったら、どの時代に行きますか？' into English.",
+    "options": [
+      "If you had a time machine, which era would you go to?",
+      "If you had a time machine, would you go to the future?",
+      "If you had a time machine, would you go back to dinner?",
+      "If you had a time machine, which book would you read?"
+    ],
+    "correctAnswer": "If you had a time machine, which era would you go to?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative-passive form of '食べる' (to eat)?",
+    "options": [
+      "彼にカレーを食べさせられた",
+      "彼にカレーを食べさせました",
+      "彼にカレーを食べられた",
+      "彼にカレーを食べさせる"
+    ],
+    "correctAnswer": "彼にカレーを食べさせられた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '先生にジョークを言われたとき、全員が爆笑しました' into English.",
+    "options": [
+      "When the teacher told a joke, everyone burst out laughing",
+      "When the teacher told a joke, everyone groaned",
+      "When the teacher joked, everyone was confused",
+      "When the teacher told a joke, everyone left the room"
+    ],
+    "correctAnswer": "When the teacher told a joke, everyone burst out laughing"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses 'ばかり' to indicate 'only'?",
+    "options": [
+      "彼はゲームばかりしています",
+      "彼はゲームしかしていません",
+      "彼はただゲームしています",
+      "彼はゲームをばかりしています"
+    ],
+    "correctAnswer": "彼はゲームばかりしています"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'そんなにおいしいラーメンは、一度食べたら忘れられません' into English.",
+    "options": [
+      "Such delicious ramen is unforgettable once tasted",
+      "Such delicious ramen is quickly forgotten",
+      "Such ramen is so spicy, you'll forget it",
+      "Once you eat such ramen, you regret it"
+    ],
+    "correctAnswer": "Such delicious ramen is unforgettable once tasted"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past continuous form of '笑う' (to laugh)?",
+    "options": [
+      "彼は笑っていました",
+      "彼は笑いました",
+      "彼は笑っています",
+      "彼は笑わなかった"
+    ],
+    "correctAnswer": "彼は笑っていました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もし猫が空を飛んだら、どうなるでしょう？' into English.",
+    "options": [
+      "If cats could fly, what would happen?",
+      "If cats could swim, what would happen?",
+      "If dogs could fly, what would happen?",
+      "If cats could talk, what would happen?"
+    ],
+    "correctAnswer": "If cats could fly, what would happen?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the humble form of '食べる' (to eat) for oneself?",
+    "options": ["いただく", "食べる", "召し上がる", "お食べになる"],
+    "correctAnswer": "いただく"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'この文法は難しすぎて、頭が爆発しそうです' into English.",
+    "options": [
+      "This grammar is so difficult, it feels like my head is about to explode",
+      "This grammar is so easy, my head is exploding",
+      "This grammar is exploding my head because it's funny",
+      "This grammar is so spicy, it exploded my head"
+    ],
+    "correctAnswer": "This grammar is so difficult, it feels like my head is about to explode"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a relative clause to describe a funny incident?",
+    "options": [
+      "昨日見た映画は笑いが止まらなかった",
+      "昨日、映画を見た笑いが止まらなかった",
+      "昨日見た、映画は笑いが止まらなかった",
+      "昨日映画見た映画は笑いが止まらなかった"
+    ],
+    "correctAnswer": "昨日見た映画は笑いが止まらなかった"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '僕はカラオケで変なダンスをして、友達を笑わせた' into English.",
+    "options": [
+      "I did a weird dance at karaoke and made my friends laugh",
+      "I danced normally at karaoke and made my friends cry",
+      "I did a weird dance at karaoke and embarrassed my friends",
+      "I sang at karaoke and made my friends laugh"
+    ],
+    "correctAnswer": "I did a weird dance at karaoke and made my friends laugh"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '話す' (to speak)?",
+    "options": [
+      "彼は日本語が話せる",
+      "彼は日本語を話す",
+      "彼は日本語が話す",
+      "彼は日本語が話さない"
+    ],
+    "correctAnswer": "彼は日本語が話せる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もし自分の影が喋りだしたら、怖くないですか？' into English.",
+    "options": [
+      "If your shadow started talking, wouldn't that be scary?",
+      "If your shadow started dancing, wouldn't that be cool?",
+      "If your shadow started singing, wouldn't that be nice?",
+      "If your shadow started cooking, wouldn't that be odd?"
+    ],
+    "correctAnswer": "If your shadow started talking, wouldn't that be scary?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional 'なら' with an adjective?",
+    "options": [
+      "安いなら、買います",
+      "安かったら、買います",
+      "安いなら、買う",
+      "安くなら、買います"
+    ],
+    "correctAnswer": "安いなら、買います"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼女はジョークを言うと、みんなが笑い転げます' into English.",
+    "options": [
+      "When she tells a joke, everyone bursts out laughing",
+      "When she tells a joke, everyone groans",
+      "When she tells a joke, everyone leaves",
+      "When she tells a joke, everyone cries"
+    ],
+    "correctAnswer": "When she tells a joke, everyone bursts out laughing"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the te-form of '歩く' (to walk) in a compound sentence?",
+    "options": [
+      "公園を歩いて、本を読みます",
+      "公園を歩き、本を読みます",
+      "公園を歩いて、本を読む",
+      "公園を歩いて、本を読んだ"
+    ],
+    "correctAnswer": "公園を歩いて、本を読みます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'あの犬は自分の尻尾に追いつけませんでした' into English.",
+    "options": [
+      "That dog couldn't catch its own tail",
+      "That dog caught its tail",
+      "That dog is chasing a cat",
+      "That dog forgot its tail"
+    ],
+    "correctAnswer": "That dog couldn't catch its own tail"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the perfective aspect of '食べる' (to eat)?",
+    "options": [
+      "もう食べ終わりました",
+      "もう食べました",
+      "もう食べていました",
+      "もう食べませんでした"
+    ],
+    "correctAnswer": "もう食べ終わりました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もし宇宙人が訪ねてきたら、どう迎えますか？' into English.",
+    "options": [
+      "If aliens visited, how would you greet them?",
+      "If aliens visited, how would you attack them?",
+      "If aliens visited, would you hide?",
+      "If aliens visited, how would you ignore them?"
+    ],
+    "correctAnswer": "If aliens visited, how would you greet them?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the honorific expression for '知る' (to know)?",
+    "options": [
+      "先生はその秘密をご存じです",
+      "先生はその秘密を知っています",
+      "先生はその秘密を知る",
+      "先生はその秘密をご存じだ"
+    ],
+    "correctAnswer": "先生はその秘密をご存じです"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '会議中に居眠りしたら、上司に怒られるよ' into English.",
+    "options": [
+      "If you doze off during a meeting, your boss will get angry",
+      "If you doze off during a meeting, your boss will laugh",
+      "If you doze off during a meeting, you'll get a raise",
+      "If you doze off during a meeting, you'll dream"
+    ],
+    "correctAnswer": "If you doze off during a meeting, your boss will get angry"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form to express 'to make someone laugh'?",
+    "options": [
+      "友達を笑いさせる",
+      "友達に笑う",
+      "友達を笑わせる",
+      "友達に笑わせる"
+    ],
+    "correctAnswer": "友達を笑いさせる"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '大阪'?",
+    "options": ["oosaka", "osaka", "ōsaka", "osakaa"],
+    "correctAnswer": "osaka"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'pancake'?",
+    "options": ["パンケーキ", "パnケーキ", "パンケーキー", "パンクーキ"],
+    "correctAnswer": "パンケーキ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'いただきます' into English.",
+    "options": ["Let's eat", "Thank you", "Excuse me", "Good night"],
+    "correctAnswer": "Let's eat"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'rain'?",
+    "options": ["あめ", "あま", "あみ", "あめん"],
+    "correctAnswer": "あめ"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '京都'?",
+    "options": ["Kyoto", "Kyouto", "Kiyoto", "Kyoooto"],
+    "correctAnswer": "Kyoto"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'beer'?",
+    "options": ["ビール", "ビア", "ビールー", "ビィール"],
+    "correctAnswer": "ビール"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate '乾杯' into English.",
+    "options": ["Cheers", "Goodbye", "Welcome", "Salud"],
+    "correctAnswer": "Cheers"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'sun'?",
+    "options": ["たいよう", "ひ", "そら", "あかつき"],
+    "correctAnswer": "たいよう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'bacon'?",
+    "options": ["ベーコン", "ベコン", "ベーコ", "ベイコン"],
+    "correctAnswer": "ベーコン"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'おいしい' into English.",
+    "options": ["Delicious", "Tasty", "Yummy", "All of the above"],
+    "correctAnswer": "Delicious"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'school'?",
+    "options": ["がっこう", "すくーる", "がっこ", "がっこう"],
+    "correctAnswer": "がっこう"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '星'?",
+    "options": ["hoshi", "hosy", "hosshi", "hoshi"],
+    "correctAnswer": "hoshi"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'chicken'?",
+    "options": ["チキン", "チッキン", "チキン", "チキーン"],
+    "correctAnswer": "チキン"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate '元気ですか？' into English.",
+    "options": [
+      "How are you?",
+      "Are you healthy?",
+      "What's up?",
+      "Are you energetic?"
+    ],
+    "correctAnswer": "How are you?"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'tree'?",
+    "options": ["き", "こ", "た", "き"],
+    "correctAnswer": "き"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which is the correct Katakana for 'taco'?",
+    "options": ["タコス", "タコ", "タッコ", "タコース"],
+    "correctAnswer": "タコス"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'さくらんぼ' into English.",
+    "options": ["Cherry", "Peach", "Plum", "Strawberry"],
+    "correctAnswer": "Cherry"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'sundae'?",
+    "options": ["サンデー", "サンダー", "サンディ", "サンデイ"],
+    "correctAnswer": "サンデー"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'むずかしい' into English.",
+    "options": ["Difficult", "Easy", "Boring", "Exciting"],
+    "correctAnswer": "Difficult"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'noodles'?",
+    "options": ["めん", "のど", "みね", "めん"],
+    "correctAnswer": "めん"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'しずか' into English.",
+    "options": ["Quiet", "Loud", "Happy", "Angry"],
+    "correctAnswer": "Quiet"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'yogurt'?",
+    "options": ["ヨーグルト", "ヨグルト", "ヨーグル", "ヨーグルト"],
+    "correctAnswer": "ヨーグルト"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate '大好き' into English.",
+    "options": ["Love", "Like", "Hate", "Adore"],
+    "correctAnswer": "Love"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Katakana for 'sugar'?",
+    "options": ["シュガー", "スガー", "シュガ", "シュッガー"],
+    "correctAnswer": "シュガー"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'すばらしい' into English.",
+    "options": ["Wonderful", "Awful", "Ordinary", "Boring"],
+    "correctAnswer": "Wonderful"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '小説'?",
+    "options": ["shousetsu", "shosetsu", "shosetu", "shousetu"],
+    "correctAnswer": "shousetsu"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'salmon'?",
+    "options": ["サーモン", "サモン", "サーモン", "サーモーン"],
+    "correctAnswer": "サーモン"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'おもしろい' into English.",
+    "options": ["Interesting", "Boring", "Confusing", "Dull"],
+    "correctAnswer": "Interesting"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'ice'?",
+    "options": ["こおり", "こい", "こおりん", "こおら"],
+    "correctAnswer": "こおり"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'ぺらぺら' into English.",
+    "options": ["Fluent", "Chatter", "Drizzle", "Sleepy"],
+    "correctAnswer": "Fluent"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Romaji for '電車'?",
+    "options": ["densha", "den-sha", "densha", "densa"],
+    "correctAnswer": "densha"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which Katakana spells 'curry rice'?",
+    "options": ["カレーライス", "カレライス", "カレーライス", "カレールイス"],
+    "correctAnswer": "カレーライス"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Translate 'ゆっくり' into English.",
+    "options": ["Slowly", "Quickly", "Happily", "Loudly"],
+    "correctAnswer": "Slowly"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the Hiragana for 'river'?",
+    "options": ["かわ", "かわ", "かわー", "かば"],
+    "correctAnswer": "かわ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the te-form of '走る'?",
+    "options": [
+      "公園を走って、風を感じた",
+      "公園を走り、風を感じた",
+      "公園を走りて、風を感じた",
+      "公園を走って風を感じた"
+    ],
+    "correctAnswer": "公園を走って、風を感じた"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は毎日ジムでトレーニングします' into English.",
+    "options": [
+      "He trains at the gym every day",
+      "He trains at the park every day",
+      "He trains at home every day",
+      "He trains once a week"
+    ],
+    "correctAnswer": "He trains at the gym every day"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Fill in the particle: '図書館 __ 勉強します'.",
+    "options": ["で", "に", "を", "へ"],
+    "correctAnswer": "で"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly asks for permission?",
+    "options": [
+      "ここで写真を撮ってもいいですか？",
+      "ここで写真を撮るか？",
+      "ここで写真を撮きますか？",
+      "ここで写真を撮りましょうか？"
+    ],
+    "correctAnswer": "ここで写真を撮ってもいいですか？"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '母は毎朝コーヒーを淹れます' into English.",
+    "options": [
+      "My mother makes coffee every morning",
+      "My mother drinks coffee every morning",
+      "My mother buys coffee every morning",
+      "My mother spills coffee every morning"
+    ],
+    "correctAnswer": "My mother makes coffee every morning"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which is the correct polite negative form of '読む'?",
+    "options": ["読みません", "読まない", "読まず", "読まなかった"],
+    "correctAnswer": "読みません"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for '静か'?",
+    "options": ["shizuka", "shizuka", "shizukka", "shizuka"],
+    "correctAnswer": "shizuka"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は冗談を言って笑わせました' into English.",
+    "options": [
+      "He told a joke and made everyone laugh",
+      "He told a joke and everyone groaned",
+      "He laughed at his own joke",
+      "He told a joke but no one laughed"
+    ],
+    "correctAnswer": "He told a joke and made everyone laugh"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'で' for travel?",
+    "options": [
+      "飛行機で旅行します",
+      "飛行機に旅行します",
+      "飛行機を旅行します",
+      "飛行機へ旅行します"
+    ],
+    "correctAnswer": "飛行機で旅行します"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'cereal'?",
+    "options": ["シリアル", "シレアル", "シリアル", "シリアル"],
+    "correctAnswer": "シリアル"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '駅まで走ったが、バスに乗り遅れた' into English.",
+    "options": [
+      "I ran to the station but missed the bus",
+      "I ran to the bus but missed the station",
+      "I walked to the station and caught the bus",
+      "I ran to the station and caught the bus"
+    ],
+    "correctAnswer": "I ran to the station but missed the bus"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the correct past tense of '食べる'?",
+    "options": [
+      "昨日、寿司を食べました",
+      "昨日、寿司を食べます",
+      "昨日、寿司を食べていました",
+      "昨日、寿司を食べない"
+    ],
+    "correctAnswer": "昨日、寿司を食べました"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Hiragana for 'breakfast'?",
+    "options": ["あさごはん", "あさしょく", "あさごはん", "あさたべ"],
+    "correctAnswer": "あさごはん"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女はピアノを弾くのが上手です' into English.",
+    "options": [
+      "She is good at playing the piano",
+      "She is bad at playing the piano",
+      "She is learning to play the piano",
+      "She refuses to play the piano"
+    ],
+    "correctAnswer": "She is good at playing the piano"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'を' with a transitive verb?",
+    "options": ["本を読む", "本に読む", "本で読む", "本が読む"],
+    "correctAnswer": "本を読む"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for '楽しい'?",
+    "options": ["tanoshii", "tanosii", "tanoshi", "tanoshy"],
+    "correctAnswer": "tanoshii"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '友達と映画館に行きました' into English.",
+    "options": [
+      "I went to the cinema with my friends",
+      "I went to the park with my friends",
+      "I went alone to the cinema",
+      "I went to the cinema with my family"
+    ],
+    "correctAnswer": "I went to the cinema with my friends"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the polite negative form of '飲む'?",
+    "options": ["飲みません", "飲まない", "飲まず", "飲みませんでした"],
+    "correctAnswer": "飲みません"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'robot'?",
+    "options": ["ロボット", "ロボット", "ロボト", "ロボット"],
+    "correctAnswer": "ロボット"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼は図書館で静かにしています' into English.",
+    "options": [
+      "He is being quiet in the library",
+      "He is shouting in the library",
+      "He is sleeping in the library",
+      "He is laughing in the library"
+    ],
+    "correctAnswer": "He is being quiet in the library"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the te-form to link adjectives?",
+    "options": [
+      "この映画は面白くて、感動的です",
+      "この映画は面白く、感動的です",
+      "この映画は面白いて、感動的です",
+      "この映画は面白い、感動的です"
+    ],
+    "correctAnswer": "この映画は面白くて、感動的です"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Hiragana for 'evening'?",
+    "options": ["ゆうがた", "よる", "ばん", "ゆうがた"],
+    "correctAnswer": "ゆうがた"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は料理が得意です' into English.",
+    "options": [
+      "I am good at cooking",
+      "I hate cooking",
+      "I love eating",
+      "I rarely cook"
+    ],
+    "correctAnswer": "I am good at cooking"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the conditional with 'もし'?",
+    "options": [
+      "もし雨なら、家にいます",
+      "もし雨で、家にいます",
+      "もし雨だったら、家にいます",
+      "もし雨が降れば、家にいます"
+    ],
+    "correctAnswer": "もし雨なら、家にいます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Romaji for '疲れた'?",
+    "options": ["tsukareta", "tsukareta", "tsukreta", "tsukaretaa"],
+    "correctAnswer": "tsukareta"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '兄は毎朝ジョギングをします' into English.",
+    "options": [
+      "My older brother jogs every morning",
+      "My older brother jogged every morning",
+      "My younger brother jogs every morning",
+      "My father jogs every morning"
+    ],
+    "correctAnswer": "My older brother jogs every morning"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence uses the polite past form of '見る'?",
+    "options": [
+      "映画を見ました",
+      "映画を見ます",
+      "映画を見ていました",
+      "映画を見ない"
+    ],
+    "correctAnswer": "映画を見ました"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Katakana for 'soup'?",
+    "options": ["スープ", "スップ", "スプー", "スープ"],
+    "correctAnswer": "スープ"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '彼女は図書館で本を借りました' into English.",
+    "options": [
+      "She borrowed a book from the library",
+      "She returned a book to the library",
+      "She lost a book at the library",
+      "She read a book in the library"
+    ],
+    "correctAnswer": "She borrowed a book from the library"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly uses the particle 'から' to indicate reason?",
+    "options": [
+      "寒いから、コートを着ます",
+      "寒いで、コートを着ます",
+      "寒いを、コートを着ます",
+      "寒いに、コートを着ます"
+    ],
+    "correctAnswer": "寒いから、コートを着ます"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the Hiragana for 'dinner'?",
+    "options": ["ばんごはん", "ゆうしょく", "ばんごはん", "ゆうはん"],
+    "correctAnswer": "ばんごはん"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Translate '私は猫と遊ぶのが好きです' into English.",
+    "options": [
+      "I like playing with cats",
+      "I like playing with dogs",
+      "I hate playing with cats",
+      "I like feeding cats"
+    ],
+    "correctAnswer": "I like playing with cats"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which sentence correctly asks 'What time is it?'",
+    "options": [
+      "今何時ですか？",
+      "何時ですか？",
+      "今、何時？",
+      "時は何ですか？"
+    ],
+    "correctAnswer": "今何時ですか？"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative form of '書く'?",
+    "options": [
+      "母は子供に手紙を書かせた",
+      "母は子供に手紙を書いた",
+      "母は子供に手紙を書かせる",
+      "母は子供に手紙を書かされた"
+    ],
+    "correctAnswer": "母は子供に手紙を書かせた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼は上司に無理な仕事をさせられた' into English.",
+    "options": [
+      "He was made to do unreasonable work by his boss",
+      "He voluntarily did extra work",
+      "His boss gave him extra work",
+      "He refused to do extra work"
+    ],
+    "correctAnswer": "He was made to do unreasonable work by his boss"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the passive form of '壊す'?",
+    "options": [
+      "私の自転車が子供に壊された",
+      "私の自転車が子供に壊した",
+      "子供が私の自転車を壊した",
+      "私の自転車が子供に壊される"
+    ],
+    "correctAnswer": "私の自転車が子供に壊された"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もしお化けが踊り出したら、どうしますか？' into English.",
+    "options": [
+      "If ghosts started dancing, what would you do?",
+      "If ghosts started singing, what would you do?",
+      "If ghosts started running, what would you do?",
+      "If ghosts started sleeping, what would you do?"
+    ],
+    "correctAnswer": "If ghosts started dancing, what would you do?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the volitional form of '食べる' to suggest dining together?",
+    "options": [
+      "一緒に食べよう",
+      "一緒に食べます",
+      "一緒に食べる",
+      "一緒に食べない"
+    ],
+    "correctAnswer": "一緒に食べよう"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼女は上司に褒められて、顔が真っ赤になった' into English.",
+    "options": [
+      "She was praised by her boss and her face turned red",
+      "She was scolded by her boss and her face turned red",
+      "She blushed and then laughed",
+      "She was ignored by her boss"
+    ],
+    "correctAnswer": "She was praised by her boss and her face turned red"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a relative clause to modify a noun?",
+    "options": [
+      "昨日買ったシャツは小さすぎた",
+      "昨日、シャツを買った小さすぎた",
+      "昨日買った小さすぎたシャツ",
+      "昨日、買ったシャツは小さい"
+    ],
+    "correctAnswer": "昨日買ったシャツは小さすぎた"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the proper honorific form of '来る'?",
+    "options": ["いらっしゃる", "来る", "おいでになる", "参る"],
+    "correctAnswer": "いらっしゃる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もしタイムマシンで未来に行けたら、何をしたいですか？' into English.",
+    "options": [
+      "If you could travel to the future with a time machine, what would you want to do?",
+      "If you could travel to the past with a time machine, what would you do?",
+      "If you had a time machine, would you stay home?",
+      "If you had a time machine, what would you eat?"
+    ],
+    "correctAnswer": "If you could travel to the future with a time machine, what would you want to do?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the conditional 'と' form?",
+    "options": [
+      "春になると、桜が咲きます",
+      "春になるなら、桜が咲きます",
+      "春になるで、桜が咲きます",
+      "春になって、桜が咲きます"
+    ],
+    "correctAnswer": "春になると、桜が咲きます"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼は寝坊して、バスに乗り遅れた' into English.",
+    "options": [
+      "He overslept and missed the bus",
+      "He overslept and caught the bus",
+      "He woke up early and missed the bus",
+      "He slept well and took the bus"
+    ],
+    "correctAnswer": "He overslept and missed the bus"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the causative-passive form of '読む'?",
+    "options": [
+      "私は友達に本を読まされてしまった",
+      "私は友達に本を読ませた",
+      "私は友達に本を読んだ",
+      "私は友達に本を読ませられた"
+    ],
+    "correctAnswer": "私は友達に本を読まされてしまった"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もし地球が回らなくなったら、何が起こるでしょう？' into English.",
+    "options": [
+      "If the Earth stopped spinning, what would happen?",
+      "If the Earth exploded, what would happen?",
+      "If the Earth moved faster, what would happen?",
+      "If the Earth disappeared, what would happen?"
+    ],
+    "correctAnswer": "If the Earth stopped spinning, what would happen?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past continuous form of '働く'?",
+    "options": [
+      "彼は昨日ずっと働いていました",
+      "彼は昨日ずっと働きました",
+      "彼は昨日ずっと働いていた",
+      "彼は昨日ずっと働きませんでした"
+    ],
+    "correctAnswer": "彼は昨日ずっと働いていました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'あのレストランは、味もサービスも最高です' into English.",
+    "options": [
+      "That restaurant has the best taste and service",
+      "That restaurant has mediocre taste and service",
+      "That restaurant has the worst taste but best service",
+      "That restaurant is expensive"
+    ],
+    "correctAnswer": "That restaurant has the best taste and service"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the te-form for purpose?",
+    "options": [
+      "音楽を聴いてリラックスします",
+      "音楽を聴き、リラックスします",
+      "音楽を聴て、リラックスします",
+      "音楽を聴りながらリラックスします"
+    ],
+    "correctAnswer": "音楽を聴いてリラックスします"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the appropriate humble form of '行く' for oneself?",
+    "options": ["参る", "行く", "いらっしゃる", "おいでになる"],
+    "correctAnswer": "参る"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼は試験前に徹夜で勉強した' into English.",
+    "options": [
+      "He stayed up all night studying before the exam",
+      "He studied all night after the exam",
+      "He took a nap before the exam",
+      "He skipped studying before the exam"
+    ],
+    "correctAnswer": "He stayed up all night studying before the exam"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the potential form of '話す'?",
+    "options": [
+      "彼女は英語が話せる",
+      "彼女は英語を話す",
+      "彼女は英語が話す",
+      "彼女は英語が話さない"
+    ],
+    "correctAnswer": "彼女は英語が話せる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もしドラゴンが現れたら、どう対処しますか？' into English.",
+    "options": [
+      "If a dragon appeared, how would you deal with it?",
+      "If a dragon appeared, would you pet it?",
+      "If a dragon appeared, would you ignore it?",
+      "If a dragon appeared, how would you feed it?"
+    ],
+    "correctAnswer": "If a dragon appeared, how would you deal with it?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly employs the conditional 'ば' with an adjective?",
+    "options": [
+      "高ければ、買いません",
+      "高いば、買いません",
+      "高かったら、買いません",
+      "高くなれば、買いません"
+    ],
+    "correctAnswer": "高ければ、買いません"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼はそのジョークで皆を笑わせた' into English.",
+    "options": [
+      "He made everyone laugh with that joke",
+      "He made everyone cry with that joke",
+      "He laughed at that joke himself",
+      "He ignored the joke"
+    ],
+    "correctAnswer": "He made everyone laugh with that joke"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the past perfect form?",
+    "options": [
+      "宿題が終わってから、テレビを見ました",
+      "宿題が終わった後で、テレビを見ました",
+      "宿題が終わったら、テレビを見ました",
+      "宿題が終わる前に、テレビを見ました"
+    ],
+    "correctAnswer": "宿題が終わってから、テレビを見ました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '先生は学生に本気で質問させた' into English.",
+    "options": [
+      "The teacher made the students ask serious questions",
+      "The teacher asked serious questions",
+      "The teacher answered all the questions",
+      "The teacher ignored the students' questions"
+    ],
+    "correctAnswer": "The teacher made the students ask serious questions"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses an honorific expression for '行く'?",
+    "options": [
+      "社長はオフィスにお見えになりました",
+      "社長はオフィスに行きました",
+      "社長はオフィスに来ました",
+      "社長はオフィスに参りました"
+    ],
+    "correctAnswer": "社長はオフィスにお見えになりました"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もしスマホが突然しゃべり出したら、驚きますよね？' into English.",
+    "options": [
+      "If your smartphone suddenly started talking, you'd be surprised, right?",
+      "If your smartphone suddenly started singing, you'd be surprised, right?",
+      "If your smartphone suddenly broke, you'd be surprised, right?",
+      "If your smartphone suddenly started dancing, you'd be surprised, right?"
+    ],
+    "correctAnswer": "If your smartphone suddenly started talking, you'd be surprised, right?"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the auxiliary '〜すぎる'?",
+    "options": [
+      "このスープは熱すぎる",
+      "このスープは熱くすぎる",
+      "このスープはすぎる熱い",
+      "このスープは熱いすぎる"
+    ],
+    "correctAnswer": "このスープは熱すぎる"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼は昨日、友達にからかわれて、一日中落ち込んでいた' into English.",
+    "options": [
+      "He was teased by his friends yesterday and was depressed all day",
+      "He teased his friends and was happy all day",
+      "He ignored his friends and was depressed",
+      "He was praised by his friends and was happy all day"
+    ],
+    "correctAnswer": "He was teased by his friends yesterday and was depressed all day"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the nominalizer 'の' to turn a verb into a noun?",
+    "options": [
+      "泳ぐのが好きです",
+      "泳ぐが好きです",
+      "泳ぎの好きです",
+      "泳ぐは好きです"
+    ],
+    "correctAnswer": "泳ぐのが好きです"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate 'もし明日地震が起きたら、パニックになるかもしれません' into English.",
+    "options": [
+      "If an earthquake happened tomorrow, I might panic",
+      "If an earthquake happened tomorrow, I would be fine",
+      "If an earthquake happened tomorrow, I would laugh",
+      "If an earthquake happened tomorrow, I would sleep"
+    ],
+    "correctAnswer": "If an earthquake happened tomorrow, I might panic"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses the counter for small animals?",
+    "options": [
+      "猫が二匹います",
+      "猫が二個います",
+      "猫が二人います",
+      "猫が二台います"
+    ],
+    "correctAnswer": "猫が二匹います"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Translate '彼女は図書館で黙々と勉強していた' into English.",
+    "options": [
+      "She was studying silently in the library",
+      "She was talking loudly in the library",
+      "She was sleeping in the library",
+      "She was eating in the library"
+    ],
+    "correctAnswer": "She was studying silently in the library"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "Which sentence correctly uses a humorous exaggeration?",
+    "options": [
+      "お腹が空きすぎて、ゾンビになりそうだ",
+      "お腹が空いて、ゾンビになった",
+      "お腹が空きすぎて、宇宙人になりそうだ",
+      "お腹が空いて、猫になった"
+    ],
+    "correctAnswer": "お腹が空きすぎて、ゾンビになりそうだ"
+  }
+]

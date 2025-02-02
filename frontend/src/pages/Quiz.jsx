@@ -5,9 +5,9 @@ import { useProfileStore } from "../store/useProfileStore";
 
 function Quiz() {
   const location = useLocation();
-  const quizSettings = location.state; // Quiz settings passed from the previous page
+  const quizSettings = location.state; // Contains settings including difficulty, numberOfQuestions, timer, type, etc.
   const navigate = useNavigate();
-  const { updateProfile } = useProfileStore(); // Use the updateProfile function from the store
+  const { updateProfile } = useProfileStore();
 
   // Quiz state
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -21,7 +21,7 @@ function Quiz() {
   const [timeLeft, setTimeLeft] = useState(quizSettings.timer);
   const [isTimedOut, setIsTimedOut] = useState(false);
 
-  // Fisher-Yates shuffle function to randomize questions
+  // Fisher-Yates shuffle function to randomize an array
   const shuffleArray = (array) => {
     const shuffled = [...array];
     for (let i = shuffled.length - 1; i > 0; i--) {
@@ -31,25 +31,51 @@ function Quiz() {
     return shuffled;
   };
 
-  // Fetch and shuffle questions from a local JSON file
+  // Fetch questions from the JSON file, shuffle them, then try to pick questions matching the difficulty.
+  // If there aren’t enough, supplement with questions from the rest of the file.
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        // Updated fetch URL; assumes question.json is in the public folder
-        const response = await fetch("./question.json");
+        const response = await fetch("./newquestion.json");
         const data = await response.json();
-        const shuffledQuestions = shuffleArray(data).slice(
-          0,
-          quizSettings.numberOfQuestions
+
+        // Shuffle the entire dataset
+        const shuffledData = shuffleArray(data);
+
+        // Filter questions that match the chosen difficulty (case-insensitive)
+        const filteredQuestions = shuffledData.filter(
+          (question) =>
+            question.difficulty === quizSettings.difficulty
         );
-        setQuestions(shuffledQuestions);
+
+        let selectedQuestions = [];
+
+        if (filteredQuestions.length >= quizSettings.numberOfQuestions) {
+          // If we have enough questions with the chosen difficulty, randomly pick the desired number.
+          selectedQuestions = shuffleArray(filteredQuestions).slice(0, data.length);
+        } else {
+          // Otherwise, use all filtered questions and supplement with questions from the full set
+          selectedQuestions = [...filteredQuestions];
+          const remainingCount = quizSettings.numberOfQuestions - filteredQuestions.length;
+          
+          // Get additional questions that were not in the filtered list.
+          const additionalQuestions = shuffledData.filter(
+            (question) =>
+              question.difficulty !== quizSettings.difficulty
+          );
+          // Shuffle the additional questions and take as many as needed.
+          const shuffledAdditional = shuffleArray(additionalQuestions).slice(0, remainingCount);
+          selectedQuestions = [...selectedQuestions, ...shuffledAdditional];
+        }
+
+        setQuestions(selectedQuestions);
       } catch (error) {
         console.error("Error fetching questions:", error);
       }
     };
 
     fetchQuestions();
-  }, [quizSettings.numberOfQuestions]);
+  }, [quizSettings.numberOfQuestions, quizSettings.difficulty]);
 
   // Timer logic: decrease time every second if answer not submitted
   useEffect(() => {
@@ -116,7 +142,6 @@ function Quiz() {
     }, 0);
 
     try {
-      // Update profile with quiz statistics using the store's updateProfile function
       await updateProfile({
         QuestionCount: quizSettings.numberOfQuestions,
         QuizCount: 1,

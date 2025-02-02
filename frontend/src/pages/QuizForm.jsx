@@ -51,7 +51,6 @@ const QuizForm = () => {
   return (
     <div className="quiz-form-container">
       {/* Close Button */}
-      <button className="close-button" onClick={handleClose}>✖</button>
 
       {/* Floating Japanese Letters */}
       <div className="form-floating-letters">
@@ -73,6 +72,7 @@ const QuizForm = () => {
         ))}
       </div>
 
+        <button className="close-button-2" onClick={handleClose}>✖</button>
       {/* Form Section */}
       <form className="quiz-form" onSubmit={handleSubmit}>
         <h1>Quiz Settings</h1>
@@ -94,9 +94,9 @@ const QuizForm = () => {
         {/* Difficulty Level Dropdown */}
         <label htmlFor="difficulty">Difficulty Level:</label>
         <select id="difficulty" name="difficulty" value={quizSettings.difficulty} onChange={handleChange}>
-          <option value="easy">Easy</option>
-          <option value="medium">Medium</option>
-          <option value="hard">Hard</option>
+          <option value="Easy">Easy</option>
+          <option value="Medium">Medium</option>
+          <option value="Hard">Hard</option>
         </select>
 
         {/* Timer Slider */}

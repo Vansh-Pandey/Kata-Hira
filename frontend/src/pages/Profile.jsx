@@ -54,7 +54,7 @@ const Profile = ({ onClose }) => {
     <div className="profile-overlay">
       <div className="profile-section">
         {/* Close Button */}
-        <button className="close-button" onClick={onClose}>
+        <button className="close-button-1" onClick={onClose}>
           ×
         </button>
 

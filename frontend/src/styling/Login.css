@@ -1,16 +1,17 @@
 /* Overlay for the panel */
+
 .wrapper {
-    position: fixed;
-    top: 0;
-    left: 0;
+  position: fixed;
+  top: 4%;
+  right: 10%;
     width: 90%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.6); /* Slightly darker semi-transparent background */
+     /* Slightly darker semi-transparent background */
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 999; /* Ensure the modal is on top */
-    backdrop-filter: blur(10px); /* Soft blur effect for the background */
+    backdrop-filter: blur(10px); /*Soft blur effect for the background*/
     margin: 0;
   }
   

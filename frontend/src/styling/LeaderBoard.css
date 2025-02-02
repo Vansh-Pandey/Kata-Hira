@@ -74,18 +74,21 @@
 /* Close Button */
 .close-button {
   position: absolute;
-  top: 12px;
-  right: 12px;
-  background: #e47d7d;
-  color: white;
-  font-size: 24px;
-  border: none;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  cursor: pointer;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  transition: transform 0.3s ease, background-color 0.3s ease;
+top: 12px;
+right: 12px;
+background: #ff0000;
+color: white;
+font-size: 24px;
+border: none;
+padding: 10px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 50%;
+/* width: 20px;
+height: 20px; */
+cursor: pointer;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
 .close-button:hover {

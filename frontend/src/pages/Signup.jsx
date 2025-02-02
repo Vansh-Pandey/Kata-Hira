@@ -25,21 +25,21 @@ const Signup = ({ closePanel, switchToLogin }) => {
   };
 
   const validateForm = () => {
-    if (!formData.fullName.trim()) return toast.error("Fullname is required");
-    if (!formData.email.trim()) return toast.error("Email is required");
-    if (!/\S+@\S+\.\S+/.test(formData.email)) return toast.error("Invalid email address");
-    if (!formData.password) return toast.error("Password is required");
-    if (formData.password.length < 6) return toast.error("Password must be at least 6 characters");
+    if (!formData.fullName.trim()) { toast.error("Fullname is required"); return false;}
+    if (!formData.email.trim()) { toast.error("Email is required"); return false;}
+    if (!/\S+@\S+\.\S+/.test(formData.email))  {toast.error("Invalid email address"); return false;}
+    if (!formData.password)  {toast.error("Password is required"); return false;}
+    if (formData.password.length < 6)  {toast.error("Password must be at least 6 characters"); return false;}
     
     return true;
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     const success = validateForm();
     if (success) {
-      signup(formData);
-      navigate("/home")
+      await signup(formData);
+      navigate("/home");
     }
   };
 

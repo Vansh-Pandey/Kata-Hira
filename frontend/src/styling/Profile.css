@@ -9,25 +9,45 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    width: 90%;
+    width: 100%;
     height: 90%;
-    background-color: rgba(0, 0, 0, 0.5); /* Dimmed background */
+    backdrop-filter: blur(10px); /* Dimmed background */
     display: flex;
     align-items: center;
     justify-content: center;
     z-index: 1000; /* Ensure it appears on top of other content */
    
   }
-  
+  .close-button-1 {
+    position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #ff0000;
+  color: white;
+  font-size: 24px;
+  border: none;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 50%;
+  /* width: 20px;
+  height: 20px; */
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
   
   
   
   /* Profile Panel */
   .profile-section {
+    position: fixed;
+    top: 0;
+    right: 3%;
     background: white;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    width: 90%;
+    width: 80%;
     max-width: 800px;
     max-height: 90vh;
     overflow-y: auto; /* Enable scrolling for overflow */
