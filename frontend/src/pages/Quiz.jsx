@@ -5,7 +5,7 @@ import { useProfileStore } from "../store/useProfileStore";
 
 function Quiz() {
   const location = useLocation();
-  const quizSettings = location.state; // Contains settings including difficulty, numberOfQuestions, timer, type, etc.
+  const quizSettings = location.state; // Contains: difficulty, numberOfQuestions, timer, type, etc.
   const navigate = useNavigate();
   const { updateProfile } = useProfileStore();
 
@@ -31,43 +31,25 @@ function Quiz() {
     return shuffled;
   };
 
-  // Fetch questions from the JSON file, shuffle them, then try to pick questions matching the difficulty.
-  // If there aren’t enough, supplement with questions from the rest of the file.
+  // Fetch questions from the JSON file and filter by the selected difficulty.
+  // Then, shuffle the filtered array and take the desired number of questions.
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
         const response = await fetch("./newquestion.json");
         const data = await response.json();
 
-        // Shuffle the entire dataset
-        const shuffledData = shuffleArray(data);
-
-        // Filter questions that match the chosen difficulty (case-insensitive)
-        const filteredQuestions = shuffledData.filter(
+        // Filter out questions that match the chosen difficulty (case-insensitive)
+        const filteredQuestions = data.filter(
           (question) =>
-            question.difficulty === quizSettings.difficulty
+            question.difficulty.toLowerCase() === quizSettings.difficulty.toLowerCase()
         );
 
-        let selectedQuestions = [];
+        // Shuffle the filtered questions array
+        const shuffledPreferredQuestions = shuffleArray(filteredQuestions);
 
-        if (filteredQuestions.length >= quizSettings.numberOfQuestions) {
-          // If we have enough questions with the chosen difficulty, randomly pick the desired number.
-          selectedQuestions = shuffleArray(filteredQuestions).slice(0, data.length);
-        } else {
-          // Otherwise, use all filtered questions and supplement with questions from the full set
-          selectedQuestions = [...filteredQuestions];
-          const remainingCount = quizSettings.numberOfQuestions - filteredQuestions.length;
-          
-          // Get additional questions that were not in the filtered list.
-          const additionalQuestions = shuffledData.filter(
-            (question) =>
-              question.difficulty !== quizSettings.difficulty
-          );
-          // Shuffle the additional questions and take as many as needed.
-          const shuffledAdditional = shuffleArray(additionalQuestions).slice(0, remainingCount);
-          selectedQuestions = [...selectedQuestions, ...shuffledAdditional];
-        }
-
+        // Take the desired number of questions (or all if not enough)
+        const selectedQuestions = shuffledPreferredQuestions.slice(0, quizSettings.numberOfQuestions);
         setQuestions(selectedQuestions);
       } catch (error) {
         console.error("Error fetching questions:", error);
