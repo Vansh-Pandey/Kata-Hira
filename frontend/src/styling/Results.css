@@ -82,6 +82,8 @@
   margin-bottom: 30px;
   text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
   z-index: 2;
+  position: relative;
+  right: 10px;
   animation: slideUp 1.5s ease-out; /* Slide-in animation for the score */
 }
 
@@ -110,6 +112,8 @@
   position: relative;
   overflow: hidden;
   z-index: 2;
+  position: relative;
+  right: 18px;
 }
 
 .home-button::before,

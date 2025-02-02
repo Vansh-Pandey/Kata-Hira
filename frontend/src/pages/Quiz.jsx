@@ -197,7 +197,7 @@ function Quiz() {
             Submit Answer
           </button>
         ) : (
-          <button onClick={handleNextQuestion}>
+          <button className="next-button" onClick={handleNextQuestion}>
             {currentQuestionIndex < quizSettings.numberOfQuestions - 1
               ? "Next Question"
               : "Finish Quiz"}

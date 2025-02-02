@@ -1,353 +1,349 @@
-/* General Body Styling */
 * {
-    font-family: monospace;
-  }
-  body {
-    margin: 0;
-    font-family: monospace;
-    background-color: #fdfbfb;
-    color: #333;
-    overflow: hidden;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+/* General Body Styling */
+body {
+  margin: 0;
+  font-family: monospace;
+  background-color: #fdfbfb;
+  color: #333;
+  overflow: auto;
+  min-height: 100vh;  /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Home Container with Animated Background */
+.game-home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background: linear-gradient(135deg, #fdfbfb, #ebedee);
+  overflow: hidden;
+  box-shadow: inset 0 0 2vw rgba(0, 0, 0, 0.15);
+  animation: backgroundShift 10s infinite alternate ease-in-out;
+}
+
+/* Profile Icon Container */
+.profile-icon-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1vh 2vw;
+  background-color: #fff;
+  box-shadow: 0 0.6vw 1.2vw rgba(0, 0, 0, 0.1);
+  position: absolute;
+  pointer-events: none;  /* Disables pointer events on the container */
+  top: 0;
+  width: 100%;
+  height: 8vh;
+  z-index: 100;
+  border-bottom: 0.2vw solid rgba(0, 0, 0, 0.1);
+}
+
+/* Enhanced Profile Icon */
+.profile-icon {
+  pointer-events: auto;  /* Enables pointer events on the icon */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 50px;  /* Adjust as needed */
+  width: 6vh;
+  height: 6vh;
+  background: linear-gradient(135deg, #ff8a00, #ffc107);
+  border-radius: 50%;
+  box-shadow: 0 0.8vh 1.5vh rgba(255, 200, 50, 0.5);
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+  border: 0.3vh solid rgba(255, 193, 7, 0.8);
+}
+
+/* Header Area - Contains both the Logo and the Heading */
+.game-header {
+  display: flex;
+  flex-direction: column;  /* Stack logo and title on small screens */
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;  /* Space between logo and title */
+  margin-bottom: 0;
+  z-index: 2;
+  width: 90%;
+}
+
+/* Game Logo placed to the left of the heading text */
+.game-logo {
+  display: inline-block;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: italic;
+  padding: 1vh;
+  position: relative;
+  top: 20px;
+  width: 7vh;
+  height: 7vh;
+  background-color: black;
+  color: white;
+  border-radius: 50% 50% 0 0;
+  box-shadow: 0.4vw 0.6vw rgba(0, 0, 0, 0.6);
+  animation: spin 5s infinite linear, fadeIn 1s ease-in-out, wobble 2s infinite ease-in-out;
+  transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+  flex-shrink: 0;
+}
+
+.game-logo:hover {
+  transform: rotate(-45deg);
+  box-shadow: 0.6vw 0.4vw rgba(0, 0, 0, 0.6);
+}
+
+.game-subtitle{
+  position: relative;
+  right: 18px;
+  font-size: 15px;
+}
+/* Game Title Text */
+.game-title {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #0c0b0b;
+  text-shadow: 0.5rem 0.5rem rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease-in-out;
+}
+
+.game-title:hover {
+  text-shadow: 
+    -0.2rem -0.2rem 0 rgba(46, 5, 5, 0.7), 
+    0.2rem -0.2rem 0 rgba(6, 19, 6, 0.7),  
+    -0.2rem 0.2rem 0 rgba(12, 12, 46, 0.7),  
+    0.2rem 0.2rem 0 rgba(0, 0, 0, 0.5);
+  animation: crackEffect 0.5s ease-out forwards;
+}
+
+/* Buttons Container */
+.center-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5vh;
+  margin-top: 2vh;
+  z-index: 2;
+}
+
+/* Start and Leaderboard Buttons */
+.start-button,
+.leaderboard-button {
+  font-size: 1.2rem;
+  border-radius: 1vh;
+  width: 25vw;
+  max-width: 180px;
+  height: 10vh;
+  max-height: 70px;
+  box-shadow: 0.8vw 0.6vw rgba(0, 0, 0, 0.7);
+  transition: all 0.3s ease-in-out;
+}
+
+.start-button:hover,
+.leaderboard-button:hover {
+  border-radius: 3vh;
+  background: linear-gradient(135deg, #cbc5c5, #b3b3b3);
+  color: black;
+  font-weight: bold;
+  padding-bottom: 1vh;
+  transform: scale(1.1) rotate(-3deg);
+  box-shadow: 0.8vw 0.8vw rgba(0, 0, 0, 0.8);
+}
+
+/* Logout Button (from Uiverse.io by MUJTABA201566) */
+/* Positioned in the bottom left of the viewport */
+.Btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 6vh;
+  height: 6vh;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  bottom: 1vh;
+  left: 1vw;
+  overflow: hidden;
+  border: 0.1vh solid black;
+  position: relative;
+  left: 10px;
+  bottom: 10px;
+  transition-duration: 0.8s;
+  box-shadow: 0.8vw 0.8vw rgba(0, 0, 0, 0.2);
+  background-color: white;
+  z-index: 400;
+}
+
+/* Plus sign inside logout button */
+.sign {
   
-  /* Home Container with Animated Background */
-  .game-home-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    width: 100vw;
-    position: relative;
-    background: linear-gradient(135deg, #fdfbfb, #ebedee);
-    overflow: hidden;
-    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.15);
-    animation: backgroundShift 10s infinite alternate ease-in-out;
-  }
-  
-  /* Profile Icon Container */
-  .profile-icon-container {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: #fff;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    position: absolute;
-    top: 0;
-    height: 60px;
-    width: 100%;
-    z-index: 100;
-    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Enhanced Profile Icon */
-  .profile-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50px;
-    width: 50px;
-    position: relative;
-    
-    background: linear-gradient(135deg, #ff8a00, #ffc107);
-    border-radius: 50%;
-    box-shadow: 0 8px 15px rgba(255, 200, 50, 0.5);
-    cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
-    border: 3px solid rgba(255, 193, 7, 0.8);
-  }
-  
-  /* Header Styling */
+  width: 100%;
+  transition-duration: 0.8s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sign svg {
+  width: 1.7vh;
+}
+
+.sign svg path {
+  fill: black;
+}
+
+/* Text inside logout button */
+.text {
+  position: absolute;
+  right: 0;
+  width: 0;
+  opacity: 0;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 600;
+  transition-duration: 0.8s;
+}
+
+/* Hover effects on the logout button (.Btn) */
+.Btn:hover {
+  background-color: black;
+  width: 12vh;
+  border-radius: 3vh;
+  transition-duration: 0.8s;
+}
+
+.Btn:hover .sign {
+  width: 30%;
+  transition-duration: 0.8s;
+  padding-left: 1vw;
+}
+
+.Btn:hover .sign svg path {
+  fill: white;
+}
+
+.Btn:hover .text {
+  opacity: 1;
+  width: 70%;
+  transition-duration: 0.8s;
+  padding-right: 1vw;
+}
+
+.Btn:active {
+  transform: translate(0.2vh, 0.2vh);
+}
+
+/* Japanese Letters Animation */
+.japanese-letter1 {
+  position: absolute;
+  font-size: 1.8rem;
+  color: #05061a;
+  opacity: 0.8;
+  user-select: none;
+  animation: roam 15s infinite alternate ease-in-out, fadeIn 2s ease-in-out infinite;
+  pointer-events: none;
+  text-shadow: 0.2rem 0.2rem rgba(0, 0, 0, 0.2);
+  --start-x: calc(0.1 + 0.8 * var(--i));
+  --start-y: calc(0.1 + 0.8 * var(--i));
+}
+
+/* Footer Animation */
+.home-footer {
+  position: absolute;
+  bottom: 1vh;
+  width: 100%;
+  text-align: center;
+  font-size: 0.7rem;
+  animation: fadeUp 3s ease-in-out;
+}
+
+/* Responsive Adjustments via Media Queries */
+@media (max-width: 768px) {
   .game-header {
-    position: relative;
-    bottom: 70px;
-    left: 40px;
-    text-align: center;
-    margin-bottom: 20px;
-    z-index: 2;
-    color: #0c0b0b;
-    font-size: 2rem;
-    font-weight: 700;
-    text-shadow: 5px 5px rgba(0, 0, 0, 0.3);
-    animation: fadeIn 3s ease-in-out, floatingText 5s infinite alternate ease-in-out;
+    font-size: 1.5rem;
+    /* Optionally, change flex-direction to row if you want logo and title side-by-side */
+    flex-direction: row;
   }
-  .game-title{
-    transition: all 0.3s ease-in-out;
-  }
-  .game-title:hover {
-     
-    text-shadow: 
-      -2px -2px 0px rgba(46, 5, 5, 0.7), 
-      2px -2px 0px rgba(6, 19, 6, 0.7),  
-      -2px 2px 0px rgba(12, 12, 46, 0.7),  
-      2px 2px 0px rgba(0, 0, 0, 0.5);     
-    animation: crackEffect 0.5s ease-out forwards;
-  }
-  /* Buttons */
-  .center-buttons {
-    position: relative;
-    bottom: 40px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 50px;
-    margin-top: 20px;
-    z-index: 2;
-  }
-  
   .start-button,
   .leaderboard-button {
-    font-size: 20px;
-    border-radius: 10px;
-    width: 180px;
-    height: 70px;
-    box-shadow: 10px 6px rgba(0, 0, 0, 0.7);
-    transition: all 0.3s ease-in-out;
-  }
-  .start-button:hover,
-  .leaderboard-button:hover {
-    border-radius: 50px;
-    background: linear-gradient(135deg, #cbc5c5, #b3b3b3);
-    color: black;
-    font-weight: bold;
-    padding-bottom: 10px;
-    transform: scale(1.1) rotate(-3deg);
-    box-shadow: 8px 8px rgba(0, 0, 0, 0.8);
-  }
-  
-  
-  
-  /* From Uiverse.io by MUJTABA201566 */ 
-  .Btn {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    width: 65px;
-    height: 65px;
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-    position: relative;
-    overflow: hidden;
-    border: 1px solid black;
-    transition-duration: 0.8s;
-    box-shadow: 10px  10px rgba(0, 0, 0, 0.199);
-    background-color: white;
-    position: relative;
-    right: 670px;
-    top: 10px;
-    z-index: 400;
-  }
-  
-  /* plus sign */
-  .sign {
-    width: 100%;
-    transition-duration: 0.8s;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .sign svg {
-    width: 17px;
-  }
-  
-  .sign svg path {
-    fill: black;
-  }
-  /* text */
-  .text {
-    position: absolute;
-    right: 0%;
-    width: 0%;
-    opacity: 0;
-    color: white;
-    font-size: 1.2em;
-    font-weight: 600;
-    transition-duration: 0.8s;
-  }
-  /* hover effect on button width */
-  .Btn:hover {
-    background-color: black;
-    width: 125px;
-    border-radius: 40px;
-    transition-duration: 0.8s;
-  }
-  
-  .Btn:hover .sign {
-    width: 30%;
-    transition-duration: 0.8s;
-    padding-left: 20px;
-  }
-  
-  .Btn:hover .sign svg path {
-    fill: white;
-  }
-  
-  /* hover effect button's text */
-  .Btn:hover .text {
-    opacity: 1;
-    width: 70%;
-    transition-duration: 0.8s;
-    padding-right: 10px;
-  }
-  /* button click effect*/
-  .Btn:active {
-    transform: translate(2px, 2px);
-  }
-  
-  /* Japanese Letters Animation */
-  .japanese-letter1 {
-    position: absolute;
-    font-size: 1.8rem;
-    color: #05061a;
-    opacity: 0.8;
-    user-select: none;
-    animation: roam 15s infinite alternate ease-in-out, fadeIn 2s ease-in-out infinite;
-    pointer-events: none;
-    text-shadow: 2px 2px rgba(0, 0, 0, 0.2);
-    --start-x: calc(0.1 + 0.8 * var(--i)); /* Random horizontal start */
-    --start-y: calc(0.1 + 0.8 * var(--i)); /* Random vertical start */
-  }
-  
-  
-  /* Game Logo */
-  .game-logo {
-  
-    position: relative;
-    top: 155px; right: 30px;
-    text-align: center;
     font-size: 1rem;
-    font-family: monospace;
-    font-weight: 700;
-    font-style: italic;
-    padding: 10px;
-    height: 67px;
-    width: 67px;
-    background-color: black;
-    color: white;
-    border-radius: 50% 50% 0% 0%;
-    box-shadow: 4px 6px rgba(0, 0, 0, 0.6);
-    animation: spin 5s infinite linear, fadeIn 1s ease-in-out, wobble 2s infinite ease-in-out;
-    transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+    width: 30vw;
   }
-  .game-logo:hover{
-    transform:rotate(-45deg);
-    box-shadow: 6px 4px rgb(0,0,0,0.6);
+  .game-logo {
+    font-size: 0.8rem;
   }
-  /* Footer Animation */
-  .home-footer {
-    position: absolute;
-    bottom: 10px;
-    width: 100%;
-    text-align: center;
+}
+
+@media (max-width: 480px) {
+  .game-header {
+    font-size: 1.2rem;
+    flex-direction: column;
+  }
+  .start-button,
+  .leaderboard-button {
+    font-size: 0.8rem;
+    width: 35vw;
+  }
+  .game-logo {
     font-size: 0.7rem;
-    animation: fadeUp 3s ease-in-out;
   }
-  
-  /* Responsive Adjustments */
-  @media (max-width: 768px) {
-    .profile-icon {
-      height: 40px;
-      width: 40px;
-    }
-  
-    .game-header {
-      font-size: 1.5rem;
-    }
-  
-    .start-button,
-    .leaderboard-button {
-      width: 140px;
-      height: 40px;
-      font-size: 0.9rem;
-    }
-  
-    .japanese-letter1 {
-      font-size: 1.5rem;
-    }
-  
-    .game-logo {
-      font-size: 0.8rem;
-      height: 60px;
-      width: 60px;
-    }
+}
+
+/* Example Keyframes (if not already defined) */
+@keyframes crackEffect {
+  0% {
+    transform: scale(1);
+    text-shadow: 
+      -0.1rem -0.1rem 0 rgba(255, 0, 0, 0.7),
+      0.1rem -0.1rem 0 rgba(0, 255, 0, 0.7),
+      -0.1rem 0.1rem 0 rgba(0, 0, 255, 0.7),
+      0.1rem 0.1rem 0 rgba(0, 0, 0, 0.5);
   }
-  
-  @media (max-width: 480px) {
-    .profile-icon {
-      height: 35px;
-      width: 35px;
-    }
-  
-    .game-header {
-      font-size: 1.2rem;
-    }
-  
-    .start-button,
-    .leaderboard-button {
-      width: 120px;
-      height: 35px;
-      font-size: 0.8rem;
-    }
-  
-    .japanese-letter1 {
-      font-size: 1.2rem;
-    }
-  
-    .game-logo {
-      font-size: 0.7rem;
-      height: 35px;
-      width: 35px;
-    }
+  50% {
+    transform: scale(1.05);
+    text-shadow: 
+      -0.4rem -0.4rem 0 rgba(255, 0, 0, 0.7),
+      0.4rem -0.4rem 0 rgba(0, 255, 0, 0.7),
+      -0.4rem 0.4rem 0 rgba(0, 0, 255, 0.7),
+      0.4rem 0.4rem 0 rgba(0, 0, 0, 0.5);
   }
-  @keyframes crackEffect {
-    0% {
-      transform: scale(1);
-      text-shadow: 
-        -1px -1px 0px rgba(255, 0, 0, 0.7),
-        1px -1px 0px rgba(0, 255, 0, 0.7),
-        -1px 1px 0px rgba(0, 0, 255, 0.7),
-        1px 1px 0px rgba(0, 0, 0, 0.5);
-    }
-    50% {
-      transform: scale(1.05);
-      text-shadow: 
-        -4px -4px 0px rgba(255, 0, 0, 0.7),
-        4px -4px 0px rgba(0, 255, 0, 0.7),
-        -4px 4px 0px rgba(0, 0, 255, 0.7),
-        4px 4px 0px rgba(0, 0, 0, 0.5);
-    }
-    100% {
-      transform: scale(1);
-      text-shadow: 
-        -2px -2px 0px rgba(255, 0, 0, 0.7),
-        2px -2px 0px rgba(0, 255, 0, 0.7),
-        -2px 2px 0px rgba(0, 0, 255, 0.7),
-        2px 2px 0px rgba(0, 0, 0, 0.5);
-    }
+  100% {
+    transform: scale(1);
+    text-shadow: 
+      -0.2rem -0.2rem 0 rgba(255, 0, 0, 0.7),
+      0.2rem -0.2rem 0 rgba(0, 255, 0, 0.7),
+      -0.2rem 0.2rem 0 rgba(0, 0, 255, 0.7),
+      0.2rem 0.2rem 0 rgba(0, 0, 0, 0.5);
   }
-  
-  @keyframes roam {
-    0% {
-      transform: translate(calc(var(--start-x) * 100vw), calc(var(--start-y) * 100vh)) scale(1);
-    }
-    25% {
-      transform: translate(calc(var(--start-x) * 100vw - 10vw), calc(var(--start-y) * 100vh + 15vh)) scale(1.1);
-    }
-    50% {
-      transform: translate(calc(var(--start-x) * 100vw + 20vw), calc(var(--start-y) * 100vh - 10vh)) scale(0.9);
-    }
-    75% {
-      transform: translate(calc(var(--start-x) * 100vw - 15vw), calc(var(--start-y) * 100vh + 5vh)) scale(1.05);
-    }
-    100% {
-      transform: translate(calc(var(--start-x) * 100vw), calc(var(--start-y) * 100vh)) scale(1);
-    }
+}
+
+@keyframes roam {
+  0% {
+    transform: translate(calc(var(--start-x) * 100vw), calc(var(--start-y) * 100vh)) scale(1);
   }
-  
+  25% {
+    transform: translate(calc(var(--start-x) * 100vw - 10vw), calc(var(--start-y) * 100vh + 15vh)) scale(1.1);
+  }
+  50% {
+    transform: translate(calc(var(--start-x) * 100vw + 20vw), calc(var(--start-y) * 100vh - 10vh)) scale(0.9);
+  }
+  75% {
+    transform: translate(calc(var(--start-x) * 100vw - 15vw), calc(var(--start-y) * 100vh + 5vh)) scale(1.05);
+  }
+  100% {
+    transform: translate(calc(var(--start-x) * 100vw), calc(var(--start-y) * 100vh)) scale(1);
+  }
+}
+

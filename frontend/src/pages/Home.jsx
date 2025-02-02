@@ -17,7 +17,7 @@ const Home = () => {
     await logout();
     toast.success("You have been logged out.", {
       position: "top-right",
-      autoClose: 500,
+      autoClose: 200,
     });
     setTimeout(() => {
       navigate("/");

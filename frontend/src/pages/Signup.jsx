@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { useAuthStore } from '../store/useAuthStore';
 import { FaUser, FaLock, FaEnvelope } from "react-icons/fa";
 import "../styling/Signup.css";
+import { useNavigate } from 'react-router-dom';
+
 
 // Import toast and ToastContainer from react-toastify
 import { toast, ToastContainer } from "react-toastify";
@@ -10,7 +12,7 @@ import "react-toastify/dist/ReactToastify.css";
 const Signup = ({ closePanel, switchToLogin }) => {
   // Get values from your auth store in a single call
   const { authUser, signup, isRegistering } = useAuthStore();
-  
+  const navigate=useNavigate();
   const [showPassword, setShowPassword] = useState(false);
   const [formData, setFormData] = useState({
     fullName: "",
@@ -37,6 +39,7 @@ const Signup = ({ closePanel, switchToLogin }) => {
     const success = validateForm();
     if (success) {
       signup(formData);
+      navigate("/home")
     }
   };
 

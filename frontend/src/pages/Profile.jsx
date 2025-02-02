@@ -60,7 +60,7 @@ const Profile = ({ onClose }) => {
 
         {/* Profile header with user info */}
         <div className="profile-header">
-          <img src="achievement1.jpg" alt="Profile" className="profile-pic" />
+          <img src="/user.jpg" alt="" className="profile-pic" />
           <div className="profile-info">
             <div className="name">{profile.Username || "John Doe"}</div>
             <div className="email">{profile.Email}</div>

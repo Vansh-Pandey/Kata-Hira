@@ -15,7 +15,9 @@
   
   /* Header Styling */
   .quiz-header {
-    
+    position: absolute;
+    top: 10px;
+
     width: 100%;
     background-color: #4caf50;
     padding: 15px 20px;
@@ -36,7 +38,9 @@
   
   /* Question styling */
   .quiz-question {
-    font-size: 2.2em;
+    font-size: 2em;
+    position: relative;
+    right: 15px;
     margin: 30px 0;
     font-weight: bold;
     color: #333;
@@ -49,15 +53,17 @@
   .quiz-options {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 20px;
+    gap: 15px;
+    position: relative;
+    right: 20px;
     margin: 20px 0;
-    width: 90%;
+    width: 85%;
     max-width: 800px;
   }
   
   .quiz-options button {
     width: 100%;
-    height: 150px;
+    height: 120px;
     padding: 20px;
     border: none;
     border-radius: 20px;
@@ -128,11 +134,20 @@
     font-size: 1.8em;
     margin: 20px 0;
     font-weight: bold;
+    font-size: 15px;
+    position: relative;
+    bottom: 8px;
+    right: 8px;
     animation: fadeIn 1s;
     
   }
   .end-quiz-button{
-    margin-left:20px ;
+    margin-right:20px ;
+    width: 125px;
+  }
+  .next-button{
+    width: 125px;
+    margin-right: 20px ;
   }
   .quiz-feedback.correct {
     color: #4caf50;
@@ -152,6 +167,8 @@
   .quiz-navigation button {
     padding: 15px 30px;
     font-size: 1.5em;
+    width: 125px;
+    margin-right: 20px;
     background-color: #4caf50;
     color: white;
     border: none;
@@ -199,16 +216,7 @@ button.correct {
     opacity: 0.8;
   }
   
-  /* Feedback Text */
-  .quiz-feedback.correct {
-    color: #4caf50;
-    font-weight: bold;
-  }
   
-  .quiz-feedback.incorrect {
-    color: #f44336;
-    font-weight: bold;
-  }
   
   /* Animations */
   @keyframes fadeIn {

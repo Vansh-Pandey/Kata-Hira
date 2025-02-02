@@ -19,7 +19,6 @@ export const useProfileStore = create((set) => ({
       set({ profile: res.data });
     } catch (error) {
       console.error("Error fetching profile:", error);
-      toast.error(error.response?.data?.error || "Failed to fetch profile");
     } finally {
       set({ isFetchingProfile: false });
     }
@@ -31,10 +30,9 @@ export const useProfileStore = create((set) => ({
     try {
       const res = await axiosInstance.patch("/profile/update", updatedData);
       set({ profile: res.data });
-      toast.success("Profile updated successfully");
     } catch (error) {
       console.error("Error updating profile:", error);
-      toast.error(error.response?.data?.error || "Failed to update profile");
+      
     } finally {
       set({ isUpdatingProfile: false });
     }
@@ -75,10 +73,10 @@ export const useProfileStore = create((set) => ({
       const res = await axiosInstance.patch("/profile/leaderboard", updateData);
       // Optionally update local leaderboard state if the API returns updated leaderboard data.
       // For now, we simply show a success message.
-      toast.success("Leaderboard updated successfully");
+      
     } catch (error) {
       console.error("Error updating leaderboard:", error);
-      toast.error(error.response?.data?.error || "Failed to update leaderboard");
+      
     } finally {
       set({ isUpdatingLeaderboard: false });
     }

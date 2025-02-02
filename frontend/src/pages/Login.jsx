@@ -5,7 +5,7 @@ import Signup from "./Signup";
 import "../styling/Login.css";
 
 import { FaUser, FaLock } from "react-icons/fa";
-import { ToastContainer } from "react-toastify";
+import { toast,ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const Login = ({ closePanel }) => {
@@ -24,7 +24,8 @@ const Login = ({ closePanel }) => {
     e.preventDefault();
     const success = await login(formData);
     if (success) {
-      navigate("/home"); // Redirect to home on successful login
+      
+      navigate("/home")
     }
   };
 
